@@ -3,7 +3,7 @@ layout: meeting
 title: Master Class with Sulaiman Zai
 excerpt: Sulaiman coaches four BGS members
 ---
-![Sulaiman Zai](../pics/20250224-SulaimanZai.jpg)
+![Sulaiman Zai](/pics/20250224-SulaimanZai.jpg)
 
 This month, we're doing something special for our monthly meeting! 
 Sulaiman Zai will be hosting a master class featuring several local guitarists.
