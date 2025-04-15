@@ -1,5 +1,5 @@
 ---
-layout: meeting
+layout: default
 title: Mark and Friends
 excerpt: Mark Limber and five friends put on a performance.
 ---

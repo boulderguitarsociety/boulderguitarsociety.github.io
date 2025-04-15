@@ -1,0 +1,53 @@
+/* ©2025 Boulder Guitar Society */
+/**********************************************************/
+/*                       common.css                       */
+/*                                                        */
+/* Supports yellow/tan/brown paper for default.html       */
+/*                                                        */
+/**********************************************************/
+
+body {
+   /* the overall dark brown background layer */
+   background: rgb(255, 255, 255) url(/stylings/PrintedPaper_browser_backgr-1.jpg) repeat scroll top left;
+   font-family: 'Arial', sans-serif;
+   color: rgb(78, 29, 2);
+   margin: 0pt;
+}
+
+#body_content {
+   /* the inner yellow/tan background layer */
+   background: transparent url(/stylings/PrintedPaper_background-2.jpg) repeat scroll top left;
+   width: 700px;
+   min-height: 480px;
+   margin-bottom: 0px; 
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 0px;
+   overflow: hidden;
+   position: relative;
+   word-wrap: break-word;
+   text-align: left;
+}
+
+#body_content p {
+   /* text to fit in the yellow area */
+   width: 490px;
+   margin-left: 30px;
+   margin-right: 0px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   line-height: 18px;
+   font-size: 15px;
+   font-stretch: normal;
+   font-style: normal;
+   font-weight: 400;
+   font-variant: normal;
+   letter-spacing: 0;
+   opacity: 1.00;
+   padding-bottom: 0px;
+   padding-top: 0px;
+   text-align: left;
+   text-decoration: none;
+   text-indent: 0px;
+   text-transform: none;
+}
