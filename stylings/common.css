@@ -55,14 +55,14 @@ body {
 .meeting h1 {
    color: rgb(209, 84, 57);
    font-family: 'Times New Roman', serif;
-   font-size: 48px;
+   font-size: 40px;
    line-height: 55px;
    margin-left: 30px;
 }
 
 .meeting h2 {
    font-family: 'Times New Roman', serif;
-   font-size: 36px;
+   font-size: 30px;
    margin-left: 30px;
 }
 
