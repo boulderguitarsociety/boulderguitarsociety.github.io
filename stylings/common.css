@@ -51,3 +51,34 @@ body {
    text-indent: 0px;
    text-transform: none;
 }
+
+.meeting h1 {
+   color: rgb(209, 84, 57);
+   font-family: 'Times New Roman', serif;
+   font-size: 54px;
+   font-weight: 600;
+   line-height: 61px;
+   margin-left: 30px;
+}
+
+.meeting img {
+   max-width: 600px;
+}
+
+#footer {
+   height: 80px;
+   margin-left: 0px;
+   position: relative;
+   width: 700px;
+   z-index: 0;
+}
+
+#wgly3 {
+   border: none;
+   height: 6px;
+   width: 531px;
+   height: 6px;
+   position: absolute;
+   left: -45px;
+   top: 65px;
+   z-index: 1;
