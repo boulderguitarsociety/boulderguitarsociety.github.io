@@ -1,6 +1,6 @@
 ---
 layout: meeting
-title: A Master Class with Sulaiman Zai
+title: Sulaiman Zai Master Class
 excerpt: Sulaiman coaches four BGS members
 ---
 ![Sulaiman Zai](/pics/20250224-SulaimanZai.jpg)
