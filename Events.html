@@ -1,0 +1,23 @@
+---
+layout: default
+title: BGS Events
+---
+
+<div class="events">
+
+   <h1>{{ page.title }}</h1>
+
+   <p>{{ page.excerpt }}</p>
+
+{% for post in site.posts %}
+  <p><a href="{{ post.url }}">{{ post.title }}</a><br>
+  {{ post.description }}<br>
+  {{ post.date | date: "%B %e, %Y" }}</p>
+{% endfor %}
+
+   <div id="footer">
+      <div id="wgly3">
+         <img src="/stylings/PrintedPaper_line-3_3.png" alt="">
+      </div>
+   </div>
+</div>
