@@ -1,0 +1,35 @@
+---
+layout: base
+---
+
+<div class="events">
+
+   <h1>{{ page.title }}</h1>
+
+   <h2>Upcoming Events:</h2>
+   {{ content }}
+
+   <h2>Latest Event:</h2>
+   {% assign latest = site.posts.first %}
+   <p><a href="{{ latest.url }}">{{ latest.title }}</a><br>
+   {{ latest.excerpt }}<br>
+   {{ latest.date | date: "%B %e, %Y" }}</p>
+   <div class="meeting">
+      {{ latest.content }}
+   </div>
+
+   <h2>Other Recent Events:</h2>
+   {% for post in site.posts %}
+      {% unless post == latest %}
+         <p><a href="{{ post.url }}">{{ post.title }}</a><br>
+         {{ post.excerpt }}<br>
+         {{ post.date | date: "%B %e, %Y" }}</p>
+      {% endunless %}
+   {% endfor %}
+
+   <div id="footer">
+      <div id="wgly3">
+         <img src="/stylings/PrintedPaper_line-3_3.png" alt="">
+      </div>
+   </div>
+</div>
