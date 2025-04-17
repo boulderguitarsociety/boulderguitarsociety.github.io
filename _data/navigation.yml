@@ -1,0 +1,12 @@
+- name: Welcome
+  link: /Welcome
+- name: Meetings
+  link: /Meetings
+- name: Events
+  link: /Events
+- name: About
+  link: /About
+- name: Education
+  link: /Education
+- name: Links
+  link: /Links
