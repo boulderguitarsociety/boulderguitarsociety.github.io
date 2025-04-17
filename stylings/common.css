@@ -52,7 +52,7 @@ body {
    text-transform: none;
 }
 
-.navbar {
+#navbar {
    font-family: 'Comic Sans MS', sans-serif;
 	font-size: .9em;
 	color: #62462E;
