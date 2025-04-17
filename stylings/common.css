@@ -52,10 +52,30 @@ body {
    text-transform: none;
 }
 
-.upcoming {
-   width: 490;
-   height: 150;
-   margin-left: 30px;
+.navbar {
+   font-family: 'Comic Sans MS', sans-serif;
+	font-size: .9em;
+	color: #62462E;
+	line-height: 40px;
+	text-transform: uppercase;
+}
+
+.noncurrent-page {
+   display: inline-block;
+}
+
+.noncurrent-page a {
+   text-decoration: none;
+	color: #62462E;
+}
+
+.current-page {
+   display: inline-block;
+}
+
+.current-page a {
+   text-decoration: none;
+	color: #C75624;
 }
 
 .meeting h1 {
