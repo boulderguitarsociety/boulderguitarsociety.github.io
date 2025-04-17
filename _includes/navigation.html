@@ -1,5 +1,9 @@
 <div id="navbar">
   {% for item in site.data.navigation %}
-    <a href="{{ item.link }}">{{ item.name }}</a>
+    {% if item.name == current %}
+      <div class="current-page"><a href="">{{ item.name }}</a></div>
+    {% else %}
+      <div class="noncurrent-page"><a href="{{ item.link }}">{{ item.name }}</a></div>
+    {% endif %}
   {% endfor %}
 </div>
