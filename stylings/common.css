@@ -54,10 +54,10 @@ body {
 
 #navbar {
    font-family: 'Comic Sans MS', sans-serif;
-	font-size: .9em;
-	color: #62462E;
-	line-height: 40px;
-	text-transform: uppercase;
+   font-size: .9em;
+   color: #62462E;
+   line-height: 40px;
+   text-transform: uppercase;
 }
 
 .noncurrent-page {
@@ -66,7 +66,7 @@ body {
 
 .noncurrent-page a {
    text-decoration: none;
-	color: #62462E;
+   color: #62462E;
 }
 
 .current-page {
@@ -75,7 +75,7 @@ body {
 
 .current-page a {
    text-decoration: none;
-	color: #C75624;
+   color: #C75624;
 }
 
 .meeting h1 {
