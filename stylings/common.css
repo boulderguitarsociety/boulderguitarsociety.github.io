@@ -99,7 +99,7 @@ body {
    /* for the wiggly line BELOW the header */
    position: absolute;
    left: -236px;
-   top: 75px;
+   top: 73px;
    width: 531px;
    height: 6px;
    z-index: 1;
@@ -113,13 +113,13 @@ body {
    line-height: 40px;
    text-transform: uppercase;
    margin-left: 30px;
-   margin-top: 50px;
+   margin-top: 25px;
 }
 
 .noncurrent-page {
    display: inline-block;
    margin-left: 0px;
-   margin-right: 30px;
+   margin-right: 20px;
 }
 
 .noncurrent-page a {
@@ -130,7 +130,7 @@ body {
 .current-page {
    display: inline-block;
    margin-left: 0px;
-   margin-right: 30px;
+   margin-right: 20px;
 }
 
 .current-page a {
