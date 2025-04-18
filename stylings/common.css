@@ -147,7 +147,7 @@ body {
    color: #C75624;
 }
 
-#latest_ttl {
+#latest_ttl p {
    color: rgb(209, 84, 57);
    font-family: 'Times New Roman', serif;
    font-size: 40px;
@@ -156,6 +156,11 @@ body {
 }
 
 #latest_ttl a {
+   text-decoration: none;
+}
+
+#latest_ttl a:visited {
+   color: rgb(209, 84, 57);
    text-decoration: none;
 }
 
