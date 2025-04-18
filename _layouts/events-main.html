@@ -4,7 +4,14 @@ layout: base
 
 <div class="events">
 
-   <h1>{{ page.title }}</h1>
+   <div id="header_zone">
+      <img id="wgly1" src="/stylings/PrintedPaper_line-3.png" alt="">
+      <div id="header_pos">
+         <p class="header_txt">{{ page.title }}</p>
+      </div>
+      <img id="wgly2" src="/stylings/PrintedPaper_line-3_2.png" alt="">
+   </div>
+
    {% assign current = "Events" %}
    {% include navigation.html %}
 
@@ -14,8 +21,8 @@ layout: base
    <h2>Our Latest Event:</h2>
    {% assign latest = site.posts.first %}
    <p><a href="{{ latest.url }}">{{ latest.title }}</a><br>
-   {{ latest.excerpt }}<br>
-   {{ latest.date | date: "%B %e, %Y" }}</p>
+   {{ latest.date | date: "%B %e, %Y" }}<br>
+   {{ latest.excerpt }}</p>
    <div class="meeting">
       {{ latest.content }}
    </div>

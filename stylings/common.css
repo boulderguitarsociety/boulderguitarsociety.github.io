@@ -52,6 +52,58 @@ body {
    text-transform: none;
 }
 
+#header_zone {
+   /* the box within which header parts are positioned absolutely */
+   position: relative;
+   width: 700px;
+   height: 78px;
+   margin-left: 0px;
+   z-index: 5;
+}
+
+#header_pos {
+   /* positions the header tx/img within the header_zone */
+   position: absolute;
+   left: 30px;
+   top: 17px;
+   width: 530px;
+   height: 61px;
+   z-index: 1;
+}
+
+.header_txt {
+    /* style for font-based headers within header_pos */
+    color: rgb(209, 84, 57);
+    font-family: 'Times New Roman', serif;
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 61px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#wgly1 {
+   /* for the wiggly line ABOVE the header */
+   position: absolute;
+   left: -234px;
+   top: 15px;
+   width: 531px;
+   height: 6px;
+   z-index: 1;
+   border: none;
+}
+
+#wgly2 {
+   /* for the wiggly line BELOW the header */
+   position: absolute;
+   left: -236px;
+   top: 79px;
+   width: 531px;
+   height: 6px;
+   z-index: 1;
+   border: none;
+}
+
 #navbar {
    font-family: 'Comic Sans MS', sans-serif;
    font-size: .9em;
