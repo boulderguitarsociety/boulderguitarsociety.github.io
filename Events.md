@@ -1,6 +1,6 @@
 ---
 layout: events-main
-title: BGS Events
+title: Events
 ---
 
 * April 28 - Miguel Espinoza
