@@ -52,6 +52,10 @@ body {
    text-transform: none;
 }
 
+#body_content h1, h2, h3, h4 {
+   margin-left: 30px;
+}
+
 #header_zone {
    /* the box within which header parts are positioned absolutely */
    position: relative;
@@ -99,7 +103,7 @@ body {
    /* for the wiggly line BELOW the header */
    position: absolute;
    left: -236px;
-   top: 73px;
+   top: 74px;
    width: 531px;
    height: 6px;
    z-index: 1;
@@ -113,7 +117,7 @@ body {
    line-height: 40px;
    text-transform: uppercase;
    margin-left: 30px;
-   margin-top: 25px;
+   margin-top: 15px;
 }
 
 .noncurrent-page {
