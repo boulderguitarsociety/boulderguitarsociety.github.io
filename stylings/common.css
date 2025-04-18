@@ -78,6 +78,7 @@ body {
     font-weight: 600;
     font-size: 54px;
     line-height: 61px;
+    width: 530px;
     margin-left: 0px;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -87,7 +88,7 @@ body {
    /* for the wiggly line ABOVE the header */
    position: absolute;
    left: -234px;
-   top: 15px;
+   top: 19px;
    width: 531px;
    height: 6px;
    z-index: 1;
@@ -98,7 +99,7 @@ body {
    /* for the wiggly line BELOW the header */
    position: absolute;
    left: -236px;
-   top: 79px;
+   top: 77px;
    width: 531px;
    height: 6px;
    z-index: 1;
