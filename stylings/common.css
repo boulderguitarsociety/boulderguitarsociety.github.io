@@ -150,9 +150,9 @@ body {
 #latest_ttl p {
    color: rgb(209, 84, 57);
    font-family: 'Times New Roman', serif;
-   font-size: 40px;
-   line-height: 55px;
-   margin-left: 0px;
+   font-size: 36px;
+   line-height: 42px;
+   margin-left: 30px;
 }
 
 #latest_ttl a {
@@ -165,7 +165,7 @@ body {
 }
 
 #latest_ttl a:hover {
-   color: rgb(229, 92, 63);
+   color: rgb(249, 92, 63);
    text-decoration: none;
 }
 
