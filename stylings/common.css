@@ -71,7 +71,7 @@ body {
    z-index: 1;
 }
 
-.header_txt {
+#header_txt {
     /* style for font-based headers within header_pos */
     color: rgb(209, 84, 57);
     font-family: 'Times New Roman', serif;
