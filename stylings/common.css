@@ -131,6 +131,11 @@ body {
    color: #62462E;
 }
 
+.noncurrent-page a:hover {
+   text-decoration: none;
+   color: #D78D4B;
+}
+
 .current-page {
    display: inline-block;
    margin-left: 0px;
@@ -140,6 +145,23 @@ body {
 .current-page a {
    text-decoration: none;
    color: #C75624;
+}
+
+#latest_ttl {
+   color: rgb(209, 84, 57);
+   font-family: 'Times New Roman', serif;
+   font-size: 40px;
+   line-height: 55px;
+   margin-left: 0px;
+}
+
+#latest_ttl a {
+   text-decoration: none;
+}
+
+#latest_ttl a:hover {
+   color: rgb(229, 92, 63);
+   text-decoration: none;
 }
 
 .meeting h1 {

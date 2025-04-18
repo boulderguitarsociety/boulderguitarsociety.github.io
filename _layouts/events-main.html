@@ -22,7 +22,9 @@ layout: base
 
    <h2>Our Latest Event:</h2>
    {% assign latest = site.posts.first %}
-   <h3><a href="{{ latest.url }}">{{ latest.title }}</a></h3>
+   <div id="latest_ttl">
+      <p><a href="{{ latest.url }}">{{ latest.title }}</a></p>
+   </div>
    <p>{{ latest.date | date: "%B %e, %Y" }}</p>
    <p>{{ latest.excerpt }}</p>
    <div class="meeting">
