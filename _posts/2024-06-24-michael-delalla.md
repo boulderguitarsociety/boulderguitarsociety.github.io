@@ -1,7 +1,7 @@
 ---
 layout: meeting
 title: Michael DeLalla
-excerpt: How I built this: Inside a Composer’s Notebook (and new works)
+excerpt: "How I built this: Inside a Composer’s Notebook (and new works)"
 ---
 ![Michael DeLalla](/pics/20240624-MichaelDeLalla.jpg)
 
