@@ -1,0 +1,31 @@
+---
+layout: base
+---
+
+<div class="events">
+
+   <div id="header_zone">
+      <img id="wgly1" src="/stylings/PrintedPaper_line-3.png" alt="">
+      <div id="header_pos">
+         <div id="header_txt">
+            <p>Event History</p>
+         </div>
+      </div>
+      <img id="wgly2" src="/stylings/PrintedPaper_line-3_2.png" alt="">
+   </div>
+
+   {% assign current = "Events" %}
+   {% include navigation.html %}
+
+   {% for post in site.posts %}
+      <p><a href="{{ post.url }}">{{ post.title }}</a><br>
+      {{ post.excerpt }}<br>
+      {{ post.date | date: "%B %e, %Y" }}</p>
+   {% endfor %}
+
+   <div id="footer">
+      <div id="wgly3">
+         <img src="/stylings/PrintedPaper_line-3_3.png" alt="">
+      </div>
+   </div>
+</div>
