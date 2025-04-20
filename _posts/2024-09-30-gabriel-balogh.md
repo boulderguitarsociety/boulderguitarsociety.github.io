@@ -2,6 +2,7 @@
 layout: meeting
 title: Gabriel Balogh
 excerpt: A stand out among a new generation of classical guitarists
+tags: "Gabriel Balogh" "Balogh, Gabriel"
 ---
 ![Gabriel Balogh](/pics/20240930-GabrielBalogh.jpg)
 
