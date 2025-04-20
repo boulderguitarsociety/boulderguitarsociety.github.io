@@ -29,7 +29,7 @@ title: Stars
          {% assign alphahdg = alphatag %}
          </ul><h2>{{ alphahdg }}</h2><ul>
       {% endif %}
-      <p>{{ tag[0] }}</p>
+      <li>{{ tag[0] }}</li>
       <ul>
          {% for post in tag[1] %}
             {% assign MonYEAR = post.date | date: "%b%Y" %}
