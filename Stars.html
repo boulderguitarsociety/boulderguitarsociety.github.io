@@ -20,13 +20,14 @@ title: Stars
 
    <p>Thanks to all the stars featured in our events ...</p>
 
+   <ul>
    {% assign alphahdg = "" %}
    {% assign tags_sorted = site.tags | sort %}
    {% for tag in tags_sorted %}
       {% assign alphatag = tag[0] | slice: 0 %}
       {% if alphatag != alphahdg %}
          {% assign alphahdg = alphatag %}
-         <h2>{{ alphahdg }}</h2>
+         </ul><h2>{{ alphahdg }}</h2><ul>
       {% endif %}
       <p>{{ tag[0] }}</p>
       <ul>
@@ -36,6 +37,7 @@ title: Stars
          {% endfor %}
       </ul>
    {% endfor %}
+   </ul>
 
    <div id="footer">
       <div id="wgly3">
