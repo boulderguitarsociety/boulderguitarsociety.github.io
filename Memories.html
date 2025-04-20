@@ -1,5 +1,6 @@
 ---
 layout: base
+title: Memories
 ---
 
 <div class="events">
@@ -14,10 +15,17 @@ layout: base
       <img id="wgly2" src="/stylings/PrintedPaper_line-3_2.png" alt="">
    </div>
 
-   {% assign current = "Events" %}
+   {% assign current = "Memories" %}
    {% include navigation.html %}
 
+   {% assign yearhdg = "" %}
    {% for post in site.posts %}
+      {% capture yearpost %}{{ post.date | date: "%Y" }}{% endcapture %}
+      {% if yearpost != yearhdg %}
+         {% assign yearhdg = yearpost %}
+         <h2>{{ yearhdg }}</h2>
+      {% endif %}
+
       <p><a href="{{ post.url }}">{{ post.title }}</a><br>
       {{ post.excerpt }}<br>
       {{ post.date | date: "%B %e, %Y" }}</p>
