@@ -1,7 +1,14 @@
 ---
 layout: meeting
 title: Adam Buer and The BTC Jazz Trio
-excerpt: Blues, Bossa Nova, Wayne Shorter, Pat Metheny, Tears for Fears and more!
+excerpt: Blues, Bossa Nova, Wayne Shorter, Pat Metheny, Tears for Fears, ...
+tags:
+- Adam Buer
+- Buer, Adam
+- Doug Thamm
+- Thamm, Doug
+- Shawn Zinnen
+- Zinnen, Shawn
 ---
 ![Adam Buer BTC Trio](/pics/20240826-AdamBuerBTZ.jpg)
 
