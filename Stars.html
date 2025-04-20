@@ -20,8 +20,14 @@ title: Stars
 
    <p>Thanks to all the stars featured in our events ...</p>
 
+   {% assign alphahdg = "" %}
    {% assign tags_sorted = site.tags | sort %}
    {% for tag in tags_sorted %}
+      {% assign alphatag = tag[0] | slice: 0 %}
+      {% if alphatag != alphahdg %}
+         {% assign alphahdg = alphatag %}
+         <h2>{{ alphahdg }}</h2>
+      {% endif %}
       <p>{{ tag[0] }}</p>
       <ul>
          {% for post in tag[1] %}
