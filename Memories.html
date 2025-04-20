@@ -9,7 +9,7 @@ title: Memories
       <img id="wgly1" src="/stylings/PrintedPaper_line-3.png" alt="">
       <div id="header_pos">
          <div id="header_txt">
-            <p>Event History</p>
+            <p>{{ title }}</p>
          </div>
       </div>
       <img id="wgly2" src="/stylings/PrintedPaper_line-3_2.png" alt="">
@@ -17,6 +17,8 @@ title: Memories
 
    {% assign current = "Memories" %}
    {% include navigation.html %}
+
+   <p>We fondly remember these past events ...</p>
 
    {% assign yearhdg = "" %}
    {% for post in site.posts %}
