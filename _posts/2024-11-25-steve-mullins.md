@@ -2,7 +2,9 @@
 layout: meeting
 title: Steve Mullins
 excerpt: Spanish Flamenco, Latin-American classical guitar and original compositions
-tags: "Steve Mullins "Mullins, Steve"
+tags:
+- Steve Mullins
+- Mullins, Steve
 ---
 ![Steve Mullins](/pics/20241125-SteveMullins.jpg)
 

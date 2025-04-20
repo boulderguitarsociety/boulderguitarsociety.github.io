@@ -2,7 +2,17 @@
 layout: meeting
 title: Sulaiman Zai Master Class
 excerpt: Sulaiman coaches four BGS members
-tags: "Sulaiman Zai" "Zai, Sulaiman" "Martin Ters" "Ters, Martin" "Daniel Palmer" "Palmer, Daniel" "Doug Hurcomb" "Hurcomb, Doug" "John X?" "X? John"
+tags:
+- Sulaiman Zai
+- Zai, Sulaiman
+- Martin Ters
+- Ters, Martin
+- Daniel Palmer
+- Palmer, Daniel
+- Doug Hurcomb
+- Hurcomb, Doug
+- John X?
+- X? John
 ---
 ![Sulaiman Zai](/pics/20250224-SulaimanZai.jpg)
 

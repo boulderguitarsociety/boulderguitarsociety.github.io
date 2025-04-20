@@ -2,7 +2,21 @@
 layout: meeting
 title: Mark and Friends
 excerpt: Mark Limber and five friends put on a performance.
-tags: "Mark Limber" "Limber, Mark" "Rob Chrico" "Chrico, Rob" "Felicity Muench" "Muench, Felicity" "Sadie Zukowski" "Zukowski, Sadie" "Adam Buer" "Buer, Adam" MartinT DanielP Mark? TobyG
+tags:
+- Mark Limber
+- Limber, Mark
+- Rob Chrico
+- Chrico, Rob
+- Felicity Muench
+- Muench, Felicity
+- Sadie Zukowski
+- Zukowski, Sadie
+- Adam Buer
+- Buer, Adam
+- MartinT
+- DanielP
+- MarkX?
+- TobyG
 ---
 ![SkyMark](/pics/20250331-SkyMark_4968c.jpg)
 

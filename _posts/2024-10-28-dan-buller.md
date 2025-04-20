@@ -2,7 +2,11 @@
 layout: meeting
 title: Dan Buller and Gabe Rupe
 excerpt: Jazz standards, swing, bebop and bossa nova
-tags: "Dan Buller" "Buller, Dan" "Gabe Rupe" "Rupe, Gabe"
+tags:
+- Dan Buller
+- Buller, Dan
+- Gabe Rupe
+- Rupe, Gabe
 ---
 ![Dan Buller](/pics/20241028-DanBuller.jpg)
 
