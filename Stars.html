@@ -18,16 +18,17 @@ title: Stars
    {% assign current = "Stars" %}
    {% include navigation.html %}
 
-   <p>Trying out tags ...</p>
+   <p>Thanks to all the stars featured in our events ...</p>
 
    {% assign tags_sorted = site.tags | sort %}
    {% for tag in tags_sorted %}
-     <h3>{{ tag[0] }}</h3>
-     <ul>
-       {% for post in tag[1] %}
-         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-       {% endfor %}
-     </ul>
+      <p>{{ tag[0] }}</p>
+      <ul>
+         {% for post in tag[1] %}
+            {% assign MonYEAR = post.date | date: "%b%Y" %}
+            <li><a href="{{ post.url }}">{{ MonYEAR }}  {{ post.title }}</a></li>
+         {% endfor %}
+      </ul>
    {% endfor %}
 
    <div id="footer">
