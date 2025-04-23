@@ -26,3 +26,11 @@ an ensemble of BGS performers including, from left to right,
 Rob Chirico, Felicity Muench, Sadie Zukowski, Adam Buer and Mark.
 
 ![Quintet](/pics/20250331-ensemble_4980b.jpg)
+
+___
+
+Open Stage Players:
+* MartinT
+* DanielP
+* MarkX?
+* TobyG
