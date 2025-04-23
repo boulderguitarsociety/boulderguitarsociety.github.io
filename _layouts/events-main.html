@@ -19,6 +19,7 @@ layout: base
 
    <h2>Upcoming Events:</h2>
    {{ content }}
+   <br><img class="wgly" src="/stylings/PrintedPaper_line-3_3.png" alt="">
 
    <h2>Our Latest Event:</h2>
    {% assign latest = site.posts.first %}
@@ -30,6 +31,7 @@ layout: base
    <div class="meeting">
       {{ latest.content }}
    </div>
+   <br><img class="wgly" src="/stylings/PrintedPaper_line-3_3.png" alt="">
 
    <h2>Other Recent Events:</h2>
    {% for post in site.posts limit:4 %}

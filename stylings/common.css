@@ -214,3 +214,11 @@ body {
    width: 531px;
    border: none;
    z-index: 1;
+
+img.wgly {
+   height: 6px;
+   width: 531px;
+   object-fit: none;
+   object-position: -75px 0px;
+   border: none;
+}
