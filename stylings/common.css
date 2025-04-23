@@ -57,6 +57,7 @@ body {
 }
 
 #body_content img.wgly {
+   margin-left: 30px;
    height: 6px;
    width: 531px;
    object-fit: none;
