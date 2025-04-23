@@ -27,10 +27,10 @@ Rob Chirico, Felicity Muench, Sadie Zukowski, Adam Buer and Mark.
 
 ![Quintet](/pics/20250331-ensemble_4980b.jpg)
 
-___
+![line](/pics/wgly-line.png)
 
 Open Stage Players:
-* MartinT
-* DanielP
-* MarkX?
-* TobyG
+> * MartinT
+> * DanielP
+> * MarkX?
+> * TobyG
