@@ -28,21 +28,30 @@ title: Stars
    </p>
    <br><img class="wgly" src="/stylings/PrintedPaper_line-3_3.png" alt="">
 
-   <ul>
+   <ul style="width: 510px">
    {% assign alphahdg = "" %}
    {% assign tags_sorted = site.tags | sort %}
    {% for tag in tags_sorted %}
       {% assign alphatag = tag[0] | slice: 0 %}
       {% if alphatag != alphahdg %}
          {% assign alphahdg = alphatag %}
-         </ul><h2>{{ alphahdg }}</h2><ul>
+         </ul><h2>{{ alphahdg }}</h2><ul style="width: 510px">
       {% endif %}
       <li>{{ tag[0] }}</li>
       <ul>
-         {% for post in tag[1] %}
-            {% assign MonYEAR = post.date | date: "%b%Y" %}
-            <li><a href="{{ post.url }}">{{ MonYEAR }}  {{ post.title }}</a></li>
-         {% endfor %}
+         {% if tag[0] contains " " %}
+            {% for post in tag[1] %}
+               {% assign MonYEAR = post.date | date: "%b%Y" %}
+               <li><a href="{{ post.url }}">{{ MonYEAR }}  {{ post.title }}</a></li>
+            {% endfor %}
+         {% else %}
+            <li>
+            {% for post in tag[1] %}
+               {% assign MonYEAR = post.date | date: "%b%Y" %}
+               <a href="{{ post.url }}#footer">{{ MonYEAR }}</a> 
+            {% endfor %}
+            </li>
+         {% endif %}
       </ul>
    {% endfor %}
    </ul>
