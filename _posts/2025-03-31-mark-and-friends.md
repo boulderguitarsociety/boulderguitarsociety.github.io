@@ -31,18 +31,18 @@ After the quintet, Mark finished with a solo.  Following a break there was the u
 
 ![line](/pics/wgly-line.png)
 
-Open Stage Education Time:
-  * MartinT
-     - Here Comes the Sun, George Harrison
-     - Evocación, José Luis Merlin
-     - Recuerdos de la Alhambra, Tarrega (starting with major then minor)
-  * DanielP
-     - Ode to Joy, Beethoven arr. by Bridget Mermikides
-  * JeffO
-     - Played Vivaldi's chord progression om piano from the [Mar2025](https://jjolson.net/BGS/Mar2025.pdf) sightreading handout
-     - Also demonstrated effect of a rhythm change in Scott Joplin's Bethena
-  * MarkX?
-     - The Shadow of Your Smile, Johnny Mandel
-     - Saltarello
-  * TobyG
-     - Played some DADGAD arrangements from the web, including one he calls "Radar OReilly"
+#### Open Stage Education Time: ####
+* MartinT
+   - Here Comes the Sun, George Harrison
+   - Evocación, José Luis Merlin
+   - Recuerdos de la Alhambra, Tarrega (starting with major then minor)
+* DanielP
+   - Ode to Joy, Beethoven, arr. by Bridget Mermikides
+* JeffO (on piano)
+   - Played Vivaldi's chord progression from the [Mar2025](https://jjolson.net/BGS/Mar2025.pdf) sightreading
+   - Also demonstrated effect of a rhythm change in Scott Joplin's Bethena
+* MarkX?
+   - The Shadow of Your Smile, Johnny Mandel
+   - Saltarello
+* TobyG
+   - Played some DADGAD youtubes, including one he calls "Radar OReilly"
