@@ -25,6 +25,7 @@ is hailed as one of the best flamenco guitarists in the world. Described by Guit
 
 Tonight's performance was with cellist [Dianne Betkowski](https://www.facebook.com/dianne.betkowski/) who is a member of [Miguel Espinoza Fusion](https://miguelespinozafusion.com/).  Read about her on the group's [About](https://miguelespinozafusion.com/about) page.
 
+![line](/pics/wgly-line.png)
 
 #### Open Stage Education Time: ####
 * RickC
