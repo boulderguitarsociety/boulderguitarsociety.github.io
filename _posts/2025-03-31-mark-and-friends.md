@@ -42,7 +42,7 @@ After the quintet, Mark finished with a solo.  Following a break there was the u
 * JeffO (on piano)
    - Played Vivaldi's chord progression from the [Mar2025](https://jjolson.net/BGS/Mar2025.pdf) sightreading
    - Also demonstrated effect of a rhythm change in Scott Joplin's Bethena
-* MarkX?
+* MarkC
    - The Shadow of Your Smile, Johnny Mandel
    - Saltarello
 * TobyG
