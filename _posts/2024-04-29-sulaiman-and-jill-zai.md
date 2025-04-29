@@ -4,9 +4,9 @@ title: Sulaiman and Jill Zai
 excerpt: Original duets for violin and guitar, plus a wide classical selection
 tags:
 - Sulaiman Zai
-- Zail, Sulaiman
+- Zai, Sulaiman
 - Jill Zai
-- Zail, Jill
+- Zai, Jill
 ---
 ![Sulaiman Zai](/pics/20240429-SulaimanZai.jpg)
 
