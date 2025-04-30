@@ -206,7 +206,11 @@ body {
 }
 
 .iltrid {
-   height: 3.0em;  /* so jumped-to letter remains visible */
+   margin-top: 20px;
+}
+
+.iltrid a {
+   text-decoration: none;
 }
 
 .iltr {
