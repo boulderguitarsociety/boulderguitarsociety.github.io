@@ -27,9 +27,9 @@ Four BGS guitarists played for Sulaiman:
 * Martin Ters
    - Song Fron Vicenza, by Czech composer Milan Tesař
 * Doug Hurcomb
-   - Valz
+   -  Valse from Souvenirs de Flanders Opus 5, by Napoleon Coste
 * Daniel Palmer
-   - Lent, Etude No.11 in E minor, by Heitor Villa-Lobos
+   - Prelude No.2, by Heitor Villa-Lobos
 * Sean Kelly
    - Se io m'Accorgo, arr. by Oscar Chilesotti
 
@@ -49,7 +49,9 @@ Advice all of us could use:
    - wait until the body is not getting in the way
 * In general
    - guitar is a profound mirror, a reflection of you
-   - get up a do it again (fall down 10 times, get up 11)
+   - get up and do it again (fall down 10 times, get up 11)
    - feel strongly about the music and speaking it to the audience
    - once you know it, it plays itself (without your thinking mind)
+
+Feel free to [contact Sulaiman](https://sulaimanzai.weebly.com/contact.html) with any questions. He's happy to provide more details.
 

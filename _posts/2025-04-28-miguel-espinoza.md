@@ -30,7 +30,7 @@ Tonight's performance was with cellist [Dianne Betkowski](https://www.facebook.c
 #### Open Stage Education Time: ####
 * RickC
    - Melted, by Rick, for fretless guitar
-* GabrielB and JoeMcH
+* JoeMcH and GabrielB
    - Oriental, 12 Danzas Españolas, No.2, by Granados, arr by Gabe
    - Joe is Gabe's former teacher and current student
 * MartinT
