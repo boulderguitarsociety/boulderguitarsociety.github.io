@@ -10,6 +10,7 @@ body {
    /* global color scheme */
    --textbrwn: #4E1D02;    /* rgb(78, 29, 2) */
    --textorng: #D15439;    /* rgb(209, 84, 57) */
+   --linkblue: #0066CC;
    --linkbrwn: #4E1D02; 
    --linkhovr: #D78D4B;
    --linkvstd: #4E1D02;
@@ -191,21 +192,22 @@ a:active {
 }
 
 #latest_ttl a {
+   color: var(--textorng);
    text-decoration: none;
 }
 
 #latest_ttl a:visited {
-   color: var(--textbrwn);
+   color: var(--textorng);
    text-decoration: none;
 }
 
 #latest_ttl a:hover {
-   color: rgb(249, 92, 63);
+   color: var(--linkhovr);
    text-decoration: none;
 }
 
 .meeting h1 {
-   color: var(--textbrwn);
+   color: var(--textorng);
    font-family: 'Times New Roman', serif;
    font-size: 40px;
    line-height: 55px;
@@ -220,6 +222,10 @@ a:active {
 
 .meeting img {
    max-width: 600px;
+}
+
+.meeting a {
+   color: var(--linkblue);
 }
 
 .letters {
