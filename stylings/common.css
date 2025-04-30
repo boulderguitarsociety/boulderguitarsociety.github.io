@@ -198,6 +198,24 @@ body {
    max-width: 600px;
 }
 
+.letters {
+   text-align: center;
+   color: var(--indxltrs);
+   margin-top: 2.0em;
+   font-size: 1.1em;
+}
+
+.iltrid {
+   height: 3.0em;  /* so jumped-to letter remains visible */
+}
+
+.iltr {
+   text-align: center;
+   height: 2.0em;
+   line-height: 1.0em;
+   font-size: 1.5em;
+}
+
 #footer {
    height: 80px;
    margin-left: 0px;

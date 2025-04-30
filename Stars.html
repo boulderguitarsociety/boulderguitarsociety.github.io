@@ -35,7 +35,7 @@ title: Stars
       {% assign alphatag = tag[0] | slice: 0 %}
       {% if alphatag != alphahdg %}
          {% assign alphahdg = alphatag %}
-         </ul><h2>{{ alphahdg }}</h2><ul style="width: 510px">
+   </ul><div class="iltrid" id="{{ alphahdg }}"></div><h2><a href="#top">{{ alphahdg }}</a></h2><ul style="width: 510px">
       {% endif %}
       <li>{{ tag[0] }}</li>
       <ul>
