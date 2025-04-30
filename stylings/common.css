@@ -12,9 +12,9 @@ body {
    --textorng: #D15439;    /* rgb(209, 84, 57) */
    --linkblue: #0011EE;
    --linkbrwn: #4E1D02; 
-   --linkhovr: #D78D4B;
-   --linkvstd: #4E1D02;
-   --linkactv: #FF6646;
+   --linkhovr: #D13715;
+   --linkvstd: #0011EE;
+   --linkactv: #D12600;
    /* the overall dark brown background layer */
    background: rgb(255, 255, 255) url(/stylings/PrintedPaper_browser_backgr-1.jpg) repeat scroll top left;
    font-family: 'Arial', sans-serif;
@@ -24,7 +24,7 @@ body {
 
 a {
    text-decoration: none;
-   color: var(--linkbrwn);
+   color: var(--linkblue);
 }
 
 a:visited {
