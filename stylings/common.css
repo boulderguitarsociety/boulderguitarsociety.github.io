@@ -193,17 +193,17 @@ a:active {
 }
 
 #latest_ttl a {
-   color: var(--textorng);
+   color: var(--linkhovr);
    text-decoration: none;
 }
 
 #latest_ttl a:visited {
-   color: var(--textorng);
+   color: var(--linkhovr);
    text-decoration: none;
 }
 
 #latest_ttl a:hover {
-   color: var(--linkhovr);
+   color: var(--linkblue);
    text-decoration: none;
 }
 
