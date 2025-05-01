@@ -157,29 +157,29 @@ a:active {
    margin-bottom: 20px;
 }
 
-.noncurrent-page {
+#navbar .noncurrent-page {
    display: inline-block;
    margin-left: 0px;
    margin-right: 20px;
 }
 
-.noncurrent-page a {
+#navbar .noncurrent-page a {
    text-decoration: none;
    color: #62462E;
 }
 
-.noncurrent-page a:hover {
+#navbar .noncurrent-page a:hover {
    text-decoration: none;
    color: var(--linkhovr);
 }
 
-.current-page {
+#navbar .current-page {
    display: inline-block;
    margin-left: 0px;
    margin-right: 20px;
 }
 
-.current-page a {
+#navbar .current-page a {
    text-decoration: none;
    color: #C75624;
 }
