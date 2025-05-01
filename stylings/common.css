@@ -262,6 +262,21 @@ a:active {
    color: var(--linkbrwn);
 }
 
+.stars .iltrid a:visited {
+   text-decoration: none;
+   color: var(--linkbrwn);
+}
+
+.stars .iltrid a:hover {
+   text-decoration: none;
+   color: var(--linkblue);
+}
+
+.stars .iltrid a:active {
+   text-decoration: none;
+   color: var(--linkblue);
+}
+
 .iltr {
    text-align: center;
    height: 2.0em;
