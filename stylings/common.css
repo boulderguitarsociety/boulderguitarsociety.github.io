@@ -230,12 +230,6 @@ a:active {
    text-decoration: underline;
 }
 
-.letters {
-   text-align: center;
-   margin-top: 2.0em;
-   font-size: 1.1em;
-}
-
 .stars a {
    text-decoration: none;
    color: var(--linkorng);
@@ -253,11 +247,17 @@ a:active {
    color: var(--linkblue);
 }
 
-.iltrid {
+.stars .letters {
+   text-align: center;
+   margin-top: 2.0em;
+   font-size: 1.1em;
+}
+
+.stars .iltrid {
    margin-top: 20px;
 }
 
-.iltrid a {
+.stars .iltrid a {
    text-decoration: none;
    color: var(--linkbrwn);
 }
