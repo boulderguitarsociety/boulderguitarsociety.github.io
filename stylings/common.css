@@ -248,7 +248,7 @@ a:active {
 }
 
 .stars .letters {
-   text-align: center;
+   margin-left: 30px;
    margin-top: 2.0em;
    font-size: 1.1em;
 }
@@ -257,21 +257,25 @@ a:active {
    margin-top: 20px;
 }
 
+.stars .letters a,
 .stars .iltrid a {
    text-decoration: none;
    color: var(--linkbrwn);
 }
 
+.stars .letters a:visited,
 .stars .iltrid a:visited {
    text-decoration: none;
    color: var(--linkbrwn);
 }
 
+.stars .letters a:hover,
 .stars .iltrid a:hover {
    text-decoration: none;
    color: var(--linkblue);
 }
 
+.stars .letters a:active,
 .stars .iltrid a:active {
    text-decoration: none;
    color: var(--linkblue);
