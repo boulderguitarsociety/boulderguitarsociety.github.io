@@ -28,6 +28,18 @@ title: Stars
    </p>
    <br><img class="wgly" src="/stylings/PrintedPaper_line-3_3.png" alt="">
 
+   <div class="letters">
+   {% assign alphahdg = "" %}
+   {% assign tags_sorted = site.tags | sort %}
+   {% for tag in tags_sorted %}
+      {% assign alphatag = tag[0] | slice: 0 %}
+      {% if alphatag != alphahdg %}
+         {% assign alphahdg = alphatag %}
+         <a href="#{{ alphahdg }}">{{ alphahdg }}</a>&nbsp;
+      {% endif %}
+   {% endfor %}
+   </div>
+
    <ul style="width: 510px">
    {% assign alphahdg = "" %}
    {% assign tags_sorted = site.tags | sort %}
