@@ -11,6 +11,7 @@ body {
    --textbrwn: #4E1D02;    /* rgb(78, 29, 2) */
    --textorng: #D15439;    /* rgb(209, 84, 57) */
    --linkblue: #0011EE;
+   --linkorng: #D15439;
    --linkbrwn: #4E1D02; 
    --linkhovr: #D13715;
    --linkvstd: #0011EE;
@@ -28,7 +29,7 @@ a {
 }
 
 a:visited {
-   color: var(--linkvstd);
+   color: var(--linkblue);
 }
 
 a:hover {
@@ -235,12 +236,30 @@ a:active {
    font-size: 1.1em;
 }
 
+.stars a {
+   text-decoration: none;
+   color: var(--linkorng);
+}
+
+.stars a:visited {
+   color: var(--linkorng);
+}
+
+.stars a:hover {
+   color: var(--linkblue);
+}
+
+.stars a:active {
+   color: var(--linkblue);
+}
+
 .iltrid {
    margin-top: 20px;
 }
 
 .iltrid a {
    text-decoration: none;
+   color: var(--linkbrwn);
 }
 
 .iltr {
