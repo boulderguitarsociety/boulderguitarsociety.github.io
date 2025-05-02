@@ -226,7 +226,6 @@ a:active {
 }
 
 .meeting a {
-   color: var(--linkblue);
    text-decoration: underline;
 }
 
