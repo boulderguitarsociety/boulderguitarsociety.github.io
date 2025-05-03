@@ -1,7 +1,7 @@
 ---
 layout: meeting
 title: "BenMark Duo: Benny Goldberg & Mark Limber"
-excerpt: All kidding aside, a night of extraordinary duets
+brief: All kidding aside, a night of extraordinary duets
 tags:
 - Benny Goldberg
 - Goldberg, Benny

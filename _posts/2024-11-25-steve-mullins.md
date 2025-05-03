@@ -1,7 +1,7 @@
 ---
 layout: meeting
 title: Steve Mullins
-excerpt: Spanish Flamenco, Latin-American classical guitar and original compositions
+brief: Spanish Flamenco, Latin-American classical guitar and original compositions
 tags:
 - Steve Mullins
 - Mullins, Steve

@@ -1,7 +1,7 @@
 ---
 layout: meeting
 title: Bill Kopper
-excerpt: Jazz, blues, samba and bossa nova
+brief: Jazz, blues, samba and bossa nova
 tags:
 - Bill Kopper
 - Kopper, Bill

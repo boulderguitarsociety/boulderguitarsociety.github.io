@@ -1,7 +1,7 @@
 ---
 layout: meeting
 title: Dan Buller and Gabe Rupe
-excerpt: Jazz standards, swing, bebop and bossa nova
+brief: Jazz standards, swing, bebop and bossa nova
 tags:
 - Dan Buller
 - Buller, Dan

@@ -1,7 +1,7 @@
 ---
 layout: meeting
 title: Sulaiman and Jill Zai
-excerpt: Original duets for violin and guitar, plus a wide classical selection
+brief: Original duets for violin and guitar, plus a wide classical selection
 tags:
 - Sulaiman Zai
 - Zai, Sulaiman

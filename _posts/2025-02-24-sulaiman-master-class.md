@@ -1,7 +1,7 @@
 ---
 layout: meeting
 title: Sulaiman Zai Master Class
-excerpt: Sulaiman coaches four BGS members
+brief: Sulaiman coaches four BGS members
 tags:
 - Sulaiman Zai
 - Zai, Sulaiman

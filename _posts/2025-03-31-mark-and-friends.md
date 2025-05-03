@@ -1,7 +1,7 @@
 ---
 layout: meeting
 title: Mark and Friends
-excerpt: Mark Limber and five musical friends put on a performance.
+brief: Mark Limber and five musical friends put on a performance.
 tags:
 - Mark Limber
 - Limber, Mark

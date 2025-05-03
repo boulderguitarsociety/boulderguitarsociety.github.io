@@ -36,7 +36,7 @@ layout: base
       <p><a href="{{ latest.url }}">{{ latest.title }}</a></p>
    </div>
    <p>{{ latest.date | date: "%B %e, %Y" }}</p>
-   <p>{{ latest.excerpt }}</p>
+   <p>{{ latest.brief }}</p>
    <div class="meeting">
       {{ latest.content }}
    </div>
@@ -46,7 +46,7 @@ layout: base
    {% for post in site.posts limit:4 %}
       {% unless post == latest %}
          <p><a href="{{ post.url }}">{{ post.title }}</a><br>
-         {{ post.excerpt }}<br>
+         {{ post.brief }}<br>
          {{ post.date | date: "%B %e, %Y" }}</p>
       {% endunless %}
    {% endfor %}

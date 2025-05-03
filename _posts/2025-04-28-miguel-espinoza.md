@@ -1,7 +1,7 @@
 ---
 layout: meeting
 title: Miguel Espinoza
-excerpt: A flamenco fusion of guitar and cello, yes cello!
+brief: A flamenco fusion of guitar and cello, yes cello!
 tags:
 - Miguel Espinoza
 - Espinoza, Miguel
