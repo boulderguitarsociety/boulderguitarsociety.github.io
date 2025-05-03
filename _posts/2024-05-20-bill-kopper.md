@@ -1,5 +1,5 @@
 ---
-layout: meeting
+layout: an-event
 title: Bill Kopper
 brief: Jazz, blues, samba and bossa nova
 tags:

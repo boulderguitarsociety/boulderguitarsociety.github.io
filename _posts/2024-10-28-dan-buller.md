@@ -1,5 +1,5 @@
 ---
-layout: meeting
+layout: an-event
 title: Dan Buller and Gabe Rupe
 brief: Jazz standards, swing, bebop and bossa nova
 tags:

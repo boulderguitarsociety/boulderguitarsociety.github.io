@@ -1,5 +1,5 @@
 ---
-layout: meeting
+layout: an-event
 title: Steve Mullins
 brief: Spanish Flamenco, Latin-American classical guitar and original compositions
 tags:

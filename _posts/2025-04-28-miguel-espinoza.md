@@ -1,5 +1,5 @@
 ---
-layout: meeting
+layout: an-event
 title: Miguel Espinoza
 brief: A flamenco fusion of guitar and cello, yes cello!
 tags:

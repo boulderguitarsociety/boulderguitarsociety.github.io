@@ -1,5 +1,5 @@
 ---
-layout: meeting
+layout: an-event
 title: Adam Buer and The BTC Jazz Trio
 brief: Blues, Bossa Nova, Wayne Shorter, Pat Metheny, Tears for Fears, ...
 tags:

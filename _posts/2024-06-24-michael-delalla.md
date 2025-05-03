@@ -1,5 +1,5 @@
 ---
-layout: meeting
+layout: an-event
 title: Michael DeLalla
 brief: "How I built this: Inside a Composer’s Notebook (and new works)"
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: meeting
+layout: an-event
 title: Sulaiman and Jill Zai
 brief: Original duets for violin and guitar, plus a wide classical selection
 tags:

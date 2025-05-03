@@ -1,5 +1,5 @@
 ---
-layout: meeting
+layout: an-event
 title: Sulaiman Zai Master Class
 brief: Sulaiman coaches four BGS members
 tags:

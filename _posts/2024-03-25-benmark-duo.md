@@ -1,5 +1,5 @@
 ---
-layout: meeting
+layout: an-event
 title: "BenMark Duo: Benny Goldberg & Mark Limber"
 brief: All kidding aside, a night of extraordinary duets
 tags:

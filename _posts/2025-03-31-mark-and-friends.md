@@ -1,5 +1,5 @@
 ---
-layout: meeting
+layout: an-event
 title: Mark and Friends
 brief: Mark Limber and five musical friends put on a performance.
 tags:

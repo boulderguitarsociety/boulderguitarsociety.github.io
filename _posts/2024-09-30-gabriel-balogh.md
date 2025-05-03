@@ -1,5 +1,5 @@
 ---
-layout: meeting
+layout: an-event
 title: Gabriel Balogh
 brief: A stand out among a new generation of classical guitarists
 tags:
