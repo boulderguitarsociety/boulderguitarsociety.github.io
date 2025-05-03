@@ -44,7 +44,6 @@ a:active {
    /* the inner yellow/tan background layer */
    background: transparent url(/stylings/PrintedPaper_background-2.jpg) repeat scroll top left;
    width: 700px;
-   min-height: 480px;
    margin-bottom: 0px; 
    margin-left: auto;
    margin-right: auto;
