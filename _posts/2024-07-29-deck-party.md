@@ -2,7 +2,8 @@
 layout: an-event
 title: Summer Deck Party
 brief: Food, fellowship and guitars (plus an oud!)
-
+tags:
+- DanielP
 ---
 ![Deck Party View](/pics/20240729-DeckPartyFlatirons.jpg)
 
@@ -16,3 +17,9 @@ In lieu of an outsider for our featured performer, we've picked YOU. Wanna play 
 
 \* *Probably best to leave your bagpipes at home this time.*
  
+
+![line](/pics/wgly-line.png)
+
+#### Open Stage Education Time: ####
+* DanielP
+   - Dan brought his fretless oud for people to try out.
