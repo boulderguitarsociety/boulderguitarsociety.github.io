@@ -14,9 +14,9 @@ Copyright © 2025 by Boulder Guitar Society.  All rights reserved
          {{ post.date | date: "%B %e, %Y" }}</p>
          {% for part in post %}
            {% if part.first %}
-             array {{ part }}\br
+             array {{ part.first }} to {{ part.last }}<br>
            {% else %}
-             string {{ part }}\br
+             string {{ part }}<br>
            {% endif %}
          {% endfor %}
       {% endunless %}
