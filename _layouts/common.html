@@ -26,7 +26,7 @@ layout: base
    </div>
 </div>
 
-   {% assign latest = site.posts.first %
+   {% assign latest = site.posts.first %}
    {% for post in site.posts limit:4 %}
       {% unless post == latest %}
          <p><a href="{{ post.url }}">{{ post.title }}</a><br>
