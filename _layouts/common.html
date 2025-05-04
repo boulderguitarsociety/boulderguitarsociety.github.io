@@ -34,9 +34,9 @@ layout: base
          {{ post.date | date: "%B %e, %Y" }}</p>
          {% for part in post %}
            {% if part.first %}
-             array {{ part.first }} to {{ part.last }}<br>
+             <p>array {{ part.first[0] }} to {{ part.last[0] }}</p>
            {% else %}
-             string {{ part }}<br>
+             <p>string {{ part }}</p>
            {% endif %}
          {% endfor %}
       {% endunless %}
