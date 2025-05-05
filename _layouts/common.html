@@ -28,9 +28,15 @@ layout: base
 
 {% for post in site.posts limit:4 %}
   <p>{{ post.title }}</p>
-  {% assign lines = post.content | split: "<img" %}
-  {% for line in lines %}
-    <p>line = {{ line }} </p>
+  {% assign frags = post.content | split: "<img" %}
+  {% for frag in frags %}
+  {% if frag contains "src=" %}
+    {% assign pieces = frag | split ">" %}
+    {% assign imgattrs = pieces[0] | split "\"" %}
+    {% assign imgsrc = imgattrs[1] %}
+    {% assign imgalt = imgattrs[3] %}
+    <p>imgsrc = {{ imgsrc }} and imgalt = {{ imgalt }}</p>
+  {% endif %}
   {% endfor %}
 
 {% endfor %}
