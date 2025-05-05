@@ -26,17 +26,13 @@ layout: base
    </div>
 </div>
 
-   {% assign latest = site.posts.first %}
+   {% assign latest = "foo" %}
    {% for post in site.posts limit:4 %}
       {% unless post == latest %}
          <p><a href="{{ post.url }}">{{ post.title }}</a><br>
          {{ post.brief }}<br>
          {{ post.date | date: "%B %e, %Y" }}</p>
-         next = {{ post.next }}<br>
          next.url = {{ post.next.url }}<br>
-         next inspect = {{ post.next | inspect }}<br>
-         previous = {{ post.previous }}<br>
          previous.url = {{ post.previous.url }}<br>
-         previous inspect = {{ post.previous | inspect }}<br>
       {% endunless %}
    {% endfor %}
