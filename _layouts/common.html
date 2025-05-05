@@ -33,9 +33,11 @@ layout: base
   {% if frag contains "src=" %}
     {% assign pieces = frag | split ">" %}
     {% assign imgattrs = pieces[0] | split "\"" %}
-    {% assign imgsrc = imgattrs[1] %}
-    {% assign imgalt = imgattrs[3] %}
-    <p>imgsrc = {{ imgsrc }} and imgalt = {{ imgalt }}</p>
+    {% if imgattrs.size == 5 %}
+      {% assign imgsrc = imgattrs[1] %}
+      {% assign imgalt = imgattrs[3] %}
+      <p>imgsrc = {{ imgsrc }} and imgalt = {{ imgalt }}</p>
+    {% endif %}
   {% endif %}
   {% endfor %}
 
