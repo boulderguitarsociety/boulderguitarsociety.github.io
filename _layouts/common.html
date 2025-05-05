@@ -36,7 +36,7 @@ layout: base
            {% if part.first %}
              <p>array {{ part.first[0] }} to {{ part.last[0] }}</p>
            {% else %}
-             <p>string {{ part }}</p>
+             <p>string {{ part | inspect }}</p>
            {% endif %}
          {% endfor %}
       {% endunless %}
