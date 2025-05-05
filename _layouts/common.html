@@ -28,7 +28,7 @@ layout: base
 
 {% for post in site.posts limit:4 %}
   <p>{{ post.title }}</p>
-  {% assign lines = post.content | split: "\n" %}
+  {% assign lines = post.content | split: "![" %}
   {% for line in lines %}
     <p>line = {{ line }} </p>
   {% endfor %}
