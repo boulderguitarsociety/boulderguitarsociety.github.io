@@ -236,17 +236,17 @@ a:active {
 }
 
 .meeting #prev {
-   font-size: 30px;
+   font-size: 26px;
    position: absolute;
    left: 508px;
-   top: 25px;
+   top: 28px;
 }
 
 .meeting #next {
-   font-size: 30px;
+   font-size: 26px;
    position: absolute;
-   left: 572px;
-   top: 25px;
+   left: 576px;
+   top: 28px;
 }
 
 .meeting #next a,
@@ -262,12 +262,12 @@ a:active {
 
 .meeting #next a:hover,
 .meeting #prev a:hover {
-   color: var(--linkblue);
+   color: var(--linkorng);
 }
 
 .meeting #next a:active,
 .meeting #prev a:active {
-   color: var(--linkblue);
+   color: var(--linkorng);
 }
 
 .stars a {
