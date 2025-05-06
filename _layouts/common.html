@@ -28,10 +28,10 @@ layout: base
 
 {% for post in site.posts limit:4 %}
   <p>{{ post.title }}</p>
-  {% assign frags = post.content | split: "<img" %}
+  {% assign frags = post.content | split: '<img ' %}
   {% for frag in frags %}
   {% if frag contains "src=" %}
-    {% assign pieces = frag | split ">" %}
+    {% assign pieces = frag | split '>' %}
     {% assign imgattrs = pieces[0] | split '"' %}
     {% if imgattrs.size == 5 %}
       {% assign imgsrc = imgattrs[1] %}
