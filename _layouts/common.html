@@ -31,8 +31,8 @@ layout: base
   {% assign frags = post.content | split: '<img ' %}
   {% for frag in frags %}
   {% if frag contains "src=" %}
-    {% assign pieces = frag | split '>' %}
-    {% assign imgattrs = pieces[0] | split '"' %}
+    {% assign pieces = frag | split: '>' %}
+    {% assign imgattrs = pieces[0] | split: '"' %}
     {% if imgattrs.size == 5 %}
       {% assign imgsrc = imgattrs[1] %}
       {% assign imgalt = imgattrs[3] %}
