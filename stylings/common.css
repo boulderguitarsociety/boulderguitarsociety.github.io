@@ -206,6 +206,12 @@ a:active {
    text-decoration: none;
 }
 
+.recent {
+  object-fit: contain;
+  height: 120px;
+  width: 490px;
+}
+
 .meeting h1 {
    color: var(--textorng);
    font-family: 'Times New Roman', serif;
