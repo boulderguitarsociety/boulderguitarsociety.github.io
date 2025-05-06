@@ -30,18 +30,19 @@ layout: base
   <p>{{ post.title }}</p>
   {% assign frags = post.content | split: '<img ' %}
   {% for frag in frags %}
-  {% if frag contains "src=" %}
-    {% assign pieces = frag | split: '>' %}
-    <p>pieces[0] = {{ pieces[0] }}</p>
-    {% assign imgattrs = pieces[0] | split: '"' %}
-    {% if imgattrs.size == 5 %}
-      {% assign imgsrc = imgattrs[1] %}
-      {% assign imgalt = imgattrs[3] %}
-      <p>imgsrc = {{ imgsrc }}</p>
-      <p>imgalt = {{ imgalt }}</p>
-      {% break %}
+    {% if frag contains "src=" %}
+      {% assign pieces = frag | split: '>' %}
+      <p>pieces[0] = {{ pieces[0] }}</p>
+      {% assign imgattrs = pieces[0] | split: '"' %}
+      {% if imgattrs.size == 5 %}
+        {% assign imgsrc = imgattrs[1] %}
+        {% assign imgalt = imgattrs[3] %}
+        <p>imgsrc = {{ imgsrc }}</p>
+        <p>imgalt = {{ imgalt }}</p>
+        ![{{ imgalt }}]({{ imgsrc }})
+        {% break %}
+      {% endif %}
     {% endif %}
-  {% endif %}
   {% endfor %}
 
 {% endfor %}
