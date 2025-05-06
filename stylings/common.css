@@ -235,6 +235,22 @@ a:active {
    text-decoration: underline;
 }
 
+.meeting #prev {
+   font-size: 30px;
+}
+
+.meeting #next {
+   font-size: 30px;
+}
+
+.meeting #prev a {
+   text-decoration: none;
+}
+
+.meeting #next a {
+   text-decoration: none;
+}
+
 .stars a {
    text-decoration: none;
    color: var(--linkorng);
