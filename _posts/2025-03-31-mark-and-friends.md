@@ -24,7 +24,7 @@ tags:
 [Mark Limber](https://www.facebook.com/marklimbermusic/) and several friends had fun making music for us,
 starting with Skylar Chen on violin and finishing with
 an ensemble of BGS performers including, from left to right,
-Rob Chirico, Felicity Muench, Sadie Zukowski, Adam Buer and Mark.
+<ins>Rob Chirico</ins>, <ins>Felicity Muench</ins>, <ins>Sadie Zukowski</ins>, <ins>Adam Buer</ins> and Mark.
 
 ![Quintet](/pics/20250331-ensemble_4980b.jpg)
 
