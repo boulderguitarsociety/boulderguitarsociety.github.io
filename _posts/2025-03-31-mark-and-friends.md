@@ -5,8 +5,8 @@ brief: Mark Limber and five musical friends put on a performance.
 tags:
 - Mark Limber
 - Limber, Mark
-- Rob Chrico
-- Chrico, Rob
+- Rob Chirico
+- Chirico, Rob
 - Felicity Muench
 - Muench, Felicity
 - Sadie Zukowski
