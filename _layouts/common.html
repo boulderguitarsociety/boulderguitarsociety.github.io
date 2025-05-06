@@ -39,7 +39,7 @@ layout: base
         {% assign imgalt = imgattrs[3] %}
         <p>imgsrc = {{ imgsrc }}</p>
         <p>imgalt = {{ imgalt }}</p>
-        ![{{ imgalt }}]({{ imgsrc }})
+        <img src="{{ imgsrc }}" alt="{{ imgalt }}">
         {% break %}
       {% endif %}
     {% endif %}
