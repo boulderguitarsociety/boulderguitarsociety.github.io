@@ -209,7 +209,7 @@ a:active {
 .recent {
   object-fit: contain;
   object-position: left bottom;
-  height: 100px;
+  height: 120px;
   width: 490px;
 }
 
