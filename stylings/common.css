@@ -239,14 +239,14 @@ a:active {
    font-size: 30px;
    position: absolute;
    left: 490px;
-   top: 45px;
+   top: 25px;
 }
 
 .meeting #next {
    font-size: 30px;
    position: absolute;
-   left: 500px;
-   top: 45px;
+   left: 572px;
+   top: 25px;
 }
 
 .meeting #prev a {
