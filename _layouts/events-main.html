@@ -45,7 +45,7 @@ layout: base
    <h2>Other Recent Events:</h2>
    {% for post in site.posts limit:4 %}
       {% unless post == latest %}
-         <p>
+         <br><p>
          {% assign frags = post.content | split: '<img ' %}
          {% if frags.size > 1 %}
             {% assign imgattrs = frags[1] | split: '/>' | first %}
@@ -53,7 +53,7 @@ layout: base
          {% endif %}
          <a href="{{ post.url }}">{{ post.title }}</a><br>
          {{ post.brief }}<br>
-         {{ post.date | date: "%B %e, %Y" }}</p><br>
+         {{ post.date | date: "%B %e, %Y" }}</p>
       {% endunless %}
    {% endfor %}
 
