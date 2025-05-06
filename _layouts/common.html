@@ -26,23 +26,3 @@ layout: base
    </div>
 </div>
 
-{% for post in site.posts limit:4 %}
-  <p>{{ post.title }}</p>
-  {% assign frags = post.content | split: '<img ' %}
-  {% for frag in frags %}
-    {% if frag contains "src=" %}
-      {% assign pieces = frag | split: '>' %}
-      <p>pieces[0] = {{ pieces[0] }}</p>
-      {% assign imgattrs = pieces[0] | split: '"' %}
-      {% if imgattrs.size == 5 %}
-        {% assign imgsrc = imgattrs[1] %}
-        {% assign imgalt = imgattrs[3] %}
-        <p>imgsrc = {{ imgsrc }}</p>
-        <p>imgalt = {{ imgalt }}</p>
-        <img src="{{ imgsrc }}" alt="{{ imgalt }}">
-        {% break %}
-      {% endif %}
-    {% endif %}
-  {% endfor %}
-
-{% endfor %}
