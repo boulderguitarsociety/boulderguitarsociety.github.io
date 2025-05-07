@@ -1,6 +1,6 @@
 ---
 layout: an-event
-title: "Janet Feder with special guest Harry Tuft"
+title: "Janet Feder with Harry Tuft"
 brief: "A performance crossing genres and generations"
 tags:
 - Janet Feder
