@@ -1,7 +1,7 @@
 ---
 layout: an-event
 title: "Ensemble Night"
-brief: "Come and pick a piece to play with others for the audience!
+brief: "Come and pick a piece to play with others for the audience!"
 tags:
 - Mark Limber
 - Limber, Mark
