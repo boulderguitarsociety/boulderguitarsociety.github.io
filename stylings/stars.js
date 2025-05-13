@@ -7,9 +7,14 @@
 /**********************************************************/
 
    // global data
-   let starList = [];  // each item: [ imgsrc, name, href ]
+   let starList = [];  // each item: [ imgsrc, name, idref ]
    let nextItem = 0;   // next item to show
-   const strsDir = "https://boulderguitarsociety.github.io/strs/";  // dir containing imgs and list
+   // ids to reset when new set is highlighted
+   let previd1 = "";
+   let previd2 = "";
+   let previd3 = "";
+   // dir containing imgs and list
+   const strsDir = "https://boulderguitarsociety.github.io/strs/";
 
    // populate starList[], shuffle starList and display next three stars
    async function initStars() {
@@ -32,14 +37,14 @@
       nextThree()
    }
 
-   // parse "filename firstname lastname morenames" into [ imgsrc, name, href ]
+   // parse "filename firstname lastname morenames" into [ imgsrc, name, idref ]
    function parseLine(line) {
       let line2 = line.trim();  // remove any leading/trailing space
       let line3 = line2.replace(/\s+/, " ");  // consolidate whitespace
       let parts = line3.split(" ");
       let src = strsDir + parts.shift();  // get src from first field
       let nam = parts.join(" ");  // rejoin remaining parts to get full name
-      let ref = "#" + parts.join("_");  // replace blanks for local id ref
+      let idref = parts.join("_");  // replace blanks for local id ref
       starList.push([src, nam, ref]);  // save to starList
    }
 
@@ -62,6 +67,11 @@
 
    // populate next three star images, re-shuffling if near end
    function nextThree() {
+      if (previd1) {
+         document.getElementById(previd1).style = "";
+         document.getElementById(previd2).style = "";
+         document.getElementById(previd3).style = "";
+      }
       if (nextItem >= starList.length - 3) { 
          nextItem = 0;
          doShuffle();
@@ -76,7 +86,10 @@
       document.getElementById("nam1").innerHTML = star1[1];
       document.getElementById("nam2").innerHTML = star2[1];
       document.getElementById("nam3").innerHTML = star3[1];
-      document.getElementById("ref1").href = star1[2];
-      document.getElementById("ref2").href = star2[2];
-      document.getElementById("ref3").href = star3[2];
+      document.getElementById("ref1").href = "#" + star1[2];
+      document.getElementById("ref2").href = "#" + star2[2];
+      document.getElementById("ref3").href = "#" + star3[2];
+      document.getElementById(previd1).style = "color: #0011EE; font-weight: bold;";
+      document.getElementById(previd2).style = "color: #0011EE; font-weight: bold;";
+      document.getElementById(previd3).style = "color: #0011EE; font-weight: bold;";
    }
