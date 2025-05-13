@@ -2,8 +2,8 @@
 layout: base
 title: Stars
 ---
-
-<div class="stars">
+<script src="/stylings/stars.js"></script>
+<div class="stars" onload="initStars()">
 
    <div id="header_zone">
       <img id="wgly1" src="/stylings/PrintedPaper_line-3.png" alt="">
@@ -21,6 +21,32 @@ title: Stars
    <p>
      Thanks to all the <b>stars</b> who make our events possible!
    </p>
+   <h3>Do you recognize these stars?</h3>
+   <div id="starpics">
+      <div class="tooltip">
+         <a id="ref1" href="">
+         <img id="img1" class="starpic" src="" alt="star1">
+         </a>
+         <span id="nam1" class="tooltiptext"> </span>
+      </div>
+      <div class="tooltip">
+         <a id="ref2" href="">
+         <img id="img2" class="starpic" src="" alt="star2">
+         </a>
+         <span id="nam2" class="tooltiptext"> </span>
+      </div>
+      <div class="tooltip">
+         <a id="ref3" href="">
+         <img id="img3" class="starpic" src="" alt="star3">
+         </a>
+         <span id="nam3" class="tooltiptext"> </span>
+      </div>
+   </div>
+   <ul>
+      <li> Hover - to reveal their name</li>
+      <li> Click - to jump down to their event(s)</li>
+      <li> Or ... <button type="button" onclick="nextThree()">roll again</button> - for another random set.</li>
+   </ul>
    <p>
      This index includes both <b>featured artists</b> and, where we have records,
      the <b>players</b> at our monthly Open Stage Education Time.
