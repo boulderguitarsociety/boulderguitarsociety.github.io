@@ -89,7 +89,7 @@
       document.getElementById("ref1").href = "#" + star1[2];
       document.getElementById("ref2").href = "#" + star2[2];
       document.getElementById("ref3").href = "#" + star3[2];
-      document.getElementById(previd1).style = "color: #0011EE; font-weight: bold;";
-      document.getElementById(previd2).style = "color: #0011EE; font-weight: bold;";
-      document.getElementById(previd3).style = "color: #0011EE; font-weight: bold;";
+      document.getElementById(star1[2]).style = "color: #0011EE; font-weight: bold;";
+      document.getElementById(star2[2]).style = "color: #0011EE; font-weight: bold;";
+      document.getElementById(star3[2]).style = "color: #0011EE; font-weight: bold;";
    }
