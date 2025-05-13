@@ -9,7 +9,7 @@
    // global data
    let starList = [];  // each item: [ imgsrc, name, idref ]
    let nextItem = 0;   // next item to show
-   // ids to reset when new set is highlighted
+   // elements to reset when new set is highlighted
    let prevElem1 = "";
    let prevElem2 = "";
    let prevElem3 = "";
@@ -71,10 +71,10 @@
          prevElem1.style = "";
       }
       if (prevElem2) {
-         prevElem1.style = "";
+         prevElem2.style = "";
       }
       if (prevElem3) {
-         prevElem1.style = "";
+         prevElem3.style = "";
       }
       if (nextItem >= starList.length - 3) { 
          nextItem = 0;
