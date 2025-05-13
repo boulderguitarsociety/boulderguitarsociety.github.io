@@ -1,104 +1,108 @@
 ---
-layout: base
+layout: head
 title: Stars
 ---
 <script src="/stylings/stars.js"></script>
-<div class="stars" onload="initStars()">
-
-   <div id="header_zone">
-      <img id="wgly1" src="/stylings/PrintedPaper_line-3.png" alt="">
-      <div id="header_pos">
-         <div id="header_txt">
-            <p>{{ page.title }}</p>
+<body onload="initStars">
+   <div id="body_content">
+      <div class="stars" onload="initStars()">
+      
+         <div id="header_zone">
+            <img id="wgly1" src="/stylings/PrintedPaper_line-3.png" alt="">
+            <div id="header_pos">
+               <div id="header_txt">
+                  <p>{{ page.title }}</p>
+               </div>
+            </div>
+            <img id="wgly2" src="/stylings/PrintedPaper_line-3_2.png" alt="">
+         </div>
+      
+         {% assign current = "Stars" %}
+         {% include navigation.html %}
+      
+         <p>
+           Thanks to all the <b>stars</b> who make our events possible!
+         </p>
+         <h3>Do you recognize these stars?</h3>
+         <div id="starpics">
+            <div class="tooltip">
+               <a id="ref1" href="">
+               <img id="img1" class="starpic" src="" alt="star1">
+               </a>
+               <span id="nam1" class="tooltiptext"> </span>
+            </div>
+            <div class="tooltip">
+               <a id="ref2" href="">
+               <img id="img2" class="starpic" src="" alt="star2">
+               </a>
+               <span id="nam2" class="tooltiptext"> </span>
+            </div>
+            <div class="tooltip">
+               <a id="ref3" href="">
+               <img id="img3" class="starpic" src="" alt="star3">
+               </a>
+               <span id="nam3" class="tooltiptext"> </span>
+            </div>
+         </div>
+         <ul>
+            <li> Hover - to reveal their name</li>
+            <li> Click - to jump down to their event(s)</li>
+            <li> Or ... <button type="button" onclick="nextThree()">roll again</button> - for another random set.</li>
+         </ul>
+         <p>
+           This index includes both <b>featured artists</b> and, where we have records,
+           the <b>players</b> at our monthly Open Stage Education Time.
+           Featured artists are listed by full name and players
+           by first name and last initial.
+           This index will grow as both new and old events are recorded in our web site.
+         </p>
+         <br><img class="wgly" src="/stylings/PrintedPaper_line-3_3.png" alt="">
+      
+         <div class="letters">
+         {% assign alphahdg = "" %}
+         {% assign tags_sorted = site.tags | sort %}
+         {% for tag in tags_sorted %}
+            {% assign alphatag = tag[0] | slice: 0 %}
+            {% if alphatag != alphahdg %}
+               {% assign alphahdg = alphatag %}
+               <a href="#{{ alphahdg }}">{{ alphahdg }}</a>&nbsp;
+            {% endif %}
+         {% endfor %}
+         </div>
+      
+         <ul style="width: 510px">
+         {% assign alphahdg = "" %}
+         {% assign tags_sorted = site.tags | sort %}
+         {% for tag in tags_sorted %}
+            {% assign alphatag = tag[0] | slice: 0 %}
+            {% if alphatag != alphahdg %}
+               {% assign alphahdg = alphatag %}
+         </ul><div class="iltrid" id="{{ alphahdg }}"><h2><a href="#top">{{ alphahdg }}</a></h2></div><ul style="width: 510px">
+            {% endif %}
+            <li>{{ tag[0] }}</li>
+            <ul>
+               {% if tag[0] contains " " %}
+                  {% for post in tag[1] %}
+                     {% assign MonYEAR = post.date | date: "%b%Y" %}
+                     <li><a href="{{ post.url }}">{{ MonYEAR }}  {{ post.title }}</a></li>
+                  {% endfor %}
+               {% else %}
+                  <li>
+                  {% for post in tag[1] %}
+                     {% assign MonYEAR = post.date | date: "%b%Y" %}
+                     <a href="{{ post.url }}#footer">{{ MonYEAR }}</a> 
+                  {% endfor %}
+                  </li>
+               {% endif %}
+            </ul>
+         {% endfor %}
+         </ul>
+      
+         <div id="footer">
+            <div id="wgly3">
+               <img src="/stylings/PrintedPaper_line-3_3.png" alt="">
+            </div>
          </div>
       </div>
-      <img id="wgly2" src="/stylings/PrintedPaper_line-3_2.png" alt="">
    </div>
-
-   {% assign current = "Stars" %}
-   {% include navigation.html %}
-
-   <p>
-     Thanks to all the <b>stars</b> who make our events possible!
-   </p>
-   <h3>Do you recognize these stars?</h3>
-   <div id="starpics">
-      <div class="tooltip">
-         <a id="ref1" href="">
-         <img id="img1" class="starpic" src="" alt="star1">
-         </a>
-         <span id="nam1" class="tooltiptext"> </span>
-      </div>
-      <div class="tooltip">
-         <a id="ref2" href="">
-         <img id="img2" class="starpic" src="" alt="star2">
-         </a>
-         <span id="nam2" class="tooltiptext"> </span>
-      </div>
-      <div class="tooltip">
-         <a id="ref3" href="">
-         <img id="img3" class="starpic" src="" alt="star3">
-         </a>
-         <span id="nam3" class="tooltiptext"> </span>
-      </div>
-   </div>
-   <ul>
-      <li> Hover - to reveal their name</li>
-      <li> Click - to jump down to their event(s)</li>
-      <li> Or ... <button type="button" onclick="nextThree()">roll again</button> - for another random set.</li>
-   </ul>
-   <p>
-     This index includes both <b>featured artists</b> and, where we have records,
-     the <b>players</b> at our monthly Open Stage Education Time.
-     Featured artists are listed by full name and players
-     by first name and last initial.
-     This index will grow as both new and old events are recorded in our web site.
-   </p>
-   <br><img class="wgly" src="/stylings/PrintedPaper_line-3_3.png" alt="">
-
-   <div class="letters">
-   {% assign alphahdg = "" %}
-   {% assign tags_sorted = site.tags | sort %}
-   {% for tag in tags_sorted %}
-      {% assign alphatag = tag[0] | slice: 0 %}
-      {% if alphatag != alphahdg %}
-         {% assign alphahdg = alphatag %}
-         <a href="#{{ alphahdg }}">{{ alphahdg }}</a>&nbsp;
-      {% endif %}
-   {% endfor %}
-   </div>
-
-   <ul style="width: 510px">
-   {% assign alphahdg = "" %}
-   {% assign tags_sorted = site.tags | sort %}
-   {% for tag in tags_sorted %}
-      {% assign alphatag = tag[0] | slice: 0 %}
-      {% if alphatag != alphahdg %}
-         {% assign alphahdg = alphatag %}
-   </ul><div class="iltrid" id="{{ alphahdg }}"><h2><a href="#top">{{ alphahdg }}</a></h2></div><ul style="width: 510px">
-      {% endif %}
-      <li>{{ tag[0] }}</li>
-      <ul>
-         {% if tag[0] contains " " %}
-            {% for post in tag[1] %}
-               {% assign MonYEAR = post.date | date: "%b%Y" %}
-               <li><a href="{{ post.url }}">{{ MonYEAR }}  {{ post.title }}</a></li>
-            {% endfor %}
-         {% else %}
-            <li>
-            {% for post in tag[1] %}
-               {% assign MonYEAR = post.date | date: "%b%Y" %}
-               <a href="{{ post.url }}#footer">{{ MonYEAR }}</a> 
-            {% endfor %}
-            </li>
-         {% endif %}
-      </ul>
-   {% endfor %}
-   </ul>
-
-   <div id="footer">
-      <div id="wgly3">
-         <img src="/stylings/PrintedPaper_line-3_3.png" alt="">
-      </div>
-   </div>
-</div>
+</body>
