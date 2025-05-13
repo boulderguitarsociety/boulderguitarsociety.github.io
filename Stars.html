@@ -56,9 +56,10 @@ title: Stars
            by first name and last initial.
            This index will grow as both new and old events are recorded in our web site.
          </p>
-         <br><img class="wgly" src="/stylings/PrintedPaper_line-3_3.png" alt="">
-      
+         <br>
+
          <div id="top">
+         <img class="wgly" src="/stylings/PrintedPaper_line-3_3.png" alt="">
          <div class="letters">
          {% assign alphahdg = "" %}
          {% assign tags_sorted = site.tags | sort %}
@@ -83,7 +84,7 @@ title: Stars
             {% assign lid = nil %}
             {% if tag[0] contains " " %}
                {% unless tag[0] contains "," %}
-                  {% assign lid = tag[0] | replace " ", "_" %}
+                  {% assign lid = tag[0] | replace: " ", "_" %}
                {% endunless %}
             {% endif %}
             {% if lid %}
