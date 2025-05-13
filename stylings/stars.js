@@ -9,7 +9,7 @@
    // global data
    let starList = [];  // each item: [ imgsrc, name, href ]
    let nextItem = 0;   // next item to show
-   const strsDir = "/strs/";  // dir containing imgs and list
+   const strsDir = "https://boulderguitarsociety.github.io/strs/";  // dir containing imgs and list
 
    // populate starList[], shuffle starList and display next three stars
    async function initStars() {
