@@ -10,9 +10,9 @@
    let starList = [];  // each item: [ imgsrc, name, idref ]
    let nextItem = 0;   // next item to show
    // ids to reset when new set is highlighted
-   let previd1 = "";
-   let previd2 = "";
-   let previd3 = "";
+   let prevElem1 = "";
+   let prevElem2 = "";
+   let prevElem3 = "";
    // dir containing imgs and list
    const strsDir = "https://boulderguitarsociety.github.io/strs/";
 
@@ -67,10 +67,14 @@
 
    // populate next three star images, re-shuffling if near end
    function nextThree() {
-      if (previd1) {
-         document.getElementById(previd1).style = "";
-         document.getElementById(previd2).style = "";
-         document.getElementById(previd3).style = "";
+      if (prevElem1) {
+         prevElem1.style = "";
+      }
+      if (prevElem2) {
+         prevElem1.style = "";
+      }
+      if (prevElem3) {
+         prevElem1.style = "";
       }
       if (nextItem >= starList.length - 3) { 
          nextItem = 0;
@@ -89,7 +93,25 @@
       document.getElementById("ref1").href = "#" + star1[2];
       document.getElementById("ref2").href = "#" + star2[2];
       document.getElementById("ref3").href = "#" + star3[2];
-      document.getElementById(star1[2]).style = "color: #0011EE; font-weight: bold;";
-      document.getElementById(star2[2]).style = "color: #0011EE; font-weight: bold;";
-      document.getElementById(star3[2]).style = "color: #0011EE; font-weight: bold;";
+      let elem1 = document.getElementById(star1[2])
+      if (elem1) {
+         elem1.style = "color: #0011EE; font-weight: bold;";
+         prevElem1 = elem1;
+      } else {
+         prevElem1 = "";
+      }
+      let elem2 = document.getElementById(star2[2])
+      if (elem2) {
+         elem2.style = "color: #0011EE; font-weight: bold;";
+         prevElem2 = elem2;
+      } else {
+         prevElem2 = "";
+      }
+      let elem3 = document.getElementById(star3[2])
+      if (elem3) {
+         elem3.style = "color: #0011EE; font-weight: bold;";
+         prevElem3 = elem3;
+      } else {
+         prevElem3 = "";
+      }
    }
