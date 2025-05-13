@@ -45,7 +45,7 @@
       let src = strsDir + parts.shift();  // get src from first field
       let nam = parts.join(" ");  // rejoin remaining parts to get full name
       let idref = parts.join("_");  // replace blanks for local id ref
-      starList.push([src, nam, ref]);  // save to starList
+      starList.push([src, nam, idref]);  // save to starList
    }
 
    // do a Fisher-Yates shuffle on starList[] array
