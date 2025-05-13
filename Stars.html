@@ -50,7 +50,7 @@ title: Stars
             <li> Or ... <button type="button" onclick="nextThree()">roll again</button> - for another random set.</li>
          </ul>
          <p>
-           This index includes both <b>featured artists</b> and, where we have records,
+           The index below includes both <b>featured artists</b> and, where we have records,
            the <b>players</b> at our monthly Open Stage Education Time.
            Featured artists are listed by full name and players
            by first name and last initial.
@@ -58,6 +58,7 @@ title: Stars
          </p>
          <br><img class="wgly" src="/stylings/PrintedPaper_line-3_3.png" alt="">
       
+         <div id="top">
          <div class="letters">
          {% assign alphahdg = "" %}
          {% assign tags_sorted = site.tags | sort %}
@@ -79,7 +80,17 @@ title: Stars
                {% assign alphahdg = alphatag %}
          </ul><div class="iltrid" id="{{ alphahdg }}"><h2><a href="#top">{{ alphahdg }}</a></h2></div><ul style="width: 510px">
             {% endif %}
-            <li>{{ tag[0] }}</li>
+            {% assign lid = nil %}
+            {% if tag[0] contains " " %}
+               {% unless tag[0] contains "," %}
+                  {% assign lid = tag[0] | replace " ", "_" %}
+               {% endunless %}
+            {% endif %}
+            {% if lid %}
+               <li id="{{ lid }}">{{ tag[0] }}</li>
+            {% else %}
+               <li>{{ tag[0] }}</li>
+            {% endif %}
             <ul>
                {% if tag[0] contains " " %}
                   {% for post in tag[1] %}
