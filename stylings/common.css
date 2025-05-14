@@ -375,6 +375,11 @@ a:active {
   visibility: visible;
 }
 
+.memories #mainpic img {
+   max-width: 300px;
+   margin-left: 120px;
+}
+
 #footer {
    height: 80px;
    margin-left: 0px;
