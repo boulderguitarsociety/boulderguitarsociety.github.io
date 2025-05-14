@@ -375,7 +375,7 @@ a:active {
   visibility: visible;
 }
 
-.memories #mainpic img {
+#mainpic img {
    max-width: 300px;
    margin-left: 120px;
 }
