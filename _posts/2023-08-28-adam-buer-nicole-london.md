@@ -14,13 +14,14 @@ tags:
 
 [Adam Buer](https://www.adambuer.com/) received a Bachelor of Music Degree in Instrumental Music Education and a Master of Music Degree in Guitar Performance from the University of Idaho. While at the University of Idaho, Adam taught Guitar Class and private guitar lessons, served as teaching assistant for Rock and Roll History, and performed regularly in a variety of solo and group settings. From 2007-2010, Adam lived in Colorado and held various music teaching positions, including guitar instructor through the University of Colorado’s Continuing Education Program. He has performed with the Symphony Orchestras of Spokane and Walla Walla as well as the Boulder Guitar Orchestra, Central City Opera, Opera Fort Collins and Longmont Theater Company. Since 2016 Adam has taught music for Front Range Community Colleges. In 2017 he served as an adjudicator for the Lionel Hampton Jazz Festival. Adam’s teachers have included James Reid, Nicolo Spera, and Dale Bruning
 
-Selections include songs by Joaquin Rodrigos
+Selections include songs by <ins>Joaquin Rodrigos</ins>:
 * Coplas del Pastor enamorado
 * En Jerez de la Frontera
 * Adela
 * Del ronda
 * Copillas de Belen
-and from Manuel De Falla's _Siete Canciones Populares Españolas:_
+
+and from <ins>Manuel De Falla's</ins> _Siete Canciones Populares Españolas:_
 * Al paño Moruno
 * Seguidilla murciana
 * Jota
