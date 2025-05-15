@@ -388,17 +388,17 @@ a:active {
    grid-template-columns: auto auto;
    position: absolute;
    left: 0px;
-   top: 15px;
-   height: 40px;
+   top: 38px;
    width: 531px;
    z-index: 1;
+   line-height: 18px;
+   font-size: 15px;
 }
 
 #wgly3 {
    position: absolute;
    left: -45px;
-   top: 65px;
-   height: 6px;
+   top: 58px;
    width: 531px;
    border: none;
    z-index: 1;
