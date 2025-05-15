@@ -387,7 +387,7 @@ a:active {
    display: grid;
    grid-template-columns: auto auto;
    position: absolute;
-   left: 0px;
+   left: 30px;
    top: 38px;
    width: 531px;
    z-index: 1;
