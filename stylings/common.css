@@ -102,9 +102,8 @@ a:active {
 #header_zone #logo {
    /* for the medium logo on common pages */
    position: absolute;
-   left: 3px;
-   top: 12px;
-   width: 531px;
+   left: 30px;
+   top: 29px;
    height: 40px;
    z-index: 1;
    border: none;
@@ -113,9 +112,9 @@ a:active {
 #header_pos {
    /* positions the header tx/img within the header_zone */
    position: absolute;
-   left: 50px;
-   top: 0px;
-   width: 530px;
+   left: 80px;
+   top: 17px;
+   width: 500px;
    height: 61px;
    z-index: 1;
 }
