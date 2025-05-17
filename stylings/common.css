@@ -99,11 +99,22 @@ a:active {
    z-index: 5;
 }
 
+#header_zone #logo {
+   /* for the medium logo on common pages */
+   position: absolute;
+   left: 3px;
+   top: 12px;
+   width: 531px;
+   height: 40px;
+   z-index: 1;
+   border: none;
+}
+
 #header_pos {
    /* positions the header tx/img within the header_zone */
    position: absolute;
-   left: 30px;
-   top: 17px;
+   left: 50px;
+   top: 0px;
    width: 530px;
    height: 61px;
    z-index: 1;
