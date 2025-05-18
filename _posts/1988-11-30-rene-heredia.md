@@ -1,6 +1,6 @@
 ---
 layout: an-event
-title: "René Heredia plus the CU Guitar Ensemble"
+title: "René Heredia, CU Guitar Ensemble"
 brief: "Flamenco from Carnegie Hall and classical from CU"
 tags:
 - René Heredia
