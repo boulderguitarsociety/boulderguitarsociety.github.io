@@ -7,6 +7,14 @@ tags:
 - Burns, Dennis
 - Ted Reese
 - Reese, Ted
+- RalphS
+- GeorgeS
+- DeanP
+- PaigeB
+- EveG
+- DaleS
+- ChrisD
+- EugeneS
 ---
 ![DenverGuitarDuo](/pics/19840528-DenverGuitarDuo.jpg)
 
@@ -17,8 +25,8 @@ according to this BGS newsletter from June:
 ![JuneNewsletter](/pics/19840528-JuneNewsletter.png)
 
 The upcoming June meeting was a backyard barbecue at the Backlunds' home,
-with __Mary Melody__ as one of the contacts, along with Dennis
+with __Mary Melodie__ as one of the contacts, along with Dennis
 and Sandy Backlund.  Paige Bucklund was evidently a student of Dennis'.
 
 Note also, future concerts were listed at the Stanley Hotel in Estes Park
-and at a restaurant on the 16th Strete Mall in Denver.
+and at a restaurant on the 16th Street Mall in Denver.
