@@ -386,7 +386,7 @@ a:active {
 }
 
 #footer {
-   height: 80px;
+   height: 120px;
    margin-left: 0px;
    position: relative;
    width: 700px;
@@ -395,18 +395,22 @@ a:active {
 
 #footlogo {
    position: absolute;
-   left: 100px;
-   top: 0px;
-   height: 50px;
+   left: 240px;
+   top: 26px;
    border: none;
    z-index: 1;
 }
+
+#footlogo img {
+   height: 40px;
+}
+
 #footlinks {
    display: grid;
    grid-template-columns: auto auto;
    position: absolute;
    left: 30px;
-   top: 38px;
+   top: 98px;
    width: 531px;
    z-index: 1;
    line-height: 18px;
