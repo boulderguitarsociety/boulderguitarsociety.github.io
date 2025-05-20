@@ -410,7 +410,7 @@ a:active {
    grid-template-columns: auto auto;
    position: absolute;
    left: 30px;
-   top: 98px;
+   top: 78px;
    width: 531px;
    z-index: 1;
    line-height: 18px;
@@ -420,7 +420,7 @@ a:active {
 #wgly3 {
    position: absolute;
    left: -45px;
-   top: 58px;
+   top: 98px;
    width: 531px;
    border: none;
    z-index: 1;
