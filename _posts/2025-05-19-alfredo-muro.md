@@ -5,6 +5,12 @@ brief: "Guitarra Intima - a special performance for BGS"
 tags:
 - Alfredo Muro
 - Muro, Alfredo
+- TobyG
+- LudoM
+- MarkC
+- MarkL
+- MartinT
+- DanielP
 ---
 ![AlfredoMuro](/pics/20250519-AlfredoMuro.png)
 
