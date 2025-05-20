@@ -112,7 +112,7 @@ a:active {
 #header_pos {
    /* positions the header tx/img within the header_zone */
    position: absolute;
-   left: 80px;
+   left: 30px;
    top: 17px;
    width: 500px;
    height: 61px;
