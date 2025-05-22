@@ -1,7 +1,7 @@
 ---
 layout: an-event
 title: "The Music of Michael Bellmont"
-brief: "Michael's instrumental compositions (plus his "Broom Song")
+brief: "Michael's instrumental compositions (plus his \"Broom Song\")"
 tags:
 - Michael Bellmont
 - Bellmont, Michael
