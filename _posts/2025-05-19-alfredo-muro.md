@@ -16,7 +16,7 @@ tags:
 
 Afterwards Alfredo gets a little help from his friends <ins>Michael DeLalla</ins> and <ins>Steve Mullins</ins>:
 
-![TresAmigos](/pics/20250519-DeLallaMuroMullins.jpg)
+<img src="/pics/20250519-DeLallaMuroMullins.jpg" alt="TresAmigos" style="width: 300px;margin-left: 110px;">
 
 ![line](/pics/wgly-line.png)
 
