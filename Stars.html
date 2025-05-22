@@ -55,6 +55,13 @@ title: Stars
            Featured artists are listed by full name and players
            by first name and last initial.
            This index will grow as both new and old events are recorded in our web site.
+           {% assign stars = 0 %}
+           {% for tag in site.tags %}
+               {% unless tag[0] contains "," %}
+                  {% assign stars = stars | plus: 1 %}
+               {% endunless %}
+           {% endfor %}
+           Currently it has {{ stars }} stars.
          </p>
          <br>
 
