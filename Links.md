@@ -7,6 +7,9 @@ title: Links
 
 Colorado is blessed with a thriving guitar community. There are several guitar music groups serving the interests of guitar enthusiasts, and several BGS members enjoy also attending these other groups. Music is like botany in that cross-pollination is a good thing. Here are some of the other guitar groups you may be interested in exploring.
 
+> * [Denver Classical Guitar Society](https://www.facebook.com/groups/311026185306144/)  
+New!  Meets the third Friday of the month at homes in southeast Denver (e.g. Highlands Ranch and Parker).  For more info, contact rmcauleygeo@gmail.com.
+
 > * [Northern Colorado Guitar Society](https://coloradoguitar.com/)  
 Meets the 3rd Monday of each month in Loveland.
 
@@ -26,7 +29,7 @@ Meets the 3rd Saturday at 10:30 AM at Swallow Hill in Denver
 Meets the 1st Tuesday, from 6:00 PM to 8:45 PM, in the Laramie County Library
 
 > * [Classical Guitar NW Org](https://tunein.com/radio/Classical-Guitar-Northwest-s233642/)  
-A classical guitar channel on TuneIn free internet radio
+Was a group but now a classical guitar channel on TuneIn free internet radio
 
 
 Additional sister groups across the country are listed here:
