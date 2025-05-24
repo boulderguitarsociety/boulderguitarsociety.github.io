@@ -10,7 +10,9 @@ Colorado is blessed with a thriving guitar community. There are several guitar m
 > * [Northern Colorado Guitar Society](https://coloradoguitar.com/)  
 Meets the 3rd Monday of each month in Loveland.
 
-> * [Western Colorado Guitar Society](https://www.facebook.com/WesternColoradoGuitar/)  
+> * [Western Colorado Guitar Society](https://www.facebook.com/WesternColoradoGuitar/) 
+
+> * [Colorado Springs Guitar Society](https://www.facebook.com/coloradospringsguitarsociety/)  
 
 > * [Boulder Ukulele Group (B.U.G.)](https://www.boulderukulelegroup.com/BUG_About_Us.php)  
 Meets the 2nd Saturday of the month, 10:30 AM to noon
@@ -24,7 +26,24 @@ Meets the 3rd Saturday at 10:30 AM at Swallow Hill in Denver
 Meets the 1st Tuesday, from 6:00 PM to 8:45 PM, in the Laramie County Library
 
 > * [Classical Guitar NW Org](https://tunein.com/radio/Classical-Guitar-Northwest-s233642/)  
-A channel on TuneIn free internet radio
+A classical guitar channel on TuneIn free internet radio
+
+
+Additional sister groups across the country are listed here:
+
+> * [United States guitar societies](https://www.classicalguitar.org/societies/us/)
+
+## Friends of BGS ##
 
 > * [A Child's Song](https://achildssong.org/)  
 Music and movement programs for all ages and abilities.
+
+> * [One Voice For Change](https://www.onevoice4change.org/about-us)  
+Founded by Felicity Muench to build learning partnerships in Belize, Mexico and Colorado.
+
+> * [Boulder County Arts Alliance](https://www.bouldercountyarts.org/)  
+A great source for all things art in Boulder.
+
+> * [Mojo's Music Academy](https://www.mojosmusicacademy.com/)  
+Making music fun, in Longmont.
+
