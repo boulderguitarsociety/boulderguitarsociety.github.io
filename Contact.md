@@ -17,8 +17,8 @@ title: Contact
 >   - if you have a <ins>show coming up</ins> and would like it featured in our monthly newsletter
 >
 > * [boulderguitarsocietyweb@gmail.com](mailto:boulderguitarsocietyweb@gmail.com)
->   - to our web maintainers "Webster"
->   - if you have a suggestion for our <ins>web site</ins> or its content
+>   - to our web maintainer(s) "Webster"
+>   - if you have a <ins>suggestion for our web site</ins> or its content
 
 ### via postal mail ... ###
 > * __Boulder Guitar Society__  
