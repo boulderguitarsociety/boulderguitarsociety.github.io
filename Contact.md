@@ -18,12 +18,12 @@ title: Contact
 >
 > * [boulderguitarsocietyweb@gmail.com](mailto:boulderguitarsocietyweb@gmail.com)
 >   - to our web maintainers "Webster"
->   - if you have a problem with our <ins>web site</ins> or its content
+>   - if you have a suggestion for our <ins>web site</ins> or its content
 
 ### via postal mail ... ###
->>   __Boulder Guitar Society__  
->>   __1403 Cypress Circle__  
->>   __Lafayette, CO 80026__  
+> * __Boulder Guitar Society__  
+>   __1403 Cypress Circle__  
+>   __Lafayette, CO 80026__  
   
 
 >>> ### _We'd like to hear from you!_ ###
