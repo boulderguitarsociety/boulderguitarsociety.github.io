@@ -5,7 +5,7 @@ title: Contact
 
 ## _There are several ways to contact BGS:_ ##
 
-###via email ...###
+### via email ... ###
 
 > * [info@boulderguitarsociety.org](mailto:info@boulderguitarsociety.org)
 >   - to President Toby Gallegos
@@ -20,10 +20,10 @@ title: Contact
 >   - to our web maintainers "Webster"
 >   - if you have a problem with our <ins>web site</ins> or its content
 
-###via postal mail ...###
+### via postal mail ... ###
 >   >   Boulder Guitar Society  
 >   >   1403 Cypress Circle  
 >   >   Lafayette, CO 80026
 
-###_We'd like to hear from you!_###
+### _We'd like to hear from you!_ ###
 
