@@ -186,6 +186,9 @@ a:active {
    display: inline-block;
    margin-left: 0px;
    margin-right: 20px;
+   background-image: url(/stylings/PrintedPaper_line-3.png);
+   background-repeat: no-repeat;
+   background-position: center bottom;
 }
 
 #navbar .current-page a {
