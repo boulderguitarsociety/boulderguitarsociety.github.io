@@ -1,0 +1,11 @@
+---
+layout: common
+title: Welcome
+---
+
+![Welcome](/pics/Welcome.png)
+
+The purpose of the Boulder Guitar Society is to foster and promote the teaching, learning, enjoyment and performance experience of guitar music with an emphasis on classical and fingerstyle guitar. The society holds monthly meetings on the last Monday of each month, held at the First United Methodist Church in Boulder. Meetings, which are open to everyone, feature lectures/presentations by area artists, mini recitals and an open forum for members to perform.
+
+BGS members include amateur guitarists, guitar students, guitar teachers, professional guitarists, guitar builders, university music graduate students and undergraduates, and guitar enthusiasts of all shapes, sizes, and ability levels.  <ins>Everyone is welcome!</ins>
+
