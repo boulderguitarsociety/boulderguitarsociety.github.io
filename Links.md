@@ -32,7 +32,7 @@ Meets the 1st Tuesday, from 6:00 PM to 8:45 PM, in the Laramie County Library
 Was a group but now a classical guitar channel on TuneIn free internet radio
 
 
-Additional sister groups across the country are listed here:
+Additional guitar societies across the country are listed here:
 
 > * [United States guitar societies](https://www.classicalguitar.org/societies/us/)
 
@@ -42,11 +42,17 @@ Additional sister groups across the country are listed here:
 Music and movement programs for all ages and abilities.
 
 > * [One Voice For Change](https://www.onevoice4change.org/about-us)  
-Founded by Felicity Muench to build learning partnerships in Belize, Mexico and Colorado.
+Founded by <ins>Felicity Muench</ins> to build learning partnerships in Belize, Mexico and Colorado.
 
-> * [Boulder County Arts Alliance](https://www.bouldercountyarts.org/)  
-A great source for all things art in Boulder.
+> * [Conery Guitars](http://coneryguitars.com/Home.html)  
+Hand built classical guitars by BGS member <ins>Chris Conery</ins>.
+
+> * [Kevin Garry](https://kevingarry.com/)  
+Professor, teacher, performer and long-time BGS member.
 
 > * [Mojo's Music Academy](https://www.mojosmusicacademy.com/)  
 Making music fun, in Longmont.
+
+> * [Boulder County Arts Alliance](https://www.bouldercountyarts.org/)  
+A great source for all things art in Boulder.
 
