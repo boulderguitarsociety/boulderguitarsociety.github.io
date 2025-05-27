@@ -6,7 +6,7 @@ title: Contact
 ## _There are several ways to contact BGS:_ ##
 
 ### via email ... ###
-
+>
 > * [info@boulderguitarsociety.org](mailto:info@boulderguitarsociety.org)
 >   - to President Toby Gallegos
 >   - for <ins>general communication</ins> regarding The Boulder Guitar Society
@@ -14,12 +14,18 @@ title: Contact
 >
 > * [guitarsocietyboulder@gmail.com](mailto:guitarsocietyboulder@gmail.com)
 >   - to newsletter editor Mark Limber
->   - if you have a <ins>show coming up</ins> and would like it featured in our monthly newsletter
+>   - if you'd like to <ins>get our monthly newsletter</ins>
+>   - if you have a <ins>show coming up</ins> and would like it featured in our newsletter
 >
 > * [boulderguitarsocietyweb@gmail.com](mailto:boulderguitarsocietyweb@gmail.com)
 >   - to our web maintainer(s) "Webster"
 >   - if you have a <ins>suggestion for our web site</ins> or its content
-
+>
+### via Facebook ... ###
+>
+> * [https://www.facebook.com/people/Boulder-Guitar-Society/100064540188146/](https://www.facebook.com/people/Boulder-Guitar-Society/100064540188146/)  
+>   - tells us about your videos and recordings
+>
 ### via postal mail ... ###
 > * __Boulder Guitar Society__  
 >   __1403 Cypress Circle__  
