@@ -14,5 +14,4 @@ For more information see ...
 > * [Events](Events.html) - for upcoming plans and recent happenings
 > * [Contact](Contact.html) - to get our newsletter or email us
 
-And finally, your [Support](Support.html) is essential so please help.
-
+And finally, your [Support](Support.html) is essential so please help.  <ins>Thank you!</ins>  
