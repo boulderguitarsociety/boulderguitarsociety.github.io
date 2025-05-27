@@ -20,12 +20,12 @@ title: Contact
 > * [boulderguitarsocietyweb@gmail.com](mailto:boulderguitarsocietyweb@gmail.com)
 >   - to our web maintainer(s) "Webster"
 >   - if you have a <ins>suggestion for our web site</ins> or its content
->
+
 ### via Facebook ... ###
 >
-> * [https://www.facebook.com/people/Boulder-Guitar-Society/100064540188146/](https://www.facebook.com/people/Boulder-Guitar-Society/100064540188146/)  
+> * [www.facebook.com/people/Boulder-Guitar-Society/100064540188146/](https://www.facebook.com/people/Boulder-Guitar-Society/100064540188146/)  
 >   - tells us about your videos and recordings
->
+
 ### via postal mail ... ###
 > * __Boulder Guitar Society__  
 >   __1403 Cypress Circle__  
