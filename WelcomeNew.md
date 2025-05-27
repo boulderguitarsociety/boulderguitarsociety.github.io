@@ -10,9 +10,9 @@ The purpose of the Boulder Guitar Society is to foster and promote the teaching,
 BGS members include amateur guitarists, guitar students, guitar teachers, professional guitarists, guitar builders, university music graduate students and undergraduates, and guitar enthusiasts of all shapes, sizes, and ability levels.  <ins>Everyone is welcome!</ins>
 
 For more information see ...  
-* [Meetings](/Meetings.html) for what typically goes on and how to get there
-* [Events](Events.html) for upcoming plans and recent happenings
-* [Contact](Contact.html) to get our newsletter or email us
+> * [Meetings](/Meetings.html) - for what typically goes on and how to get there
+> * [Events](Events.html) - for upcoming plans and recent happenings
+> * [Contact](Contact.html) - to get our newsletter or email us
 
 And finally, your [Support](Support.html) is essential so please help.
 
