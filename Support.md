@@ -3,7 +3,7 @@ layout: common
 title: Support
 ---
 
-<p><img src="/pics/HelpBGSb.png" alt="HelpBGS" style="margin-left: 20px;"></p>
+<p><img src="/pics/HelpBGS.png" alt="HelpBGS" style="margin-left: 20px;"></p>
 
 ## BGS needs your continuing support! ##
 
