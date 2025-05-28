@@ -7,7 +7,7 @@ title: About
 
 ### Origins ###
 
-The early history of the Boulder Guitar Society is lost in the mist of time. In the 1980s monthly meetings were held at the Boulder Public Library and H. B. Woodsongs, as well as at members’ homes. The concert series was sponsored by H. B. Woodsongs, the historic Boulder music store owned by Jon Eaton. An early organizer was a local player and teacher named (appropriately) Mary Melodie, along with the first CU student to graduate with a degree in Guitar Performance (Dennis Burns, 1983). The focus of the society then, as today, was on both classical and finger-style guitar music. Meetings consisted of concerts and presentations by area artists as well as performances by society members, as can be seen in the earliest newsletters on our [Memories](/Memories.html) page.
+The early history of the Boulder Guitar Society is lost in the mist of time. In the 1980s monthly meetings were held at the Boulder Public Library and H. B. Woodsongs, as well as at members’ homes. The concert series was sponsored by H. B. Woodsongs, the historic Boulder music store owned by Jon Eaton. An early organizer was a local player and teacher named (appropriately) Mary Melodie, along with the first CU student to graduate with a degree in Guitar Performance (Dennis Burns, 1983). The focus of the society then, as today, was on both classical and finger-style guitar music. Meetings consisted of concerts and presentations by area artists as well as performances by society members, as can be seen in the earliest newsletters on our [Memories](/Memories.html#footer) page.
 
 ### History ###
 
