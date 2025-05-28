@@ -24,7 +24,7 @@ title: Contact
 ### via Facebook ... ###
 >
 > * [www.facebook.com/people/Boulder-Guitar-Society/100064540188146/](https://www.facebook.com/people/Boulder-Guitar-Society/100064540188146/)  
->   - tells us about your videos and recordings
+>   - tell us about your videos and recordings!
 
 ### via postal mail ... ###
 > * __Boulder Guitar Society__  
