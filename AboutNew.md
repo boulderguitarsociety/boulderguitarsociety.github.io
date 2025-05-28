@@ -20,3 +20,5 @@ In later years Steve Blunk and Carey Harwood directed the society. Dan Harris jo
 ### Present ###
 
 The current board consists of Toby Gallegos (President and Treasurer), Chris Conery(Webmaster), and Marcio DeSousa (Newsletter Editor). The society has incorporated as a 501(c)(3) non-profit, is seeking local sponsorships, and is inviting a wider array of Boulder area guitarist to be active in the society. Webmaster Chris Conery has revived the website and made the CD Library catalog available on this site.
+
+<img src="/stylings/Goldenrod_Plant_b_v.png" alt="" style="position: absolute; right: 0px; bottom: -8px; z-index: 1; ">
