@@ -3,7 +3,7 @@ layout: common
 title: Support
 ---
 
-![HelpBGS](/pics/HelpBGS.png)  
+<p><img src="/pics/HelpBGSb.png" alt="HelpBGS" style="margin-left: 20px;"></p>
 
 ## BGS needs your continuing support! ##
 
