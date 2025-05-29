@@ -19,6 +19,6 @@ In later years Steve Blunk and Carey Harwood directed the society. Dan Harris jo
 
 ### Present ###
 
-The current board consists of Toby Gallegos (President and Treasurer), Marcio DeSousa and Dan Fairchild. Mark Limber does the newsletter and Jeff Olson has been updating the web site.  The society has incorporated as a 501(c)(3) non-profit, is seeking local sponsorships, and is inviting a wider array of Boulder area guitarist to be active in the society. 
+The current board consists of Toby Gallegos (President and Treasurer), Marcio DeSousa and Dan Fairchild. Mark Limber does the newsletter and Jeff Olson has been updating the web site.  The society has incorporated as a 501(c)(3) non-profit, is seeking local sponsorships, and is inviting a wider array of Boulder area guitarists to be active in the society. 
 
 <img src="/stylings/Goldenrod_Plant_b_v.png" alt="" style="position: absolute; right: 0px; bottom: 0px; z-index: 1; ">
