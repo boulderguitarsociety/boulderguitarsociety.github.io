@@ -21,7 +21,7 @@ It's open to anyone, time permitting.
 
 <a href="https://jjolson.net/BGS/about.html"><img src="/pics/handout-stand-0.png" alt="HandoutStand" style="width: 300px;margin-left: 100px;"></a>
 
-Beginning in 2023, we've been providing monthly sightreading handouts to encourage members to practice reading simple melodies in a variety of positions on the neck.  The seasonal theme and whimsical fretboard graphic vary each month, but the challenge is the same.  Sightread the unidentified music on the front page and see if you recognize the melody, then look at the back page for answers and entertaining links to youtube and wikipedia.  See the [Jan2024](https://jjolson.net/BGS/Jan2024.html) handout for beginning instructions.  The [complete list of handouts](https://jjolson.net/BGS/complete.html) is maintained on Jeff Olson's web site.
+Since 2023 we've been providing monthly [sightreading handouts](https://jjolson.net/BGS/about.html) to encourage members to practice reading simple melodies in a variety of positions on the neck.  The seasonal theme and whimsical fretboard graphic vary each month, but the challenge is the same.  Sightread the unidentified music on the front page and see if you recognize the melody, then look at the back page for answers and entertaining links to youtube and wikipedia.  See the [Jan2024](https://jjolson.net/BGS/Jan2024.html) handout for concise instructions on how to begin sightreading.  The [complete list of handouts](https://jjolson.net/BGS/complete.html) is maintained on Jeff Olson's web site.
 
 ### Music Library ###
 
