@@ -15,7 +15,7 @@ tags:
 ![AlfredoMuro](/pics/20250519-AlfredoMuro.png)
 
 #### The finale ####
-..... Crossing four strings: ......... walking the neck: ............ playing the head:
+..... Crossing four strings: ...... walking the neck: ........... playing the head:
 ![AlfredoMuroFinale](/pics/20250519-AlfredoMuroFinale.jpg)
 
 Afterwards Alfredo gets a little help from his friends <ins>Michael DeLalla</ins> and <ins>Steve Mullins</ins>:
