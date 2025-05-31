@@ -12,7 +12,7 @@ tags:
 - MartinT
 - DanielP
 ---
-![AlfredoMuro](/pics/20250519-AlfredoMuro.png)
+![AlfredoMuro](/pics/20250519-AlfredoMuro.jpg)
 
 #### The finale ####
 ..... Crossing four strings: ...... walking the neck: ...... playing the head:
