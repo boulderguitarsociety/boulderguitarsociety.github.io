@@ -15,7 +15,7 @@ tags:
 ![AlfredoMuro](/pics/20250519-AlfredoMuro.png)
 
 #### The finale ####
-..... Crossing four strings: ...... walking the neck: ...... playing the head:
+..... Crossing four strings: ......... walking the neck: ............ playing the head:
 ![AlfredoMuroFinale](/pics/20250519-AlfredoMuroFinale.jpg)
 
 Afterwards Alfredo gets a little help from his friends <ins>Michael DeLalla</ins> and <ins>Steve Mullins</ins>:
@@ -31,12 +31,12 @@ Afterwards Alfredo gets a little help from his friends <ins>Michael DeLalla</ins
 * LudoM
    - [Fantasia on a Theme from La Traviata](https://www.youtube.com/watch?v=IhAHYcqsHBs), by Tárrega
 * MarkC
-   - Somewhere Over the Rainbow, in his own arrangement
+   - <ins>Somewhere Over the Rainbow</ins>, in his own arrangement
    - [Bourrée in E minor](https://www.youtube.com/watch?v=APNI2CC0k6A), by Bach, popularized by Jethro Tull
 * MarkL
    - [Altair](https://www.youtube.com/watch?v=co9eUOkLmdM), by Agustín Barrios
 * MartinT
-   - Air on the G String, by Bach, arranged by Alfredo Muro
-   - Recuerdos de la Alhambra, by Tárrega
+   - [Aria Na 4ta. Corda](https://www.youtube.com/watch?v=FUPx42UmSng&t=9s), by Bach, <ins>as arranged by Alfredo Muro</ins>
+   - [Recuerdos de la Alhambra](https://www.youtube.com/watch?v=R-5weyHVC2U), by Tárrega, for Alfredo
 * DanielP
    - [El Sueño de la Muñequita](https://www.youtube.com/watch?v=qT5kpfVfq_U), by Agustín Barrios ("A Little Doll's Dream")
