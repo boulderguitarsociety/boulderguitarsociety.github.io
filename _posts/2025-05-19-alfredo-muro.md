@@ -14,11 +14,11 @@ tags:
 ---
 ![AlfredoMuro](/pics/20250519-AlfredoMuro.png)
 
-[Alfredo Muro](https://alfredomuro.com/) has so many friends in BGS and Colorado that he needs no additional introduction for this event.  But all are invited to tour his [web sitea](https://alfredomuro.com/) and read his [biography](https://alfredomuro.com/biography/) there.  While you're at it, catch up on his [latest albums](https://alfredomuro.com/cds/) too.
+[Alfredo Muro](https://alfredomuro.com/) has so many friends in BGS and Colorado that he needs no introduction for this event.  But all are invited to tour his [web site](https://alfredomuro.com/) and read his [biography](https://alfredomuro.com/biography/) there.  While you're at it, catch up on his [latest albums](https://alfredomuro.com/cds/) for download, too.
 
-In his final piece of the night, he entertained all with some amazing moves:
+In his final piece he entertained all with some amazing moves:
 
-... crossing four strings: ... walking the neck: ... playing the head:
+crossing four strings ... walking the neck ... playing the head
 ![AlfredoMuroFinale](/pics/20250519-AlfredoMuroFinale.jpg)
 
 Afterwards Alfredo got a little help from his friends <ins>Michael DeLalla</ins> and <ins>Steve Mullins</ins>:
