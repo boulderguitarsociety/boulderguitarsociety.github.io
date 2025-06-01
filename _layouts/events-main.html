@@ -26,11 +26,11 @@ layout: base
    </p>
    <br><img class="wgly" src="/stylings/PrintedPaper_line-3_3.png" alt="">
 
-   <h2>Upcoming Events:</h2>
+   <h1>Upcoming Events:</h1>
    {{ content }}
    <br><img class="wgly" src="/stylings/PrintedPaper_line-3_3.png" alt="">
 
-   <h2>Our Latest Event:</h2>
+   <h1>Our Latest Event:</h1>
    {% assign latest = site.posts.first %}
    <div id="latest_ttl">
       <p><a href="{{ latest.url }}">{{ latest.title }}</a></p>
@@ -42,7 +42,7 @@ layout: base
    </div>
    <br><img class="wgly" src="/stylings/PrintedPaper_line-3_3.png" alt="">
 
-   <h2>Other Recent Events:</h2>
+   <h1>Other Recent Events:</h1>
    {% for post in site.posts limit:4 %}
       {% unless post == latest %}
          <br><p>
