@@ -14,11 +14,14 @@ tags:
 ---
 ![AlfredoMuro](/pics/20250519-AlfredoMuro.png)
 
-#### The finale ####
-..... Crossing four strings: ...... walking the neck: ........ playing the head:
+[Alfredo Muro](https://alfredomuro.com/) has so many friends in BGS and Colorado that he needs no additional introduction for this event.  But all are invited to tour his [web sitea](https://alfredomuro.com/) and read his [biography](https://alfredomuro.com/biography/) there.  While you're at it, catch up on his [latest albums](https://alfredomuro.com/cds/) too.
+
+In his final piece of the night, he entertained all with some amazing moves:
+
+... crossing four strings: ... walking the neck: ... playing the head:
 ![AlfredoMuroFinale](/pics/20250519-AlfredoMuroFinale.jpg)
 
-Afterwards Alfredo gets a little help from his friends <ins>Michael DeLalla</ins> and <ins>Steve Mullins</ins>:
+Afterwards Alfredo got a little help from his friends <ins>Michael DeLalla</ins> and <ins>Steve Mullins</ins>:
 
 <img src="/pics/20250519-DeLallaMuroMullins.jpg" alt="TresAmigos" style="width: 300px;margin-left: 110px;">
 
