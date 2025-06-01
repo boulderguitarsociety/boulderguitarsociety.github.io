@@ -29,19 +29,19 @@ Tonight's performance was with cellist [Dianne Betkowski](https://www.facebook.c
 
 #### Open Stage Education Time: ####
 * RickC
-   - Melted, by Rick, for fretless guitar
+   - <ins>Melted</ins>, by Rick, for fretless guitar
 * JoeMcH and GabrielB
-   - Oriental, 12 Danzas Españolas, No.2, by Granados, arr by Gabe
+   - [Oriental, 12 Danzas Españolas, No.2](https://www.youtube.com/watch?v=WV3KOQocmb4), by Granados, arr by Gabe
    - Joe is Gabe's former teacher and current student
 * MartinT
    - Mazurka, by a student of Tárrega
    - A bluesy piece by a Czech composer
 * LudoM
-   - Guajira de Lucia, by Paco de Lucia
+   - [Guajira de Lucia](https://www.youtube.com/watch?v=9UYjc75ZV6E), by Paco de Lucia
 * DanielP
-   - Se Ela Perguntar, by Dilermando Reis
-   - Caprice No.2, by Luigi Legnani
+   - [Se Ela Perguntar](https://www.youtube.com/watch?v=LmQt3X4wKSE&t=8s), by Dilermando Reis
+   - [Caprice No.2](https://www.youtube.com/watch?v=qnhT1PWmJCw), by Luigi Legnani
 * SeanK
-   - Etude in B minor, by Sor, Op.35 No.22
+   - [Etude in B minor](https://www.youtube.com/watch?v=ShEBq6247Pg), by Sor, Op.35 No.22
 * SulaimanZ
-   - Alaskan Blue, by Sulaiman, inspired by a dream
+   - [Alaskan Blue](https://www.youtube.com/watch?v=FoJeMWfy3RM), by Sulaiman, inspired by a dream
