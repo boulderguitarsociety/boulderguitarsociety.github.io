@@ -24,14 +24,14 @@ of musicians but also gain valuable insight into how a master approaches
 a piece - both technically and musically.
 
 Four BGS guitarists played for Sulaiman:
-* Martin Ters
-   - Song Fron Vicenza, by Czech composer Milan Tesař
-* Doug Hurcomb
-   -  Valse from Souvenirs de Flanders Opus 5, by Napoleon Coste
-* Daniel Palmer
-   - Prelude No.2, by Heitor Villa-Lobos
-* Sean Kelly
-   - Se io m'Accorgo, arr. by Oscar Chilesotti
+* <ins>Martin Ters</ins>
+   - [Song Fron Vicenza](https://www.youtube.com/watch?v=MfGp5DVOxio), by Czech composer Milan Tesař
+* <ins>Doug Hurcomb</ins>
+   -  [Valse from Souvenirs de Flanders Opus 5](https://www.youtube.com/watch?v=ennLho83IZA), by Napoleon Coste
+* <ins>Daniel Palmer</ins>
+   - [Prelude No.4](https://www.youtube.com/watch?v=JtqefDkZ0Xg), by Heitor Villa-Lobos
+* <ins>Sean Kelly</ins>
+   - [Se io m'Accorgo](https://www.youtube.com/watch?v=ThbbTG3FQCA), arr. by Oscar Chilesotti
 
 Advice all of us could use:
 * On rhythm, use the whole body
