@@ -40,7 +40,7 @@ After the quintet, Mark finished with a solo.  Following a break there was the u
    - Evocación, José Luis Merlin
    - Recuerdos de la Alhambra, Tarrega (starting with major then minor)
 * DanielP
-   - Ode to Joy, Beethoven, arr. by Bridget Mermikides
+   - Ode to Joy, Beethoven, [arr. by Bridget Mermikides](https://www.amazon.com/Classical-Anthology-Masterpieces-Beethoven-Tchaikovsky/dp/1495046257/)
 * JeffO (on piano)
    - Played Vivaldi's chord progression from the [Mar2025](https://jjolson.net/BGS/Mar2025.pdf) sightreading
    - Also demonstrated effect of a rhythm change in Scott Joplin's Bethena
