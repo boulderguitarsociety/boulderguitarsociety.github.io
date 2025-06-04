@@ -18,6 +18,7 @@ Gypsy Jazz is a blend of traditional Romani music and swing jazz that originated
 Soon after discovering Django Reinhardt and Gypsy Jazz, Olli was playing in jazz clubs and festivals all around Finland. After touring all around Europe with musicians such as Paulus Schäfer and Arnoud Van Den Berg, Olli decided to move to New York City in 2014. Olli has played legendary venues such as Birdland Jazz Club, the Blue Note and the Lincoln Center. Despite his young age he’s already played with stars such as Bucky Pizzarelli, Stochelo Rosenberg, Tommy Emmanuel, Andreas Öberg, Cyrille Aimee, Anat Cohen, Antti Sarpila, and Marian Petrescu. Olli Soikkeli was part of the recent International Guitar Night 20th Anniversary Tour.
 
 Also see [Olli on Instagram](https://www.instagram.com/ollisoikkeli/?hl=en).  
+<br>
 
 [Cesar Garabini](https://cesargarabini.weebly.com/) was born in 1987 in Minas Gerais. He is an Italian-Brazilian 7-string guitarist that specializes in Choro, the predecessor to the well-known Brazilian music styles Samba and Bossa Nova. Choro began in the 1890s as a mix of European classical and folk with African rhythms, its popularity began in the 1900s and continues to present day.
 
