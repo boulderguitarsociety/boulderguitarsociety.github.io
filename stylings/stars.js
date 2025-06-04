@@ -114,4 +114,5 @@
       } else {
          prevElem3 = "";
       }
+      document.getElementById("photocnt").innerHTML = starList.length;
    }
