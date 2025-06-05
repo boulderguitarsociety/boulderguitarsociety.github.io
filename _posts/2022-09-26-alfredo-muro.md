@@ -9,7 +9,7 @@ tags:
 
 ![AlfredoMuro](/pics/20220926-AlfredoMuro.jpg)
 
-[Alfredo Muro](https://alfredomuro.com/cds/) shares the joy of his musical talent while performing, composing, teaching at international guitar festivals, concerts, lectures or coaching/teaching at his Guitar Studio. These three passions provide the basis for the phenomenal success of this musician and his ongoing and constant evolution.
+[Alfredo Muro](https://alfredomuro.com/home/) shares the joy of his musical talent while performing, composing, teaching at international guitar festivals, concerts, lectures or coaching/teaching at his Guitar Studio. These three passions provide the basis for the phenomenal success of this musician and his ongoing and constant evolution.
 
 Alfredo Muro is hailed as one of the most celebrated guitar virtuoso of the time and ambassador of music from South America.
 
