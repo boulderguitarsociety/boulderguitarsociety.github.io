@@ -8,6 +8,22 @@ tags:
 ---
 
 ![DeckPartyAI](/pics/20220829-DeckParty.jpg)
+_Actual picture - taken in the future - of our deck party_
+
+LET'S PARTY!! We had so much fun last summer, we decided to do it again. Combination meeting and potluck deck party.
+ 
+WHEN:  Monday, August 29, 2022, 6:00 p.m. to dusk.
+ 
+WHERE:  The roof-top deck at the Lafayette home of Toby Gallegos and Liane Pedersen-Gallegos. RSVP to learn the secret location!
+
+WHO:  Special Guest Artist: Alex Heffron (see below) will play from 7:00-ish to 8:00-ish. Jamming and open stage before and after Alex’s performance. And eating.
+
+WHAT TO BRING:  Your guitar and a dish to share. The hosts will provide non-alcoholic beverages along with plates, bowls, napkins and utensils (all compostable or washable). You may also want to bring a camping chair in case the host runs out of chairs.
+ 
+WHAT TO EXPECT:  Good music, good food, good fellowship, good fun.
+ 
+Spouses, partners, guests, and kids are welcome.
+
 
 [Alex Heffron](https://www.alexheffronmusic.com/) is a jazz guitarist located in Denver, CO.  Alex has a degree in Jazz Guitar from the University of Colorado Boulder. He is a member of numerous groups around Colorado and has performed with many of the local legends, including Ken Walker, Eric Gunnison, Paul Romaine, John Gunther, Paul Warburton, Bob Montgomery, Paul McKee, Jeff Jenkins, Joe Anderies, Gabe Mervine, and Todd Reid, to name a few.
 
