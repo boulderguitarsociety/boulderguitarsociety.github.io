@@ -53,9 +53,6 @@ Professor, teacher, performer and long-time BGS member.
 > * [H.B. Woodsongs](https://www.hbwoodsongs.com/) and [Woodsongs Lutherie](https://www.lutherie.com/)  
 For instruments and restorations; a Boulder legacy and always a BGS friend.
 
-> * [Mojo's Music Academy](https://www.mojosmusicacademy.com/)  
-Making music fun, in Longmont.
-
 > * [Boulder County Arts Alliance](https://www.bouldercountyarts.org/)  
 A great source for all things art in Boulder.
 
