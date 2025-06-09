@@ -1,7 +1,7 @@
 ---
 layout: an-event
 title: "Johnny Smith Jazz"
-brief: "Guitarist Johnny Smith and the Neil Bridge Trio"
+brief: "Guitarist Johnny Smith and the Neil Bridge Trio in a BGS concert."
 tags:
 - Johnny Smith
 - Smith, Johnny
