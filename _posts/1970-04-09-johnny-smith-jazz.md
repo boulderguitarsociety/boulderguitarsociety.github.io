@@ -14,13 +14,14 @@ Jazz guitarist Johnny Smith and the Neil Bridge Trio will be in concert Thursday
 Found in:
 
 [The Rocky Mountain News (Daily), March 30, 1970](https://www.coloradohistoricnewspapers.org/?a=d&d=RMD19700330-01.2.186&srpos=3&e=-------en-20--1--img-txIN%7ctxCO%7ctxTA-%22boulder+guitar+society%22-------2------).  
-[Colorado Historic Newspapers Collection](https://www.coloradohistoricnewspapers.org/). Colorado State Library.
+[Colorado Historic Newspapers Collection](https://www.coloradohistoricnewspapers.org/). Colorado State Library.  
+<br>
 
-Johnny wrote ["Walk, Don't Run"](https://www.youtube.com/watch?v=G_u_AR8u21M) in 1954 and is also known for his recording of ["Moonlight in Vermont"](https://www.youtube.com/watch?v=ILGJqUfQd9Y) with Stan getz.  These two youtube links are his original renditions.
+Johnny wrote ["Walk, Don't Run"](https://www.youtube.com/watch?v=G_u_AR8u21M) in 1954 and is also known for his recording of ["Moonlight in Vermont"](https://www.youtube.com/watch?v=ILGJqUfQd9Y) with Stan Getz.  These two youtube links are his original renditions.
 
 Hear a sample of [Johnny and the Trio](https://www.youtube.com/watch?v=hTckPWiPm7Y).
 
-Or just Johnny in a [classical-ish jazz solo](https://www.youtube.com/watch?v=0NDeMHjEqlA).
+Or just Johnny in a [classical-jazz solo](https://www.youtube.com/watch?v=0NDeMHjEqlA).
 
 Johnny's [last live performance](https://dickpatterson.bandcamp.com/album/the-last-night-at-shaners) was 12/18/1971 at Shaner's in Denver.
 
