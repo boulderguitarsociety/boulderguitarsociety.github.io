@@ -23,6 +23,6 @@ For more information about Guitarist/composer Michael DeLalla:
 * [www.facebook.com/michael.delalla](https://www.facebook.com/michael.delalla)  
 <br>
 
-<p><img src="/pics/20250425-NewDeLallaBook.jpg" alt="BookCover" style="margin-left: 60px;"></p>
+<p><img src="/pics/20250425-NewDeLallaBook.jpg" alt="BookCover" style="margin-left: 130px; width: 200px;"></p>
 
 Michael's new book ["Encounters with the Cosmic Messenger"](https://store.bookbaby.com/book/encounters-with-the-cosmic-messenger) subtitled "Collected Essays about Seeking, Finding and Embracing Wisdom" is now available (April 2025).
