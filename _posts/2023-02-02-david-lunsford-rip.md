@@ -1,5 +1,5 @@
 ---
-layout: an-event
+layout: in-memory
 title: "In Memory of David Lunsford"
 brief: "9/24/1934 - 2/2/2023"
 tags:
