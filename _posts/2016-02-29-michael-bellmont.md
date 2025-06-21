@@ -17,6 +17,10 @@ Thus, for the first time in 39 years (since my senior recital at the Wisconsin C
 * [Michael on Apple Music](https://music.apple.com/us/artist/michael-bellmont/1156473663)
 <br>
 
+![line](/pics/wgly-line.png)
+
+#### Update ####
+
 <p><img src="/pics/20160229-MichaelBellmontBook.jpg" alt="BookCover" style="margin-left: 130px; width: 200px;"></p>
 
 In 2020, Mel Bay published 16 of Michael's original instrumentals in the book ["Contemporary Tangos, Sambas and Latin Ballads for Guitar"](https://www.melbay.com/Author/Default.aspx?AuthorId=164559).  Michael has provided his own [audio recordings](https://extra.melbay.com/extra.asp?Productid=30587MEB&title=Contemporary%20Tangos,%20Sambas%20and%20Latin%20Ballads%20for%20Guitar&author=Michael%20Bellmont) of these pieces for BGS members.  
