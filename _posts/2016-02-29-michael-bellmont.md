@@ -19,10 +19,10 @@ Thus, for the first time in 39 years (since my senior recital at the Wisconsin C
 
 ![line](/pics/wgly-line.png)
 
-#### Update ####
+#### Updates ####
 
 <p><img src="/pics/20160229-MichaelBellmontBook.jpg" alt="BookCover" style="margin-left: 130px; width: 200px;"></p>
 
-In 2020, Mel Bay published 16 of Michael's original instrumentals in the book ["Contemporary Tangos, Sambas and Latin Ballads for Guitar"](https://www.melbay.com/Author/Default.aspx?AuthorId=164559).  Michael has provided his own [audio recordings](https://extra.melbay.com/extra.asp?Productid=30587MEB&title=Contemporary%20Tangos,%20Sambas%20and%20Latin%20Ballads%20for%20Guitar&author=Michael%20Bellmont) of these pieces for BGS members.  
+In 2020, <ins>Mel Bay</ins> published 16 of Michael's original instrumentals in the book ["Contemporary Tangos, Sambas and Latin Ballads for Guitar"](https://www.melbay.com/Author/Default.aspx?AuthorId=164559).  Michael has provided his own [audio recordings](https://extra.melbay.com/extra.asp?Productid=30587MEB&title=Contemporary%20Tangos,%20Sambas%20and%20Latin%20Ballads%20for%20Guitar&author=Michael%20Bellmont) of these pieces for BGS members.  
 
-In 2022, Michael moved from Longmont to the Catskills in upstate New York, just 20 minutes from the town of Woodstock and is now very involved in that [music community](https://www.facebook.com/100064760704180/posts/1127204619448218/?_rdr).  
+In 2022, Michael moved from Longmont to the <ins>Catskills</ins> in upstate New York, just 20 minutes from the town of Woodstock, and is now very involved in that [music community](https://www.facebook.com/100064760704180/posts/1127204619448218/?_rdr).  
