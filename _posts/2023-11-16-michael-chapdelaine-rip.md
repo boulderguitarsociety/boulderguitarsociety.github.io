@@ -29,3 +29,10 @@ Please, play Michael’s beautiful music and smile with us. Share his love for t
 ![line](/pics/wgly-line.png)
 
 See also Michael's [wikipedia article](https://en.wikipedia.org/wiki/Michael_Chapdelaine).
+
+Michael's [Segovia Masterclass](https://www.youtube.com/watch?v=wiAbqfaYGwk)  
+
+Michael playing [Andrew York's "Home"](https://www.youtube.com/watch?v=bKou5_PM-Hs)  
+
+> "This week we have a very special, beautiful and sad offering for our Featured Artist Series, my good friend Michael Chapdelaine playing “Home” on steel string guitar. Michael was a deep and profound musician, as his phrasing makes so sweetly clear in this performance. Michael passed away much too young in 2023, but his beautiful playing survives him in this video, and in the memories of his friends and fans. Please enjoy Michael playing “Home”."  
+> Andrew York, 6/16/2025  
