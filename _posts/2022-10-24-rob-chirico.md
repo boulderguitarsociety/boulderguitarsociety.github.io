@@ -15,3 +15,4 @@ Nonetheless... this will be a solo night. In solo music, my taste runs between c
 
 * [Rob's youtube channel](https://www.youtube.com/@MusicfromRob)
 * On _Villancico de Navidad_ in Alfredo Muro's [The Spirit of Christmas](https://www.psaudio.com/blogs/copper/octave-records-welcomes-the-holidays-with-guitarist-alfredo-muro-and-em-the-spirit-of-christmas-em)
+* With the [Sunrise Guitar Quartet](https://www.facebook.com/sunriseguitarquartet/) playing Rob's arrangement of [The Andean Suite](https://www.youtube.com/watch?v=ssMIWYh4Zmo) (three traditional songs of the Andes, dedicated to Alfredo Muro).  You can imagine charangos playing!
