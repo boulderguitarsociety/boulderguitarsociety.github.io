@@ -11,13 +11,13 @@ tags:
 - LudoM
 - TobyG
 ---
-![SeanMcGowan](/pics/20250630-SeanMcGown.png)
+![SeanMcGowan](/pics/20250630-SeanMcGowan.png)
 
 Friend of the society, [Sean McGowan](https://seanmcgowanguitar.com/), will be giving a workshop covering a comprehensive approach to staying healthy, practicing creatively, and improving as a musician. There's a reasonable chance he might play a song or two, I'm guessing. 
 
 The accompanying book is now available:
 
-![HolisticGuitarist](pics/HolisticGuitarist.jpg)
+![HolisticGuitarist](/pics/20250630-HolisticGuitarist.jpg)
 
 See [https://store.acousticguitar.com/products/the-holistic-guitarist](https://store.acousticguitar.com/products/the-holistic-guitarist)
 
