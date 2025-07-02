@@ -22,10 +22,10 @@ The accompanying book is now available:
 See [https://store.acousticguitar.com/products/the-holistic-guitarist](https://store.acousticguitar.com/products/the-holistic-guitarist)
 
 Sean talked through many examples chapter-by-chapter in his new book, emphasizing what leads to good playing health and what can lead to serious problems.  Then he demonstrated some example stretching motions with several volunteers (below).
-![GroupStretch](/pics/20250630-GroupStretch.jpg)
+<img src="/pics/20250630-GroupStretch.jpg" alt="GroupStretch" style="margin-left: 75px;">
 
 He finished up by playing his arrangement of _"All Blues"_ by Miles Davis, with both hands fretting and plucking on the neck:
-![PlayingAllBlues](/pics/20250630-PlayingAllBlues.jpg)
+<img src="/pics/20250630-PlayingAllBlues.jpg" alt="PlayingAllBlues" style="margin-left: 100px;">
 
 Here's a [youtube of Sean playing this same piece on this same guitar](https://www.youtube.com/watch?v=QD-5AfbkyOU&t=110s).
 
@@ -34,7 +34,7 @@ The guitar Sean is playing is [the Cadenza model by LHT Guitars](https://www.lht
 ![line](/pics/wgly-line.png)
 
 #### Open Stage Education Time: ####
-* siblings MeganP and DanielP
+* siblings MeganP and DanielP singing
    - [The Willow Song](https://www.youtube.com/watch?v=4iYm2MQWPUA), Anonymous c1630
 * JamieP
    - [Rondo](https://www.youtube.com/watch?v=7xagGnkQfEM&t=46s) by Karl Eulenstein 1829
