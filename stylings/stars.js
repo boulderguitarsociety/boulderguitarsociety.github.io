@@ -76,7 +76,7 @@
       if (prevElem3) {
          prevElem3.style = "";
       }
-      if (nextItem >= starList.length - 3) { 
+      if (nextItem > starList.length - 3) { 
          nextItem = 0;
          doShuffle();
          console.log("auto doShuffle()\n");
