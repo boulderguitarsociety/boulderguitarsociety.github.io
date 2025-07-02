@@ -21,6 +21,16 @@ The accompanying book is now available:
 
 See [https://store.acousticguitar.com/products/the-holistic-guitarist](https://store.acousticguitar.com/products/the-holistic-guitarist)
 
+Sean talked through many examples chapter-by-chapter in his new book, emphasizing what leads to good playing health and what can lead to serious problems.  Then he demonstrated some example stretching motions with several volunteers (below).
+![GroupStretch](/pics/20250630-GroupStretch.jpg)
+
+He finished up by playing his arrangement of _"All Blues"_ by Miles Davis, with both hands fretting and plucking on the neck:
+![PlayingAllBlues](/pics/20250630-PlayingAllBlues.jpg)
+
+Here's a [youtube of Sean playing this same piece on this same guitar](https://www.youtube.com/watch?v=QD-5AfbkyOU&t=110s).
+
+The guitar Sean is playing is [the Cadenza model by LHT Guitars](https://www.lhtguitars.com/cadenza), and it's half inch reduction in body thickness where the right arm rests demonstrates the point he made that the guitar should fit the person without causing unnatural posture.
+
 ![line](/pics/wgly-line.png)
 
 #### Open Stage Education Time: ####
