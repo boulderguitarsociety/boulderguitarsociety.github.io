@@ -1,7 +1,7 @@
 ---
 layout: an-event
 title: "Sean McGowan"
-brief: "Playing his jazz arrangements from _My Fair Lady_"
+brief: "Playing his jazz arrangements from \"My Fair Lady\""
 tags:
 - Sean McGowan
 - McGowan, Sean
