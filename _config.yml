@@ -8,3 +8,4 @@ TZ: America/Denver
 url: "https://boulderguitarsociety.github.io"
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
