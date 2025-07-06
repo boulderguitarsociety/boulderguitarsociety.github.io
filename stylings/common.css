@@ -261,7 +261,7 @@ a:active {
   width: 490px;
 }
 
-.meeting h1 {
+#body_content .meeting h1 {
    color: var(--textorng);
    font-family: 'Times New Roman', serif;
    font-size: 40px;
