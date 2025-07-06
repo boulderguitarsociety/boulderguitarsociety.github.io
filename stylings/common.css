@@ -119,6 +119,19 @@ a:active {
    z-index: 1;
 }
 
+#header_txt h1 {
+    /* style for font-based headers within header_pos */
+    color: var(--textorng);
+    font-family: 'Times New Roman', serif;
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 61px;
+    width: 530px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
 #header_txt p {
     /* style for font-based headers within header_pos */
     color: var(--textorng);
