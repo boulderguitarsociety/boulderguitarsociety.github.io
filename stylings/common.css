@@ -77,7 +77,29 @@ a:active {
    text-transform: none;
 }
 
-#body_content h1, h2, h3, h4 {
+#body_content h1 {
+   width: 490px;
+   margin-left: 30px;
+   margin-right: 0px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   line-height: 18px;
+   font-size: 15px;
+   font-stretch: normal;
+   font-style: normal;
+   font-weight: 400;
+   font-variant: normal;
+   letter-spacing: 0;
+   opacity: 1.00;
+   padding-bottom: 0px;
+   padding-top: 0px;
+   text-align: left;
+   text-decoration: none;
+   text-indent: 0px;
+   text-transform: none;
+}
+
+#body_content h2, h3, h4 {
    margin-left: 30px;
 }
 
