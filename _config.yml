@@ -5,6 +5,11 @@ description: >-
    performance and enjoyment of classical and fingerstyle guitar.
 TZ: America/Denver
 url: "https://boulderguitarsociety.github.io"
+image:
+   path: /favicon.png
+   height: 192
+   width: 192
+   alt: BGS Logo
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
