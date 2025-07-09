@@ -2,10 +2,8 @@
 layout: events-main
 title: Events
 description: >-
-  This is the current events page for The Boulder Guitar Society,
-  including planned upcoming events, our latest event in full
-  and three more recent event summaries.  Also mentions the
-  Memories and Stars pages for more extensive lists of events.
+  Show current events including planned upcoming events, our latest event and
+  three recent events.  Mentions the Memories and Stars pages for more events.
 ---
 
 * July 28 - Boulder Choro Club
