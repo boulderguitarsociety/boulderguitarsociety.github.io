@@ -1,6 +1,11 @@
 ---
 layout: common
 title: Education
+description: >-
+  Describes several educational aspects of The Boulder Guitar Society,
+  including past educational presentations, our open stage education time,
+  our monthly sightreading handouts by Jeff Olson and our library of
+  great guitar music CDs available for checkout.
 ---
 
 ### Presentations ###

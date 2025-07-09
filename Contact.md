@@ -1,6 +1,12 @@
 ---
 layout: common
 title: Contact
+description: >-
+  Describes who to contact and their email addresses for various purposes,
+  such as ideas for future performances, signing up for our monthly
+  email newsletter, advertising an upcoming show in our newsletter,
+  or anything to do with our web site.  Also links to our facebook page
+  and gives our postal address.
 ---
 
 ## _There are several ways to contact BGS:_ ##

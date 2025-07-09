@@ -1,6 +1,11 @@
 ---
 layout: common
 title: Support
+description: >-
+  Stresses the importance of your continuing financial support in order
+  to sustain the work and activities of The Boulder Guitar Society.
+  Describes ways to donates via PayPal or by personal check.
+  All gifts are tax-deductible.
 ---
 
 <p><img src="/pics/HelpBGS.png" alt="HelpBGS" style="margin-left: 20px;"></p>

@@ -1,6 +1,9 @@
 ---
 layout: common
 title: Links
+description: >-
+  Provides links to our sister stringed instrument groups in the vicinity
+  and also to related non-profits, teachers and businesses.
 ---
 
 ## Our Sister Guitar & Stringed Instrument Groups ##
