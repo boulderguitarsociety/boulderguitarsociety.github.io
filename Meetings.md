@@ -2,10 +2,9 @@
 layout: common
 title: Meetings
 description: >-
-  Describes when and where meetings are held and how to get there.
-  Includes a google map to help find the building, 
-  describes where to park and even
-  shows floor plans of the building to help find the room.
+  Describes when and where meetings are held, what happens 
+  and how to get there.  Includes a google map and floor 
+  plans of the building to help find the room.
 ---
 
 ### When, Where and What ###

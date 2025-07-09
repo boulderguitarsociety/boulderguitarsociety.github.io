@@ -2,7 +2,7 @@
 layout: events-main
 title: Events
 description: >-
-  Show current events including planned upcoming events, our latest event and
+  Shows current events including planned upcoming events, our latest event and
   three recent events.  Mentions the Memories and Stars pages for more events.
 ---
 
