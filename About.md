@@ -5,7 +5,7 @@ description: >-
   Describes the history of The Boulder Guitar Society and lists the current
   members of the board of directors and other volunteers.
 ---
-<img src="/stylings/Goldenrod_Plant_b_h.png" alt="" style="position: absolute; left: 401px; top: -8px; z-index: 1; ">
+<img src="/stylings/Goldenrod_Plant_b_h.png" alt=" " style="position: absolute; left: 401px; top: -8px; z-index: 1; ">
 <p><img src="/pics/BGSEnsembleFramed.png" alt="BGSEnsemble" style="width: 620px;"></p>
 
 ### Origins ###
@@ -24,4 +24,4 @@ In later years Steve Blunk and Carey Harwood directed the society. Dan Harris jo
 
 The current board consists of Toby Gallegos (President and Treasurer), Marcio DeSousa and Dan Fairchild. Mark Limber does the newsletter and Jeff Olson has been updating the web site.  The society has incorporated as a 501(c)(3) non-profit, is seeking local sponsorships, and is inviting a wider array of Boulder area guitarists to be active in the society. 
 
-<img src="/stylings/Goldenrod_Plant_b_v.png" alt="" style="position: absolute; right: 0px; bottom: 0px; z-index: 1; ">
+<img src="/stylings/Goldenrod_Plant_b_v.png" alt=" " style="position: absolute; right: 0px; bottom: 0px; z-index: 1; ">
