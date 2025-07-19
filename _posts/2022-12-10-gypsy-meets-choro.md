@@ -7,6 +7,7 @@ tags:
 - Soikkeli, Olli
 - Cesar Garabini
 - Garabini, Cesar
+last_modified_at: 2025-06-03
 ---
 
 ![GypsyMeetsChoro](/pics/20221210-SoikkeliGarabiniDuo.jpg)

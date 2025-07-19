@@ -5,6 +5,7 @@ brief: "Problem Solving Techniques for Efficient Practice and Better Performing"
 tags:
 - Felicity Muench
 - Muench, Felicity
+last_modified_at: 2025-05-22
 ---
 ![FelicityMuench](/pics/20160425-FelicityMuench.jpg)
 

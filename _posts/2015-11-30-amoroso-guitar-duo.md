@@ -7,6 +7,7 @@ tags:
 - Garry, Kevin
 - Felicity Muench
 - Muench, Felicity
+last_modified_at: 2025-05-15
 ---
 ![AmorosoGuitarDuo](/pics/20151130-AmorosoGuitarDuo.jpg)
 

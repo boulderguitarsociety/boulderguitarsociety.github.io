@@ -5,6 +5,7 @@ brief: "Presenting \"Suzuki for Guitar\""
 tags:
 - Matt Dorris
 - Dorris, Matt
+last_modified_at: 2025-07-03
 ---
 
 ![MattDorris](/pics/20160627-MattDorris.jpg)

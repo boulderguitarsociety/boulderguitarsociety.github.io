@@ -5,6 +5,7 @@ brief: "9/15/1956 - 11/16/2023"
 tags:
 - Michael Chapdelaine
 - Chapdelaine, Michael
+last_modified_at: 2025-06-21
 ---
 
 ![MichaelChapdelaine](/pics/20231116-MichaelChapdelaine.jpg)

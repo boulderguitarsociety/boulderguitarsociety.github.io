@@ -15,6 +15,7 @@ tags:
 - DaleS
 - ChrisD
 - EugeneS
+last_modified_at: 2025-05-18
 ---
 ![DenverGuitarDuo](/pics/19840528-DenverGuitarDuo.jpg)
 

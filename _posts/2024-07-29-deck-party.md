@@ -4,6 +4,7 @@ title: Summer Deck Party
 brief: Food, fellowship and guitars (plus an oud!)
 tags:
 - DanielP
+last_modified_at: 2025-05-02
 ---
 ![Deck Party View](/pics/20240729-DeckPartyFlatirons.jpg)
 

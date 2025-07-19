@@ -5,6 +5,7 @@ brief: "Group improvisation for guitarists (and non-guitarists)"
 tags:
 - Michael DeLalla
 - DeLalla, Michael
+last_modified_at: 2025-05-15
 ---
 ![MichaelDeLalla](/pics/20160125-MichaelDeLalla.jpg)
 

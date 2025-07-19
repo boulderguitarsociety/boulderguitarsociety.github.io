@@ -9,6 +9,7 @@ tags:
 - Thamm, Doug
 - Shawn Zinnen
 - Zinnen, Shawn
+last_modified_at: 2025-06-27
 ---
 ![Adam Buer BTC Trio](/pics/20240826-AdamBuerBTZ.jpg)
 

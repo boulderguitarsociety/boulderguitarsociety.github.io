@@ -5,6 +5,7 @@ brief: "Percussive fingerstyle playing for Halloween"
 tags:
 - Derek Demuth
 - Demuth, Derek
+last_modified_at: 2025-05-06
 ---
 ![DerekDemuth](/pics/20231030-DerekDemuth.jpg)
 

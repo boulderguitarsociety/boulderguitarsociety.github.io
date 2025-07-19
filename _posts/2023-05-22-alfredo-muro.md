@@ -5,6 +5,7 @@ brief: "An evening with our friend, Alfredo"
 tags:
 - Alfredo Muro
 - Muro, Alfredo
+last_modified_at: 2025-06-01
 ---
 ![AlfredoMuro](/pics/20230522-AlfredoMuro.png)
 

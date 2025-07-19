@@ -5,6 +5,7 @@ brief: "9/24/1934 - 2/2/2023"
 tags:
 - David Lunsford
 - Lunsford, David
+last_modified_at: 2025-06-19
 ---
 
 <ins>David Lunsford</ins> grew up in Boulder, Colorado, graduating from Boulder High School, where he met his wife, Elaine. David fell in love with the classical guitar in his early thirties and started lessons while working and living in California. In 1994 he and his wife returned to Boulder to care for Elaine's elderly mother. David began lessons with Felicity Muench in 1995. His dream was to have a place where guitarists could practice performing in front of small groups and share their love of music. David and Felicity restarted the Boulder Guitar Society in 1995. The meetings took place at the Meadows Branch Library once a month and have continued since in various locations, thanks to the continued efforts of so many classical guitar enthusiasts. 

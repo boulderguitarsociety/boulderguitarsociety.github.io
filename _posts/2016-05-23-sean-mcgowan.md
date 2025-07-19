@@ -5,6 +5,7 @@ brief: "Playing his jazz arrangements from \"My Fair Lady\""
 tags:
 - Sean McGowan
 - McGowan, Sean
+last_modified_at: 2025-07-02
 ---
 
 ![SeanMcGowan](/pics/20160523-SeanMcGowan.jpg)

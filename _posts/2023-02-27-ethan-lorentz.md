@@ -5,6 +5,7 @@ brief: "Scholar, performer and teacher in Colorado"
 tags:
 - Ethan Lorentz
 - Lorentz, Ethan
+last_modified_at: 2025-06-01
 ---
 
 ![EthanLorentz](/pics/20230227-EthanLorentz.jpg)

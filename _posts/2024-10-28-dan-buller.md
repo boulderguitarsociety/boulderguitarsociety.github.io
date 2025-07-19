@@ -7,6 +7,7 @@ tags:
 - Buller, Dan
 - Gabe Rupe
 - Rupe, Gabe
+last_modified_at: 2025-05-02
 ---
 ![Dan Buller](/pics/20241028-DanBuller.jpg)
 

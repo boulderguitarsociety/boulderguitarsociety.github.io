@@ -5,6 +5,7 @@ brief: "(1960 - 2015)"
 tags:
 - Steve Blunk
 - Blunk, Steve
+last_modified_at: 2025-06-19
 ---
 ![SteveBlunk](/pics/20151217-SteveBlunk.png)
 

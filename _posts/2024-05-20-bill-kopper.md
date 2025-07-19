@@ -5,6 +5,7 @@ brief: Jazz, blues, samba and bossa nova
 tags:
 - Bill Kopper
 - Kopper, Bill
+last_modified_at: 2025-05-02
 ---
 ![Bill Kopper](/pics/20240529-BillKopper.jpg)
 

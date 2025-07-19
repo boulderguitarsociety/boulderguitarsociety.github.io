@@ -5,6 +5,7 @@ brief: "How I built this: Inside a Composer’s Notebook (and new works)"
 tags:
 - Michael DeLalla
 - DeLalla, Michael
+last_modified_at: 2025-06-13
 ---
 ![Michael DeLalla](/pics/20240624-MichaelDeLalla.jpg)
 

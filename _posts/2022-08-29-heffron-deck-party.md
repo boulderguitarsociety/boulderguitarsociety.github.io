@@ -5,6 +5,7 @@ brief: "Food and jazz on the rooftop."
 tags:
 - Alex Heffron
 - Heffron, Alex
+last_modified_at: 2025-06-07
 ---
 
 ![DeckPartyAI](/pics/20220829-DeckParty.jpg)

@@ -7,6 +7,7 @@ tags:
 - Fincher, Izzy
 - Barbara Noyes
 - Noyes, Barbara
+last_modified_at: 2025-06-01
 ---
 ![IzzyFincher](/pics/20230424-IzzyFincher.jpg)
 

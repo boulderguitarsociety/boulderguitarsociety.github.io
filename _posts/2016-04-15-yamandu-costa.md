@@ -5,6 +5,7 @@ brief: "An evening of Brazilian seven-string guitar"
 tags:
 - Yamandu Costa
 - Costa, Yamandu
+last_modified_at: 2025-07-03
 ---
 ![YamanduCosta](/pics/20160415-YamanduCosta.jpg)
 

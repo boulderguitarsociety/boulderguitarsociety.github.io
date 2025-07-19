@@ -5,6 +5,7 @@ brief: "Classical or fingerstyle: whatever you want to call it."
 tags:
 - Rob Chirico
 - Chirico, Rob
+last_modified_at: 2025-06-27
 ---
 
 ![RobChirico](/pics/20221024-RobChirico.jpg)

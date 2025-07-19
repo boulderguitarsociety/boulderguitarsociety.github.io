@@ -5,6 +5,7 @@ brief: "An amalgam of Chapdelaine-stuff: original, popular and classical."
 tags:
 - Michael Chapdelaine
 - Chapdelaine, Michael
+last_modified_at: 2025-06-21
 ---
 
 ![MichaelChapdelaine](/pics/20190225-MichaelChapdelaine.jpg)

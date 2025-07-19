@@ -5,6 +5,7 @@ brief: A stand out among a new generation of classical guitarists
 tags:
 - Gabriel Balogh
 - Balogh, Gabriel
+last_modified_at: 2025-05-02
 ---
 ![Gabriel Balogh](/pics/20240930-GabrielBalogh.jpg)
 
