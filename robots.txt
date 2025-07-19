@@ -1,3 +1,4 @@
+Sitemap: https://boulderguitarsociety.github.io/sitemap.xml
 User-agent: *
 Disallow: /_remnants/
 
