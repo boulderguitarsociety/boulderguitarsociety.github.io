@@ -5,6 +5,7 @@ description: >-
   Describes when and where meetings are held, what happens 
   and how to get there.  Includes a google map and floor 
   plans of the building to help find the room.
+last_modified_at: 2025-07-09
 ---
 
 ### When, Where and What ###

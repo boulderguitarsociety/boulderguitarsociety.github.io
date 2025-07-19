@@ -4,6 +4,7 @@ title: Links
 description: >-
   Provides links to our sister stringed instrument groups in the vicinity
   and also to related non-profits, teachers and businesses.
+last_modified_at: 2025-07-09
 ---
 
 ## Our Sister Guitar & Stringed Instrument Groups ##

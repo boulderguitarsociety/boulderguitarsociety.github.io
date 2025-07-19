@@ -4,6 +4,7 @@ title: Support
 description: >-
   Emphasizes the need for your continuing support.  Describes ways to donate
   via PayPal or by personal check.  All gifts are tax-deductible.
+last_modified_at: 2025-07-09
 ---
 
 <p><img src="/pics/HelpBGS.png" alt="HelpBGS" style="margin-left: 20px;"></p>

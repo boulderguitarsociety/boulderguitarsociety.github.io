@@ -5,6 +5,7 @@ description: >-
   Educational aspects of The Boulder Guitar Society,
   including past presentations, open stage time, monthly
   sightreading handouts by Jeff Olson and our library.
+last_modified_at: 2025-07-09
 ---
 
 ### Presentations ###

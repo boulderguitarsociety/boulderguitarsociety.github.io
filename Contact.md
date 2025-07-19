@@ -4,6 +4,7 @@ title: Contact
 description: >-
   Describes who to contact and their email addresses for performance ideas,
   newsletter signups and gig notices. Also facebook and postal addresses.
+last_modified_at: 2025-07-09
 ---
 
 ## _There are several ways to contact BGS:_ ##

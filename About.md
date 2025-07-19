@@ -4,6 +4,7 @@ title: About
 description: >-
   Describes the history of The Boulder Guitar Society and lists the current
   members of the board of directors and other volunteers.
+last_modified_at: 2025-07-14
 ---
 <img src="/stylings/Goldenrod_Plant_b_h.png" alt="plant1" style="position: absolute; left: 401px; top: -8px; z-index: 1; ">
 <p><img src="/pics/BGSEnsembleFramed.png" alt="BGSEnsemble" style="width: 620px;"></p>
