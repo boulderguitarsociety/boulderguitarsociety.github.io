@@ -11,6 +11,5 @@ image:
    width: 192
    alt: BGS Logo
 plugins:
-  - jekyll-last-modified-at
   - jekyll-sitemap
   - jekyll-seo-tag
