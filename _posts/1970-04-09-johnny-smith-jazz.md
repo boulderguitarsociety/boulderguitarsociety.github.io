@@ -6,6 +6,7 @@ tags:
 - Johnny Smith
 - Smith, Johnny
 - Neil Bridge Trio
+last-modified-at: 2025-06-09
 ---
 <img src="/pics/19700409-JohnnySmith.jpg" alt="JohnnySmith" style="margin-left: 80px;">
 
