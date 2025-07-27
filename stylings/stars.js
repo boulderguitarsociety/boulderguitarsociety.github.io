@@ -14,7 +14,7 @@
    let prevElem2 = "";
    let prevElem3 = "";
    // dir containing imgs and list
-   const strsDir = "https://boulderguitarsociety.github.io/strs/";
+   const strsDir = "https://boulderguitarsociety.org/strs/";
 
    // populate starList[], shuffle starList and display next three stars
    async function initStars() {
