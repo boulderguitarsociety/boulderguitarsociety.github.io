@@ -4,8 +4,8 @@ title: "Alfredo Muro"
 brief: "Another visit from our friend of BGS."
 tags:
 - Alfredo Muro
-- Muro, Muro
-last_modified_at: 2025-06-04
+- Muro, Alfredo
+last_modified_at: 2025-07-27
 ---
 
 ![AlfredoMuro](/pics/20220926-AlfredoMuro.jpg)
