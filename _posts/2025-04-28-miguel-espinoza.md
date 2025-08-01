@@ -15,7 +15,7 @@ tags:
 - DanielP
 - SeanK
 - SulaimanZ
-last_modified_at: 2025-06-01
+last_modified_at: 2025-08-01
 ---
 ![MiguelEspinoza](/pics/20250428-MiguelEspinoza.jpg)
 
@@ -35,8 +35,8 @@ Tonight's performance was with cellist [Dianne Betkowski](https://www.facebook.c
    - [Oriental, 12 Danzas Españolas, No.2](https://www.youtube.com/watch?v=WV3KOQocmb4), by Granados, arr by Gabe
    - Joe is Gabe's former teacher and current student
 * MartinT
-   - Mazurka, by a student of Tárrega
-   - A bluesy piece by a Czech composer
+   - <ins>Mazurka</ins>, by Daniel Fortea, a student of Tárrega
+   - <ins>Noble Man</ins>, a bluesy jazz piece by Czech composer Milan Tesař
 * LudoM
    - [Guajira de Lucia](https://www.youtube.com/watch?v=9UYjc75ZV6E), by Paco de Lucia
 * DanielP
