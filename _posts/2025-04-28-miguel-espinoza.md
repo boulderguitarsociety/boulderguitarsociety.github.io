@@ -35,7 +35,7 @@ Tonight's performance was with cellist [Dianne Betkowski](https://www.facebook.c
    - [Oriental, 12 Danzas Españolas, No.2](https://www.youtube.com/watch?v=WV3KOQocmb4), by Granados, arr by Gabe
    - Joe is Gabe's former teacher and current student
 * MartinT
-   - <ins>Mazurka</ins>, by Daniel Fortea, a student of Tárrega
+   - [Mi Favorita](https://www.youtube.com/watch?v=DR-gNQNXxhs), a mazurka by Daniel Fortea, a student of Tárrega
    - <ins>Noble Man</ins>, a bluesy jazz piece by Czech composer Milan Tesař
 * LudoM
    - [Guajira de Lucia](https://www.youtube.com/watch?v=9UYjc75ZV6E), by Paco de Lucia
