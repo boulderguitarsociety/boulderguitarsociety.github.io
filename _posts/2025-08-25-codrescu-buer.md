@@ -18,7 +18,7 @@ last_modified_at: 2025-08-25
 [Carol Codrescu](https://carolflute.com) on flute and [Adam Buer](https://www.adambuer.com/) on guitar formed a duo in 2013 to explore the rich range of repertoire for flute and guitar.  They are particularly interested in Latin American and early music.  The duo will perform the Oriental Souvenir by Costa, the Sonatina by Tedesco and Popular Brazilian Music by Machado.  
 
 Program:
-> * <ins>Souvenir d'Orient</ins>, Op.12 (c. 1832) by Onorato Costa
+> * <ins>Souvenir d'Orient</ins>, Op.12 (c. 1832) by Onorato Costa (fl.1818-1832)
 > * <ins>Sonatina, Op.205</ins> by Mario Castelnuovo-Tedesco (1895-1968)
 >   - Allegretto gazioso
 >   - Tempo di Siciliana
