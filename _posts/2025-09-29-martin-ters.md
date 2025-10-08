@@ -26,7 +26,7 @@ Pieces by Czech composer Milan Tesař:
 > * Still Life
 > * Jasmine Tea
 > * in the spirit of Dvorak
-> * Patorale
+> * Pastorale
 > * Bouquet of Flowers
 > * Aria Suite Carousel, duet with Ludo Michaud:
 ![Ludo and Martin](/pics/20250929-Ludo-Martin.jpg)
