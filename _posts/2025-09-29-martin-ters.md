@@ -41,7 +41,7 @@ Pieces by Czech composer Milan Tesař:
 * JeffO
    - played simple chords from [this month's sightreading handout](https://jjolson.net/BGS/Sep2025.html) (Moonlight Sonata)
 * LudoM
-   - [Serenata Española](https://www.youtube.com/watch?v=bI3K-Ir_MWU), by Joaquim Malats (2000), ed. by E. Thorlaksson
+   - [Serenata Española](https://www.youtube.com/watch?v=bI3K-Ir_MWU) by Joaquim Malats (2000), ed. by E. Thorlaksson
 * DanielP
    - ![DanielP and his Oud](/pics/20250929-DanielP-Oud.jpg)
    - showed his __Oud__ and played (and sang) Three Ancient Songs:

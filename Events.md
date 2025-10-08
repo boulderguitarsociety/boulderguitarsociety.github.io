@@ -7,8 +7,9 @@ description: >-
 last_modified_at: 2025-09-02
 ---
 
-* September 29 - Martin Ters
 * October 27- Gabriel Santiago
 * February 23 - Ludo Michaud
 * March 22 or April 26 - BGS concert
+* March 30 - Nicolò Spera
 * May 18 - Alfredo Muro
+* July 27 - Benny Goldberg
