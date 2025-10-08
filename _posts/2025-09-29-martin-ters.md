@@ -11,7 +11,7 @@ tags:
 - DanielP
 last_modified_at: 2025-10-07
 ---
-![Martin Ters - dentist, guitarist, luthier](/pics/20250929-MartinTers.jpg)
+<img src="/pics/20250929-MartinTers.jpg" alt="Martin Ters - dentist, guitarist, luthier" style="width: 400px;">
 
 [Martin Ters](https://www.tersdds.com/about) is one of the founding members of the Boulder Guitar Society and for many years also attended meetings of the Denver Society. He has played guitar since the age of 10, and his life has been deeply connected with guitar playing, building, and repairing. Over the years, he has studied with teachers including Felicity Muench, Masa Ito, Ricardo Iznaola, Alfredo Muro, and currently Sulaiman Zai.
 
@@ -41,14 +41,14 @@ Pieces by Czech composer Milan Tesař:
 * JeffO
    - played simple chords from [this month's sightreading handout](https://jjolson.net/BGS/Sep2025.html) (Moonlight Sonata)
 * LudoM
-   - [Serenata Española](https://www.youtube.com/watch?v=vmmLyNuUwxk&t=12s), by J. Malats (2000), ed. by E. Thorlaksson
+   - [Serenata Española](https://www.youtube.com/watch?v=bI3K-Ir_MWU), by Joaquim Malats (2000), ed. by E. Thorlaksson
 * DanielP
    - ![DanielP and his Oud](/pics/20250929-DanielP-Oud.jpg)
-   - showed his Oud and played (and sang) Three Ancient Songs
+   - showed his __Oud__ and played (and sang) Three Ancient Songs:
      1. <ins>Üsküdar</ins>
      2. <ins>The Seikolos Epitaph</ins>
      3. <ins>Krie Pepon</ins> (Odyssey IX.447-455)
    - see Daniel's [video of this performance](https://www.youtube.com/watch?v=--hOAf_IQNE)
    - see also [The Mesmerising sound of the OUD (Ancestor of guitar!)](https://www.youtube.com/watch?v=ZLbQcs3W0Bs)
-     * a great explanation of Maqam with demonstrations for Western musicians
+     * explains Maqam with demonstrations for Western musicians
 
