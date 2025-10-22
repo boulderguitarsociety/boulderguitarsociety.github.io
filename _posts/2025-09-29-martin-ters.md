@@ -9,7 +9,7 @@ tags:
 - JeffO
 - LudoM
 - DanielP
-last_modified_at: 2025-10-07
+last_modified_at: 2025-10-21
 ---
 <img src="/pics/20250929-MartinTers.jpg" alt="Martin Ters - dentist, guitarist, luthier" style="width: 400px;">
 
@@ -25,7 +25,7 @@ Pieces by Czech composer Milan Tesař:
 > * Song From Vincenza
 > * Still Life
 > * Jasmine Tea
-> * in the spirit of Dvorak
+> * Road to Červená Lhota
 > * Pastorale
 > * Bouquet of Flowers
 > * Aria Suite Carousel, duet with Ludo Michaud:
