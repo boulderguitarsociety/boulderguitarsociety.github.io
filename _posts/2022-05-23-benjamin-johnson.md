@@ -3,9 +3,9 @@ layout: an-event
 title: "Benjamin Johnson"
 brief: "Bach, Barrios, Castelnuovo-Tedesco, Giuliani and Moulaert"
 tags:
-- Benjamin Johnson
-- Johnson, Benjamin
-last_modified_at: 2025-06-26
+- Ben Johnson
+- Johnson, Ben
+last_modified_at: 2025-11-30
 ---
 
 ![BenjaminJohnson](/pics/20220523-BenjaminJohnson.jpg)
