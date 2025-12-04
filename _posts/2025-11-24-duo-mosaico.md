@@ -46,9 +46,9 @@ They played:
 ![line](/pics/wgly-line.png)
 
 #### Open Stage Education Time: ####
-* SteveM (mandolin) with students TobyS (guitar) and TehyaS (mandolin)
-![Steve with his students TobyS and TehyaS](/pics/20251124-students.jpg)
-   - "<ins>Big Catalpa</ins>", from Steve's CD "[Shine & Rise](https://stevemullinsmusic.com/shine-rise/)"
+* SteveM with his students TobyS (guitar) and TehyaS (mandolin)
+<img src="/pics/20251124-students.jpg" alt="Steve with his students TobyS and TehyaS" style="width: 400px;margin-left: 40px;">
+   - playing "<ins>Big Catalpa</ins>" from Steve's CD "[Shine & Rise](https://stevemullinsmusic.com/shine-rise/)"
 * MarkL
    - His arrangement of Chopin's [Prelude No.4 in E minor](https://www.youtube.com/watch?v=rYEpuDDHsYk)
 * MartinT
