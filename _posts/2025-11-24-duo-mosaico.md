@@ -29,7 +29,8 @@ Their repertoire includes the challenging Tango Suite and other works by Astor P
 
 For their "hi/lo" pieces, Steve's guitar adds a high A string and a capo for an open string range of low B to high B, while Ben's guitar
 adds an even lower B string for an open string range an octave below Steve's.  Here they are playing their hi/lo version of Canarios:
-![Duo Mosaico in a high/low version of Canarios](/pics/20251124-Canarios.jpg)
+
+<img src="/pics/20251124-Canarios.jpg" alt="Duo Mosaico in a high/low version of Canarios" style="width: 500px;">
 
 They played:
 > * Their "hi/lo" arrangement of "[Canarios](https://www.youtube.com/watch?v=TujKS9YmOzM)" by Gaspar Sanz
@@ -46,6 +47,7 @@ They played:
 
 #### Open Stage Education Time: ####
 * SteveM (mandolin) with students TobyS (guitar) and TehyaS (mandolin)
+![Steve with his students TobyS and TehyaS](/pics/20251124-students.jpg)
    - "<ins>Big Catalpa</ins>", from Steve's CD "[Shine & Rise](https://stevemullinsmusic.com/shine-rise/)"
 * MarkL
    - His arrangement of Chopin's [Prelude No.4 in E minor](https://www.youtube.com/watch?v=rYEpuDDHsYk)
