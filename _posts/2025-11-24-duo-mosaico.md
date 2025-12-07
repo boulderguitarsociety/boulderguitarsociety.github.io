@@ -46,7 +46,7 @@ They played:
 ![line](/pics/wgly-line.png)
 
 #### Open Stage Education Time: ####
-* SteveM & students TobyS (guitar) and TehyaS (mandolin)  
+* SteveM with students TobyS (guitar) TehyaS (mandolin)  
 <img src="/pics/20251124-students.jpg" alt="Steve with his students TobyS and TehyaS" style="width: 400px;margin-left: 40px;">
    - playing "<ins>Big Catalpa</ins>" from Steve's CD "[Shine & Rise](https://stevemullinsmusic.com/shine-rise/)"
 * MarkL
