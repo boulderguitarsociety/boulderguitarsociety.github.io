@@ -30,6 +30,11 @@ an ensemble of BGS performers including, from left to right,
 <ins>Rob Chirico</ins>, <ins>Felicity Muench</ins>, <ins>Sadie Zukowski</ins>, <ins>Adam Buer</ins> and Mark.
 
 ![Quintet](/pics/20250331-ensemble_4980b.jpg)
+[Rob](https://www.youtube.com/channel/UCK3S9rhBwlw6BGxjlprI2hw/) has posted a
+[video of the quintet's performance](https://www.youtube.com/watch?v=IG5xqq6ut64) of
+_But for the Grace of God_ by Richard Durrant, who describes it as
+"a call for compassion for the poor souls seeking refuge in other countries".
+A gentle reminder that it could be us.
 
 After the quintet, Mark finished with a solo.  Following a break there was the usual open stage time.
 
