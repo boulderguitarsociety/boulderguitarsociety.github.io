@@ -30,11 +30,11 @@ regularly with the Colorado Symphony Orchestra.  She has created a world-wide on
 where flutists of all levels can perform and get constructive feedback.  She also founded a coaching program,
 _For the Love of Flute_, to support and inspire flutists at all stages of their journey.
 
-Tonight's performance began Gabriel's arrangement of a dozen songs from Schumann's Kinderszenen,
+<ins>Tonight's performance</ins> began Gabriel's arrangement of a dozen songs from Schumann's Kinderszenen,
 with Katy taking the melody on her alto flute while Gabriel provided the harmony and counterpoint on guitar.
 The second half was Gabriel on three Villa-Lobos preludes (numbers 4, 3 and 5) followed by
 a piece called  "Blue Madeline" by Giacomo Susani.  For an encore, he played his arrangement
-of a Haydn minuet that has been working on recently.
+of a Haydn minuet that he has been working on recently.
 
 <img src="/pics/20260126-Kinderszenen.jpg" alt="Kat Wherry and Gabriel Balogh play Schumann's Kinderszenen" style="width: 500px;">
 
@@ -50,5 +50,5 @@ of a Haydn minuet that has been working on recently.
 * RobC and MarkL
    - Invention No.2, by Bach
 * TobyG
-   - Cada Manana, by Eduardo Diaz
+   - Cada Mañana, by Eduardo Diaz
 
