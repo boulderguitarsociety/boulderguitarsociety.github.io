@@ -18,7 +18,8 @@ Passionate about Audio and Video technologies, Ludo left the conservatory after 
 
 Between ski trips and hours of computer programming, Ludo started to build an ever evolving repertoire including Tarrega, Barrios, Jorge Morel, S.L Weiss, Villa Lobos, Ponce, as well as some personal jazz transcriptions of famous pop songs, while continuing to reflect on his musical approach and learn from the great guitarists of our time as he develops his own musical identity, sound and technique.
 
-![Ludo Michaud Video](/pics/20260223-LudoMichaudVideo.png)
+Play the video:  
+[<img src="/pics/20260223-LudoMichaudVideo.png" alt="Ludo Michaud Video" style="width: 200px;border: 3px solid var(--linkblue);">](https://youtu.be/F8WzRySCg-k?si=JphFDuZHyLlkcboD)
 
 1. Milonga (Jorge Cardoso)
 1. Study in Em (Jorge Morel)
