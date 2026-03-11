@@ -4,10 +4,9 @@ title: Events
 description: >-
   Shows current events including planned upcoming events, our latest event and
   three recent events.  Mentions the Memories and Stars pages for more events.
-last_modified_at: 2026-01-29
+last_modified_at: 2026-03-10
 ---
 
-* February 23 - Ludo Michaud
 * March 30 - Nicolò Spera
 * April 27 - Dominick Antonelli
 * May 18 - Alfredo Muro
