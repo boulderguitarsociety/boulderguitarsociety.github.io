@@ -9,7 +9,7 @@ last_modified_at: 2026-03-11
 
 ## Coming April 4th! ##
 
-<p><img src="/pics/IMG_7393c2.png" alt="Concert26" style="margin-left: -30px;"></p>
+<p><img src="/pics/IMG_7393c2.png" alt="Concert26" style="margin: -30px;"></p>
 
 ## 2 - 4 PM @ Canyon Theater, Boulder Library ##
 
