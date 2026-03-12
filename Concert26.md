@@ -7,9 +7,9 @@ description: >-
 last_modified_at: 2026-03-11
 ---
 
-# Coming April 4th #
+## Coming April 4th ##
 
-<p><img src="/pics/IMG_7393c2.png" alt="Concert26" style="margin-left: 20px;"></p>
+<p><img src="/pics/IMG_7393c2.png" alt="Concert26" style="margin-left: -30px;"></p>
 
 ## 2 - 4 PM @ Canyon Theater, Boulder Library ##
 
@@ -17,7 +17,7 @@ In case you hadn't heard, we're planning a public concert outside of our usual m
 
 ## Free Concert - Donations Accepted ##
 
-You can donate to Boulder Guitar Society via [___PAYPAL___](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JKWLNJNF42PY6) or, if you prefer, send a <ins>check payable to _Boulder Guitar Society_</ins> to:
+Everyone is welcome at the concert at no charge.  We hope you'll be so impressed with our local performers that you'll want to get involved yourself, come to one of our monthly meetings and/or support us with a donation.  You can donate to Boulder Guitar Society via [___PAYPAL___](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JKWLNJNF42PY6) or, if you prefer, send a <ins>check payable to _Boulder Guitar Society_</ins> to:
 >   __Boulder Guitar Society__  
 >   __1403 Cypress Circle__  
 >   __Lafayette, CO 80026__
