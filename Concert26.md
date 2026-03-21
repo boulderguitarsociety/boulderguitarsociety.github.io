@@ -4,16 +4,37 @@ title: All Stars Concert
 description: >-
   Announces the April 4th, 2026 free BGS concert.  Describes ways to donate
   via PayPal or by personal check.  All gifts are tax-deductible.
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-21
 ---
 
-## Coming April 4th! ##
+## All Stars Concert: ##
 
-<p><img src="/pics/IMG_7393c2.png" alt="Concert26" style="margin: -30px;"></p>
+<p><a href="Concert26.html"><img src="/pics/IMG_7393c2.png" alt="Concert26" style="width: 200px;"></a></p>
+
+![line](/pics/wgly-line.png)
 
 ## 2 - 4 PM @ Canyon Theater, Boulder Library ##
 
-In case you hadn't heard, we're planning a public concert outside of our usual monthly meetings.This is an opportunity for several of our members (and their friends) to show off what they've been doing privately for a larger audience. Please invite your friends, family, clients, co-workers, clients, patients (if you're a dentist), and any other interested parties. Show them a side of you they may have little or no notion of.
+Free parking on site.    Doors open at 1:40 PM.
+Performers will include Gabe Balogh, Toby Gallegos, Mark Limber, Ludo Michaud, Dan Palmer, Martin Ters, and others.  Additional details available at https://calendar.boulderlibrary.org/event/16001968.    
+
+## Program ##
+* Solos
+  - Daniel Palmer
+    * _Se Ela Perguntar_ by Dilermando Reis
+    * _Canarios_ by Gaspar Sanz
+  - Martin Ters
+  - Ludo Michaud
+  - Gabriel Balogh
+  - Mark Limber
+    * _Bouree_ by Bach
+    * _Altair_ by Barrios
+    * _Walking in Rio (Passeio No Rio)_ by Bonfa
+
+* Ensembles
+  - Duo'et is the creative partnership of Mark Limber and Sadie Zukowski, which originated in 2018 from a shared desire to explore diverse musical genres. Today's performance spans the Romantic, Bossa Nova, Crime Jazz, Rockabilly and Progressive Rock genres.
+    * Streets of Rio
+    * Prelude for an Insenitive Pink Cat's Money
 
 ## Free Concert - Donations Accepted ##
 

@@ -1,8 +1,12 @@
 ---
 layout: welcome
 title: Welcome
-last_modified_at: 2025-05-26
+last_modified_at: 2026-03-21
 ---
+
+## Coming April 4th! ##
+
+<p><img src="/pics/IMG_7393c2.png" alt="Concert26" style="margin: -30px;"></p>
 
 <p><img src="/pics/Welcome.png" alt="Welcome" style="width: 650px;"></p>
 
@@ -15,4 +19,5 @@ For more information see ...
 > * [Events](Events.html) - for upcoming plans and recent happenings
 > * [Contact](Contact.html) - to get our newsletter or email us
 
-And finally, your [Support](Support.html) is essential so please help.  <ins>Thank you!</ins>  
+And finally, your [Support](Support.html) is essential so pl:w
+ease help.  <ins>Thank you!</ins>  
