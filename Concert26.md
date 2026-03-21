@@ -21,21 +21,21 @@ Free parking on site.    Doors open at 1:40 PM.
 Performers include Gabe Balogh, Toby Gallegos, Mark Limber, Ludo Michaud, Dan Palmer, Martin Ters, and others.  Additional details available at [Boulder Library Events](https://calendar.boulderlibrary.org/event/16001968).    
 
 * Solos
-  - Daniel Palmer
+  - <ins>Daniel Palmer</ins>
     * _Se Ela Perguntar_ by Dilermando Reis
     * _Canarios_ by Gaspar Sanz
-  - Martin Ters
-  - Ludo Michaud
-  - Gabriel Balogh
-  - Mark Limber
+  - <ins>Martin Ters</ins>
+  - <ins>Ludo Michaud</ins>
+  - <ins>Gabriel Balogh</ins>
+  - <ins>Mark Limber</ins>
     * _Bouree_ by Bach
     * _Altair_ by Barrios
     * _Walking in Rio (Passeio No Rio)_ by Bonfa
 
 * Ensembles
   - Duo'et is the creative partnership of Mark Limber and Sadie Zukowski, which originated in 2018 from a shared desire to explore diverse musical genres. Today's performance spans the Romantic, Bossa Nova, Crime Jazz, Rockabilly and Progressive Rock genres.
-    * Streets of Rio
-    * Prelude for an Insenitive Pink Cat's Money
+    * _Streets of Rio_
+    * _Prelude for an Insensitive Pink Cat's Money_
 
 ## Free Concert - Donations Accepted ##
 

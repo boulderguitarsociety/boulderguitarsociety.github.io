@@ -6,7 +6,7 @@ last_modified_at: 2026-03-21
 
 ## All Stars Concert: ##
 
-<p><a href="Concert26.html"><img src="/pics/IMG_7393c2.png" alt="Concert26" style="width: 200px;"></a></p>
+<p><a href="Concert26.html"><img src="/pics/IMG_7393c2.png" alt="Concert26" style="width: 200px;border: 4px solid var(--linkblue);margin-left: 80px;"></a></p>
 
 ![line](/pics/wgly-line.png)
 
@@ -21,5 +21,4 @@ For more information see ...
 > * [Events](Events.html) - for upcoming plans and recent happenings
 > * [Contact](Contact.html) - to get our newsletter or email us
 
-And finally, your [Support](Support.html) is essential so pl:w
-ease help.  <ins>Thank you!</ins>  
+And finally, your [Support](Support.html) is essential so please help.  <ins>Thank you!</ins>  
