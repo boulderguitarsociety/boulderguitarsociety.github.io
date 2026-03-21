@@ -33,7 +33,7 @@ Performers include Gabe Balogh, Toby Gallegos, Mark Limber, Ludo Michaud, Dan Pa
     * _Walking in Rio (Passeio No Rio)_ by Bonfa
 
 * Ensembles
-  - Duo'et is the creative partnership of Mark Limber and Sadie Zukowski, which originated in 2018 from a shared desire to explore diverse musical genres. Today's performance spans the Romantic, Bossa Nova, Crime Jazz, Rockabilly and Progressive Rock genres.
+  - <ins>Duo'et</ins> is the creative partnership of Mark Limber and Sadie Zukowski, which originated in 2018 from a shared desire to explore diverse musical genres. Today's performance spans the Romantic, Bossa Nova, Crime Jazz, Rockabilly and Progressive Rock genres.
     * _Streets of Rio_
     * _Prelude for an Insensitive Pink Cat's Money_
 
