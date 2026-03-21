@@ -7,18 +7,19 @@ description: >-
 last_modified_at: 2026-03-21
 ---
 
-## All Stars Concert: ##
+## Coming April 4th! ##
 
-<p><a href="Concert26.html"><img src="/pics/IMG_7393c2.png" alt="Concert26" style="width: 200px;"></a></p>
+<p><img src="/pics/IMG_7393c2.png" alt="Concert26" style="margin: -30px;"></p>
 
-![line](/pics/wgly-line.png)
+
 
 ## 2 - 4 PM @ Canyon Theater, Boulder Library ##
 
 Free parking on site.    Doors open at 1:40 PM.
-Performers will include Gabe Balogh, Toby Gallegos, Mark Limber, Ludo Michaud, Dan Palmer, Martin Ters, and others.  Additional details available at https://calendar.boulderlibrary.org/event/16001968.    
 
 ## Program ##
+Performers include Gabe Balogh, Toby Gallegos, Mark Limber, Ludo Michaud, Dan Palmer, Martin Ters, and others.  Additional details available at [Boulder Library Events](https://calendar.boulderlibrary.org/event/16001968).    
+
 * Solos
   - Daniel Palmer
     * _Se Ela Perguntar_ by Dilermando Reis

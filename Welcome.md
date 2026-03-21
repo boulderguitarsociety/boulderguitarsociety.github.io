@@ -4,9 +4,11 @@ title: Welcome
 last_modified_at: 2026-03-21
 ---
 
-## Coming April 4th! ##
+## All Stars Concert: ##
 
-<p><img src="/pics/IMG_7393c2.png" alt="Concert26" style="margin: -30px;"></p>
+<p><a href="Concert26.html"><img src="/pics/IMG_7393c2.png" alt="Concert26" style="width: 200px;"></a></p>
+
+![line](/pics/wgly-line.png)
 
 <p><img src="/pics/Welcome.png" alt="Welcome" style="width: 650px;"></p>
 
