@@ -4,7 +4,7 @@ title: All Stars Concert
 description: >-
   Announces the April 4th, 2026 free BGS concert.  Describes ways to donate
   via PayPal or by personal check.  All gifts are tax-deductible.
-last_modified_at: 2026-03-21
+last_modified_at: 2026-03-23
 ---
 
 ## Coming April 4th! ##
@@ -24,21 +24,25 @@ Performers include Gabe Balogh, Toby Gallegos, Mark Limber, Ludo Michaud, Dan Pa
   - <ins>Daniel Palmer</ins>
     * _Se Ela Perguntar_ by Dilermando Reis
     * _Canarios_ by Gaspar Sanz
-  - <ins>Toby Gonzales</ins>
+  - <ins>Toby Gallegos</ins>
     * _Cada Mañana (Every Morning)_ by Eduardo Diaz
     * _En un Abrazo (In a Hug)_ by Eduardo Diaz
     * _Hoy y Siempre (Today and Forever)_ by Eduardo Diaz
   - <ins>Martin Ters</ins>
+    * _Aria_ by J.S. Bach
+    * _Preludio Adios_ by Alfonso Montes
+    * _Sons de Carrilhoes (Sounds of Bells)_ by João Pernambuco
+    * _Preludio Tristón_ by Máximo Diego Pujol
   - <ins>Ludo Michaud</ins>
     * _Introduction and Variations on a Theme by Mozart_ by Fernando Sor
     * _Fantasia on a Theme from La Traviata_ by Francisco Tárrega
     * _Choro de Saudade_ by Agustin Barrios
-    * Some Beatles arr. by Ludo Michaud
+    * TBD Rock arr. by Ludo Michaud
   - <ins>Gabriel Balogh</ins>
     * _Blue Madeline_ by Giacomo Susani
     * _Capricho Catalan_ by Isaac Albeniz
   - <ins>Mark Limber</ins>
-    * _Bouree_ from J. S. Bach
+    * _Bouree_ from J.S. Bach
     * _Altair_ by Agustin Barrios
     * _Passeio No Rio (Walking in Rio)_ by Luiz Bonfá
 
