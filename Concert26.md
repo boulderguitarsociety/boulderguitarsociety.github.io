@@ -52,6 +52,8 @@ Performers include Gabe Balogh, Toby Gallegos, Mark Limber, Ludo Michaud, Dan Pa
     * _Streets of Rio_
     * _Prelude for an Insensitive Pink Cat's Money_
 
+_If you enjoyed the concert and would like to keep in touch, use our [Contact](Contact.html) page to <ins>get our monthly newsletter</ins>._
+
 ## Free Concert - Donations Accepted ##
 
 Everyone is welcome at the concert at no charge.  We hope you'll be so impressed with our local performers that you'll want to get involved yourself, come to one of our monthly meetings and/or support us with a donation.  You can donate to Boulder Guitar Society via [___PAYPAL___](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JKWLNJNF42PY6) or, if you prefer, send a <ins>check payable to _Boulder Guitar Society_</ins> to:
