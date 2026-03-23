@@ -32,15 +32,15 @@ Performers include Gabe Balogh, Toby Gallegos, Mark Limber, Ludo Michaud, Dan Pa
   - <ins>Ludo Michaud</ins>
     * _Introduction and Variations on a Theme by Mozart_ by Fernando Sor
     * _Fantasia on a Theme from La Traviata_ by Francisco Tárrega
-    * _Choro de Saudade_ by Augustin Barrios
+    * _Choro de Saudade_ by Agustin Barrios
     * Some Beatles arr. by Ludo Michaud
   - <ins>Gabriel Balogh</ins>
     * _Blue Madeline_ by Giacomo Susani
     * _Capricho Catalan_ by Isaac Albeniz
   - <ins>Mark Limber</ins>
-    * _Bouree_ by Bach
-    * _Altair_ by Barrios
-    * _Walking in Rio (Passeio No Rio)_ by Bonfa
+    * _Bouree_ from J. S. Bach
+    * _Altair_ by Agustin Barrios
+    * _Passeio No Rio (Walking in Rio)_ by Luiz Bonfá
 
 * Ensembles
   - <ins>Martin Ters and Ludo Michaud</ins>
