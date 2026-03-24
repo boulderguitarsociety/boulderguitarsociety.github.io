@@ -53,8 +53,8 @@ Performers include Gabe Balogh, Toby Gallegos, Mark Limber, Ludo Michaud, Dan Pa
     * _Prelude and Fugue_ by Mario Castlenuovo-Tedesco
     * Selections from _Summer Garden Suite_ by Sergio Assad
   - <ins>Duo'et</ins> is the creative partnership of Mark Limber and Sadie Zukowski.  It was formed in 2018 from a shared desire to explore diverse musical genres. Today's performance spans the Romantic, Bossa Nova, Crime Jazz, Rockabilly and Progressive Rock genres.
-    * _Streets of Rio_
-    * _Prelude for an Insensitive Pink Cat's Money_
+    * _Streets of Rio_ by Maurice Sherbanee, arranged by Mark
+    * _Prelude for an Insensitive Pink Cat's Money_ by Frédéric Chopin, Antônio Carlos Jobim, Henry Mancini, Brian Setzer, Roger Waters, assembled by Mark
 
 _If you enjoyed the concert and would like to keep in touch, use our [Contact](Contact.html) page to <ins>get our monthly newsletter</ins>._
 
