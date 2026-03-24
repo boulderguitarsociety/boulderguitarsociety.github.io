@@ -29,7 +29,7 @@ Performers include Gabe Balogh, Toby Gallegos, Mark Limber, Ludo Michaud, Dan Pa
     * _En un Abrazo (In a Hug)_ by Eduardo Diaz
     * _Hoy y Siempre (Today and Forever)_ by Eduardo Diaz
   - <ins>Martin Ters</ins>
-    * _Aria_ by J.S. Bach
+    * _Aria Na 4ta. Corda_ by J.S. Bach as arranged by Alfredo Muro
     * _Preludio Adios_ by Alfonso Montes
     * _Sons de Carrilhoes (Sounds of Bells)_ by João Pernambuco
     * _Preludio Tristón_ by Máximo Diego Pujol
@@ -42,7 +42,7 @@ Performers include Gabe Balogh, Toby Gallegos, Mark Limber, Ludo Michaud, Dan Pa
     * _Blue Madeline_ by Giacomo Susani
     * _Capricho Catalan_ by Isaac Albeniz
   - <ins>Mark Limber</ins>
-    * _Bouree_ from J.S. Bach
+    * _Bourrée from the Suite in E minor BWV 996_ by J.S. Bach
     * _Altair_ by Agustin Barrios
     * _Passeio No Rio (Walking in Rio)_ by Luiz Bonfá
 
@@ -52,7 +52,7 @@ Performers include Gabe Balogh, Toby Gallegos, Mark Limber, Ludo Michaud, Dan Pa
   - <ins>Gabriel Balogh and Aiden Wiley-Lippke</ins>
     * _Prelude and Fugue_ by Mario Castlenuovo-Tedesco
     * Selections from _Summer Garden Suite_ by Sergio Assad
-  - <ins>Duo'et</ins> is the creative partnership of Mark Limber and Sadie Zukowski, which originated in 2018 from a shared desire to explore diverse musical genres. Today's performance spans the Romantic, Bossa Nova, Crime Jazz, Rockabilly and Progressive Rock genres.
+  - <ins>Duo'et</ins> is the creative partnership of Mark Limber and Sadie Zukowski.  It was formed in 2018 from a shared desire to explore diverse musical genres. Today's performance spans the Romantic, Bossa Nova, Crime Jazz, Rockabilly and Progressive Rock genres.
     * _Streets of Rio_
     * _Prelude for an Insensitive Pink Cat's Money_
 
