@@ -36,14 +36,14 @@ Performers include Gabe Balogh, Toby Gallegos, Mark Limber, Ludo Michaud, Dan Pa
   - <ins>Ludo Michaud</ins>
     * _Introduction and Variations on a Theme by Mozart_ by Fernando Sor
     * _Fantasia on a Theme from La Traviata_ by Francisco Tárrega
-    * _Choro de Saudade_ by Agustin Barrios
+    * _Choro de Saudade_ by Agustín Barrios
     * TBD Rock arr. by Ludo Michaud
   - <ins>Gabriel Balogh</ins>
     * _Blue Madeline_ by Giacomo Susani
     * _Capricho Catalan_ by Isaac Albeniz
   - <ins>Mark Limber</ins>
     * _Bourrée from the Suite in E minor BWV 996_ by J.S. Bach
-    * _Altair_ by Agustin Barrios
+    * _Altair_ by Agustín Barrios
     * _Passeio No Rio (Walking in Rio)_ by Luiz Bonfá
 
 * Ensembles
