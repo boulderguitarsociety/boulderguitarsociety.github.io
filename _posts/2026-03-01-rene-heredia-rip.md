@@ -8,8 +8,11 @@ tags:
 last_modified_at: 2026-03-01
 ---
 
-![René Heredia at Carnegie Hall](/pics/20260301-ReneHerediaCarnegieHall.jpg)
-René in 1976 at Carnegie Hall playing to Paco's old guitar case, courtesy of Andréana Cortés-Heredia
+<p style="font-size: 13px;width: 600px;">
+<img src="/pics/20260301-ReneHerediaCarnegieHall.jpg" alt="René Heredia at Carnegie Hall">
+René in 1976 at Carnegie Hall playing to Paco’s old guitar case, courtesy of Andréana Cortés-Heredia</p>
+
+![line](/pics/wgly-line.png)
 
 We are saddened to learn that internationally acclaimed Flamenco artist
 [René Heredia](https://reneheredia.com)
