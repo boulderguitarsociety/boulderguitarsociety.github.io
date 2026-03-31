@@ -23,22 +23,22 @@ Performers include Gabe Balogh, Toby Gallegos, Mark Limber, Ludo Michaud, Dan Pa
 * Soloists
   - [Daniel Palmer](#daniel-palmer)
     * _Se Ela Perguntar_ by Dilermando Reis
-  - <ins>Toby Gallegos</ins>
+  - [Toby Gallegos](#toby-gallegos)
     * _Cada Mañana (Every Morning)_ by Eduardo Diaz
     * _En un Abrazo (In a Hug)_ by Eduardo Diaz
     * _Hoy y Siempre (Today and Forever)_ by Eduardo Diaz
-  - <ins>Martin Ters</ins>
+  - [Martin Ters](#martin-ters)
     * _Aria Na 4ta. Corda_ by J.S. Bach as arranged by Alfredo Muro
     * _Sons de Carrilhoes (Sounds of Bells)_ by João Pernambuco
     * _Preludio Tristón_ by Máximo Diego Pujol
-  - <ins>Ludo Michaud</ins>
+  - [Ludo Michaud](#ludo-michaud)
     * _Introduction and Variations on a Theme by Mozart_ by Fernando Sor
     * _Fantasia on a Theme from La Traviata_ by Francisco Tárrega
     * _Inspired by Eagles_ by Ludo Michaud
-  - <ins>Gabriel Balogh</ins>
+  - [Gabriel Balogh](#gabriel-balogh)
     * _Blue Madeline_ by Giacomo Susani
     * _Capricho Catalan_ by Isaac Albeniz
-  - <ins>Mark Limber</ins>
+  - [Mark Limber](#mark-limber)
     * _Bourrée from the Suite in E minor BWV 996_ by J.S. Bach
     * _Altair_ by Agustín Barrios
     * _Passeio No Rio (Walking in Rio)_ by Luiz Bonfá
@@ -46,10 +46,10 @@ Performers include Gabe Balogh, Toby Gallegos, Mark Limber, Ludo Michaud, Dan Pa
 * Ensembles
   - <ins>Martin Ters and Ludo Michaud</ins>
     * _Aria_ by Milan Tesař
-  - <ins>Gabriel Balogh and Aiden Wiley-Lippke</ins>
+  - <ins>Gabriel Balogh</ins> and [Aidan Wiley Lippke](#aidan-wiley-lippke)
     * _Prelude and Fugue_ by Mario Castlenuovo-Tedesco
     * Selections from _Summer Garden Suite_ by Sergio Assad
-  - <ins>Mark Limber and Sadie Zukowski (Duo'et)</ins> 
+  - <ins>Mark Limber</ins> and [Sadie Zukowski](#sadie-zukowski) (<ins>Duo'et</ins>) 
     * _Streets of Rio_ by Maurice Sherbanee, arranged by Mark
     * _Prelude for an Insensitive Pink Cat's Money_ by Frédéric Chopin, Antônio Carlos Jobim, Henry Mancini, Brian Setzer, Roger Waters, assembled by Mark
 
