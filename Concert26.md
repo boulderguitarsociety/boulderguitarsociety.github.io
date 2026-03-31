@@ -65,6 +65,8 @@ Everyone is welcome at the concert at no charge.  We hope you'll be so impressed
 All gifts are tax-deductible, as we are a registered 501(c)(3) non-profit organization.  
 ## _Thank you for your support!_ ##
 
+>>> [![PayPal](/pics/362f7467-e8d5-4d62-bb31-81c8159459a0.jpg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JKWLNJNF42PY6)
+
 <img class="wgly" src="/stylings/PrintedPaper_line-3_3.png" alt="wgly">
 
 ## Personae ##
@@ -72,7 +74,7 @@ All gifts are tax-deductible, as we are a registered 501(c)(3) non-profit organi
 * __Daniel Palmer__  
 <img src="/strs/20250929b.jpg" alt="Daniel" style="width: 120px;">
 * __Toby Gallegos__  
-<img src="/strs/20260404a.jpg" alt="Toby" style="width: 120px;">
+<img src="/strs/20260404a.png" alt="Toby" style="width: 120px;">
 * __Martin Ters__  
 <img src="/strs/20250929a.jpg" alt="Martin" style="width: 120px;">
 * __Ludo Michaud__  
@@ -82,5 +84,3 @@ All gifts are tax-deductible, as we are a registered 501(c)(3) non-profit organi
 * __Mark Limber__  
 <img src="/strs/20250331a.jpg" alt="Mark" style="width: 120px;">
 
-
->>> [![PayPal](/pics/362f7467-e8d5-4d62-bb31-81c8159459a0.jpg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JKWLNJNF42PY6)
