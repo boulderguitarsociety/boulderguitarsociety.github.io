@@ -74,10 +74,12 @@ Performers in order of appearance ...
 
 ### Daniel Palmer ###  
 <img src="/strs/20250929b.jpg" alt="Daniel" style="width: 120px;"><br>
+
+__Daniel Palmer__ got his start - as many guitarists do - playing rock'n'roll as a teenager.    He played in several bands and eventually found classical guitar which he's pursued with great passion for five years.     He plays several other instruments including the Middle Eastern oud.      He's developing a workshop to construct guitars.    His non-music background is in economics.
 ### Toby Gallegos ###  
 <img src="/strs/20260404a.png" alt="Toby" style="width: 120px;"><br>
 
-Toby Gallegos has been involved with the Boulder Guitar Society for over 30 years, serving as its president for the last 15 years.
+__Toby Gallegos__ has been involved with the Boulder Guitar Society for over 30 years, serving as its president for the last 15 years.
 
 Toby started playing guitar at age 15 and discovered classical guitar while in college. After a long layoff due to the demands of young adulthood, he picked up the guitar again in middle age. Felicity Muench was Toby’s most influential guitar teacher. Toby enjoys a variety of music genres from classical to blues to steel-string acoustic fingerstyle to rock to New Age to folk to bluegrass to Americana, to name just a few. Toby’s overarching musical philosophy is that lyrics are just a break between guitar solos.
 
@@ -94,7 +96,7 @@ Martin remains active in the music scene, performing occasional recitals in loca
 ### Ludo Michaud ###
 <img src="/strs/20260223a.png" alt="Ludo" style="width: 120px;"><br>
 
-Born in Paris, France, Ludo Michaud started playing the guitar at the age of 6. After a few years of intensive practice with professor Maciej Glugla, he won the admission competition of the Regional Conservatory of Paris and studied in the class of Pedro Ibanez, while learning Jazz guitar in parallel.
+Born in Paris, France, __Ludo Michaud__ started playing the guitar at the age of 6. After a few years of intensive practice with professor Maciej Glugla, he won the admission competition of the Regional Conservatory of Paris and studied in the class of Pedro Ibanez, while learning Jazz guitar in parallel.
 
 Passionate about Audio and Video technologies, Ludo left the conservatory after graduating from it, to study Video Engineering in Valenciennes, on the French/Belgian border, and eventually joined an Austrian Video Streaming Engineering startup in its early days. This adventure led him to spend the past decade living in the Austrian Alps, Vienna, then Denver.
 
@@ -112,9 +114,11 @@ An enthusiastic transcriber for the guitar, Gabriel has contributed to the reper
 He lives in Denver, CO and is actively engaged in both performance and teaching across the Front Range and currently serves as interim professor of Guitar at MSU Denver.
 ### Mark Limber ###  
 <img src="/strs/20250331a.jpg" alt="Mark" style="width: 120px;"><br>
+
+[Mark](https://www.facebook.com/marklimbermusic/) started playing guitar at age 7, first studying Carcassi, in Spanish, in Hawaii, at Punahou (after Obama was there, sadly) with a teacher who didn’t know any Spanish. His parents sacrificed everything for Mark’s budding career and moved the family to the musical mecca that is Boise, ID where he continued his studies at the local university throughout his high school years. While he didn’t exactly major in music at the University of California at Santa Cruz, he did play an awful lot. After a long break during which he started a family, earned a PhD and worked for a living, he has returned full time to pursue his greatest passion - his calling! - playing guitar, mostly with other people because that’s more fun than playing alone
 ### Aidan Wiley Lippke ###  
 <img src="/strs/20260404w.png" alt="Aidan" style="width: 120px;"><br>
 
-Aidan Wiley Lippke is an award-winning classical guitarist who has earned prizes at the Indiana University Classical Guitar Festival, Appalachian State Guitar Festival, and Domaine Forget Guitar Academy among others. He is currently pursuing an Artist Diploma at the University of Denver under Professor Jonathan Leathwood. He previously studied with René Izquierdo at the University of Wisconsin-Milwaukee and Stephen Aron at Oberlin Conservatory. He plays a 2018 Patrick Mailloux double-top guitar.
+[Aidan Wiley Lippke](https://www.gigsalad.com/aidan_wiley_lippke_-_classical_guitar_denver) is an award-winning classical guitarist who has earned prizes at the Indiana University Classical Guitar Festival, Appalachian State Guitar Festival, and Domaine Forget Guitar Academy among others. He is currently pursuing an Artist Diploma at the University of Denver under Professor Jonathan Leathwood. He previously studied with René Izquierdo at the University of Wisconsin-Milwaukee and Stephen Aron at Oberlin Conservatory. He plays a 2018 Patrick Mailloux double-top guitar.
 ### Sadie Zukowski ###  
 
