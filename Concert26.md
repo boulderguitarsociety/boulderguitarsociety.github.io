@@ -91,7 +91,7 @@ Monday's performance will feature Toby playing works by Eduardo Diaz while his m
 In 2005, Martin met the Czech composer, guitarist, and professor Milan Tesar of the Jaroslav Ježek Music Conservatory in Prague. Through frequent visits to Prague, the two often played music together and became friends. Martin brought many of Milan’s guitar pieces back to Denver and Boulder, and tonight he will share them with you, along with some history of Milan’s life and his influence on guitar music.
 
 Martin remains active in the music scene, performing occasional recitals in local libraries, senior centers, and at guitar societies.
-* __Ludo Michaud__  
+### Ludo Michaud ###
 <img src="/strs/20260223a.png" alt="Ludo" style="width: 120px;"><br>
 
 Born in Paris, France, Ludo Michaud started playing the guitar at the age of 6. After a few years of intensive practice with professor Maciej Glugla, he won the admission competition of the Regional Conservatory of Paris and studied in the class of Pedro Ibanez, while learning Jazz guitar in parallel.
