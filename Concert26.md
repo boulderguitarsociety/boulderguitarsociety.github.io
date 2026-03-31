@@ -21,7 +21,7 @@ Free parking on site.    Doors open at 1:40 PM.
 Performers include Gabe Balogh, Toby Gallegos, Mark Limber, Ludo Michaud, Dan Palmer, Martin Ters, and others.  Additional details available at [Boulder Library Events](https://calendar.boulderlibrary.org/event/16001968).    
 
 * Soloists
-  - <ins>Daniel Palmer</ins>
+  - [Daniel Palmer](#daniel-palmer)
     * _Se Ela Perguntar_ by Dilermando Reis
   - <ins>Toby Gallegos</ins>
     * _Cada Mañana (Every Morning)_ by Eduardo Diaz
@@ -70,6 +70,7 @@ All gifts are tax-deductible, as we are a registered 501(c)(3) non-profit organi
 <img class="wgly" src="/stylings/PrintedPaper_line-3_3.png" alt="wgly">
 
 ## Personae ##
+Performers in order of appearance ...
 
 ### Daniel Palmer ###  
 <img src="/strs/20250929b.jpg" alt="Daniel" style="width: 120px;"><br>
