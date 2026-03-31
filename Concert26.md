@@ -73,7 +73,6 @@ All gifts are tax-deductible, as we are a registered 501(c)(3) non-profit organi
 
 * __Daniel Palmer__  
 <img src="/strs/20250929b.jpg" alt="Daniel" style="width: 120px;"><br>
-
 * __Toby Gallegos__  
 <img src="/strs/20260404a.png" alt="Toby" style="width: 120px;"><br>
 
@@ -113,7 +112,6 @@ An enthusiastic transcriber for the guitar, Gabriel has contributed to the reper
 He lives in Denver, CO and is actively engaged in both performance and teaching across the Front Range and currently serves as interim professor of Guitar at MSU Denver.
 * __Mark Limber__  
 <img src="/strs/20250331a.jpg" alt="Mark" style="width: 120px;"><br>
-
 * __Aidan Wiley Lippke__  
 <img src="/strs/20260404w.png" alt="Aidan" style="width: 120px;"><br>
 
