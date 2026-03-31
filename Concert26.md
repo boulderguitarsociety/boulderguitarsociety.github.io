@@ -83,7 +83,6 @@ Toby started playing guitar at age 15 and discovered classical guitar while in c
 
 Toby is an almost semi-retired business coach and tax advisor. He and Liane, his wife of 51 years, live in Lafayette. Toby also serves on the board of directors of [A Child’s Song](https://achildssong.org/).
 
-Monday's performance will feature Toby playing works by Eduardo Diaz while his many friends will preview pieces they are preparing for our All Stars Concert coming on April 4th.  Thanks to Toby for everything and to Mark Cole for getting all this together for the concert.
 ### Martin Ters ###  
 <img src="/strs/20250929a.jpg" alt="Martin" style="width: 120px;"><br>
 
