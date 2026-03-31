@@ -69,13 +69,18 @@ All gifts are tax-deductible, as we are a registered 501(c)(3) non-profit organi
 
 ## Personae ##
 
-* **Daniel Palmer**  
-![20250929b.jpg](/strs/20250929b.jpg)
-* **Toby Gallegos**  
-* **Martin Ters**  
-* **Ludo Michaud**  
-* **Gabriel Balogh**  
-* **Mark Limber**  
+* __Daniel Palmer__  
+<img src="/strs/20250929b.jpg" alt="Daniel" style="width: 120px;">
+* __Toby Gallegos__  
+<img src="/strs/20260404a.jpg" alt="Toby" style="width: 120px;">
+* __Martin Ters__  
+<img src="/strs/20250929a.jpg" alt="Martin" style="width: 120px;">
+* __Ludo Michaud__  
+<img src="/strs/20260223a.png" alt="Ludo" style="width: 120px;">
+* __Gabriel Balogh__  
+<img src="/strs/20240930a.jpg" alt="Gabriel" style="width: 120px;">
+* __Mark Limber__  
+<img src="/strs/20250331a.jpg" alt="Mark" style="width: 120px;">
 
 
 >>> [![PayPal](/pics/362f7467-e8d5-4d62-bb31-81c8159459a0.jpg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JKWLNJNF42PY6)
