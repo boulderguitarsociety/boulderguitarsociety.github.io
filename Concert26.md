@@ -71,9 +71,9 @@ All gifts are tax-deductible, as we are a registered 501(c)(3) non-profit organi
 
 ## Personae ##
 
-* __Daniel Palmer__  
+### Daniel Palmer ###  
 <img src="/strs/20250929b.jpg" alt="Daniel" style="width: 120px;"><br>
-* __Toby Gallegos__  
+### Toby Gallegos ###  
 <img src="/strs/20260404a.png" alt="Toby" style="width: 120px;"><br>
 
 Toby Gallegos has been involved with the Boulder Guitar Society for over 30 years, serving as its president for the last 15 years.
@@ -83,7 +83,7 @@ Toby started playing guitar at age 15 and discovered classical guitar while in c
 Toby is an almost semi-retired business coach and tax advisor. He and Liane, his wife of 51 years, live in Lafayette. Toby also serves on the board of directors of A Child’s Song.
 
 Monday's performance will feature Toby playing works by Eduardo Diaz while his many friends will preview pieces they are preparing for our All Stars Concert coming on April 4th.  Thanks to Toby for everything and to Mark Cole for getting all this together for the concert.
-* __Martin Ters__  
+### Martin Ters ###  
 <img src="/strs/20250929a.jpg" alt="Martin" style="width: 120px;"><br>
 
 [Martin Ters](https://www.tersdds.com/about) is one of the founding members of the Boulder Guitar Society and for many years also attended meetings of the Denver Society. He has played guitar since the age of 10, and his life has been deeply connected with guitar playing, building, and repairing. Over the years, he has studied with teachers including Felicity Muench, Masa Ito, Ricardo Iznaola, Alfredo Muro, and currently Sulaiman Zai.
@@ -99,7 +99,7 @@ Born in Paris, France, Ludo Michaud started playing the guitar at the age of 6. 
 Passionate about Audio and Video technologies, Ludo left the conservatory after graduating from it, to study Video Engineering in Valenciennes, on the French/Belgian border, and eventually joined an Austrian Video Streaming Engineering startup in its early days. This adventure led him to spend the past decade living in the Austrian Alps, Vienna, then Denver.
 
 Between ski trips and hours of computer programming, Ludo started to build an ever evolving repertoire including Tarrega, Barrios, Jorge Morel, S.L Weiss, Villa Lobos, Ponce, as well as some personal jazz transcriptions of famous pop songs, while continuing to reflect on his musical approach and learn from the great guitarists of our time as he develops his own musical identity, sound and technique
-* __Gabriel Balogh__  
+### Gabriel Balogh ###  
 <img src="/strs/20240930a.jpg" alt="Gabriel" style="width: 120px;"><br>
 
 [Gabriel Balogh](https://www.gabrielbalogh.com/)
@@ -110,11 +110,11 @@ Gabriel has studied under instructors Joe McHugh, Alex Komodore, Jonathan Leathw
 An enthusiastic transcriber for the guitar, Gabriel has contributed to the repertoire, with transcriptions of works by Haydn, Mozart, Beethoven, Albeniz, Granados, Scarlatti, C.P.E. Bach, and Johann Sebastian Bach. 
 
 He lives in Denver, CO and is actively engaged in both performance and teaching across the Front Range and currently serves as interim professor of Guitar at MSU Denver.
-* __Mark Limber__  
+### Mark Limber ###  
 <img src="/strs/20250331a.jpg" alt="Mark" style="width: 120px;"><br>
-* __Aidan Wiley Lippke__  
+### Aidan Wiley Lippke ###  
 <img src="/strs/20260404w.png" alt="Aidan" style="width: 120px;"><br>
 
 Aidan Wiley Lippke is an award-winning classical guitarist who has earned prizes at the Indiana University Classical Guitar Festival, Appalachian State Guitar Festival, and Domaine Forget Guitar Academy among others. He is currently pursuing an Artist Diploma at the University of Denver under Professor Jonathan Leathwood. He previously studied with René Izquierdo at the University of Wisconsin-Milwaukee and Stephen Aron at Oberlin Conservatory. He plays a 2018 Patrick Mailloux double-top guitar.
-* __Sadie Zukowski__  
+### Sadie Zukowski ###  
 
