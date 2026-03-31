@@ -23,21 +23,18 @@ Performers include Gabe Balogh, Toby Gallegos, Mark Limber, Ludo Michaud, Dan Pa
 * Soloists
   - <ins>Daniel Palmer</ins>
     * _Se Ela Perguntar_ by Dilermando Reis
-    * _Canarios_ by Gaspar Sanz
   - <ins>Toby Gallegos</ins>
     * _Cada Mañana (Every Morning)_ by Eduardo Diaz
     * _En un Abrazo (In a Hug)_ by Eduardo Diaz
     * _Hoy y Siempre (Today and Forever)_ by Eduardo Diaz
   - <ins>Martin Ters</ins>
     * _Aria Na 4ta. Corda_ by J.S. Bach as arranged by Alfredo Muro
-    * _Preludio Adios_ by Alfonso Montes
     * _Sons de Carrilhoes (Sounds of Bells)_ by João Pernambuco
     * _Preludio Tristón_ by Máximo Diego Pujol
   - <ins>Ludo Michaud</ins>
     * _Introduction and Variations on a Theme by Mozart_ by Fernando Sor
     * _Fantasia on a Theme from La Traviata_ by Francisco Tárrega
-    * _Choro de Saudade_ by Agustín Barrios
-    * TBD Rock arr. by Ludo Michaud
+    * _Inspired by Eagles_ by Ludo Michaud
   - <ins>Gabriel Balogh</ins>
     * _Blue Madeline_ by Giacomo Susani
     * _Capricho Catalan_ by Isaac Albeniz
