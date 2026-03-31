@@ -20,7 +20,7 @@ Free parking on site.    Doors open at 1:40 PM.
 ## Program ##
 Performers include Gabe Balogh, Toby Gallegos, Mark Limber, Ludo Michaud, Dan Palmer, Martin Ters, and others.  Additional details available at [Boulder Library Events](https://calendar.boulderlibrary.org/event/16001968).    
 
-* Soloists
+* __Soloists__
   - [Daniel Palmer](#daniel-palmer)
     * _Se Ela Perguntar_ by Dilermando Reis
   - [Toby Gallegos](#toby-gallegos)
@@ -43,13 +43,13 @@ Performers include Gabe Balogh, Toby Gallegos, Mark Limber, Ludo Michaud, Dan Pa
     * _Altair_ by Agustín Barrios
     * _Passeio No Rio (Walking in Rio)_ by Luiz Bonfá
 
-* Ensembles
-  - <ins>Martin Ters and Ludo Michaud</ins>
+* __Ensembles__
+  - __Martin Ters and Ludo Michaud__
     * _Aria_ by Milan Tesař
-  - <ins>Gabriel Balogh</ins> and [Aidan Wiley Lippke](#aidan-wiley-lippke)
+  - __Gabriel Balogh__ and [Aidan Wiley Lippke](#aidan-wiley-lippke)
     * _Prelude and Fugue_ by Mario Castlenuovo-Tedesco
     * Selections from _Summer Garden Suite_ by Sergio Assad
-  - <ins>Mark Limber</ins> and [Sadie Zukowski](#sadie-zukowski) (<ins>Duo'et</ins>) 
+  - __Mark Limber__ and [Sadie Zukowski](#sadie-zukowski) (__Duo'et__) 
     * _Streets of Rio_ by Maurice Sherbanee, arranged by Mark
     * _Prelude for an Insensitive Pink Cat's Money_ by Frédéric Chopin, Antônio Carlos Jobim, Henry Mancini, Brian Setzer, Roger Waters, assembled by Mark
 
