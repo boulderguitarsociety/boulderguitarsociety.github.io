@@ -75,7 +75,8 @@ Performers in order of appearance ...
 ### Daniel Palmer ###  
 <img src="/strs/20250929b.jpg" alt="Daniel" style="width: 120px;"><br>
 
-__Daniel Palmer__ got his start - as many guitarists do - playing rock'n'roll as a teenager.    He played in several bands and eventually found classical guitar which he's pursued with great passion for five years.     He plays several other instruments including the Middle Eastern oud.      He's developing a workshop to construct guitars.    His non-music background is in economics.
+__Daniel Palmer__ began guitar at the age of 14, playing rock and participating in the school's jazz and pep bands. After a long break from serious playing, he returned to the instrument in his late twenties, playing in a band with friends before ultimately becoming enamoured of classical guitar in 2020. He is a student at a classical guitar academy and studies with renowned guitarists Sulaiman Zai and Simon Powis, whose guidance has shaped his approach to the classical repertoire. He also plays oud and other instruments. Outside of solo guitar, he enjoys jamming and has played in various duets and small ensembles. He has a background in economics, and is currently setting up a woodshop with hopes of building his first guitar.
+
 ### Toby Gallegos ###  
 <img src="/strs/20260330a.png" alt="Toby" style="width: 120px;"><br>
 
@@ -115,12 +116,17 @@ He lives in Denver, CO and is actively engaged in both performance and teaching 
 ### Mark Limber ###  
 <img src="/strs/20250331a.jpg" alt="Mark" style="width: 120px;"><br>
 
-[Mark](https://www.facebook.com/marklimbermusic/) started playing guitar at age 7, first studying Carcassi, in Spanish, in Hawaii, at Punahou (after Obama was there, sadly) with a teacher who didn’t know any Spanish. His parents sacrificed everything for Mark’s budding career and moved the family to the musical mecca that is Boise, ID where he continued his studies at the local university throughout his high school years. While he didn’t exactly major in music at the University of California at Santa Cruz, he did play an awful lot. After a long break during which he started a family, earned a PhD and worked for a living, he has returned full time to pursue his greatest passion - his calling! - playing guitar, mostly with other people because that’s more fun than playing alone
+Born in Hawaii, [Mark](https://www.facebook.com/marklimbermusic/) began studying classical guitar at age seven. An award-winning performer, he continued his musical studies through his graduate work in Mathematics, winning several competitions and performing as a concerto soloist while diversifying his repertoire to include jazz, rock, and bass guitar.
+
+After a career at the intersection of technology and math, Mark has returned to the guitar as a full-time pursuit. Trading "work" for "play," he now focuses exclusively on repertoire that brings genuine joy—prioritizing collaborative performance and the shared experience of ensemble music over the traditional requirements of the classical canon.
 ### Aidan Wiley Lippke ###  
 <img src="/strs/20260404w.png" alt="Aidan" style="width: 120px;"><br>
 
 [Aidan Wiley Lippke](https://www.gigsalad.com/aidan_wiley_lippke_-_classical_guitar_denver) is an award-winning classical guitarist who has earned prizes at the Indiana University Classical Guitar Festival, Appalachian State Guitar Festival, and Domaine Forget Guitar Academy among others. He is currently pursuing an Artist Diploma at the University of Denver under Professor Jonathan Leathwood. He previously studied with René Izquierdo at the University of Wisconsin-Milwaukee and Stephen Aron at Oberlin Conservatory. He plays a 2018 Patrick Mailloux double-top guitar.
 ### Sadie Zukowski ###  
+<img src="/strs/20260404z.png" alt="Sadie" style="width: 120px;"><br>
+
+A multi-instrumentalist whose musical journey began at age five —earned by proving she could read— __Sadie__ has spent three decades in the classical world. Sadie started focusing on the French horn at the age of 13, and went on to study with Brad Gemeinhardt (Metropolitan Opera, principal) in NYC while at Columbia University. After performing horn professionally in numerous orchestral and chamber settings, Sadie still sings and plays recreationally with local bands and orchestras while pursuing a career in software. She has recently been learning the bass to anchor the sound of __Duoet__, a small jazz collaboration.
 
 <img class="wgly" src="/stylings/PrintedPaper_line-3_3.png" alt="wgly">
 
