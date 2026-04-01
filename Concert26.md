@@ -122,3 +122,31 @@ He lives in Denver, CO and is actively engaged in both performance and teaching 
 [Aidan Wiley Lippke](https://www.gigsalad.com/aidan_wiley_lippke_-_classical_guitar_denver) is an award-winning classical guitarist who has earned prizes at the Indiana University Classical Guitar Festival, Appalachian State Guitar Festival, and Domaine Forget Guitar Academy among others. He is currently pursuing an Artist Diploma at the University of Denver under Professor Jonathan Leathwood. He previously studied with René Izquierdo at the University of Wisconsin-Milwaukee and Stephen Aron at Oberlin Conservatory. He plays a 2018 Patrick Mailloux double-top guitar.
 ### Sadie Zukowski ###  
 
+<img class="wgly" src="/stylings/PrintedPaper_line-3_3.png" alt="wgly">
+
+## Professionals ##
+The Boulder Guitar Society would like to acknowledge its professional guitarist  partners who have provided inspiration, guidance, and assisted in  pursuit of excellence in all things guitar related.    Some have academic appointments, some perform locally and/or on tour regularly, some teach music, some compose or arrange music.     All have been long-standing, warm, supportive friends of BGS.
+
+> * Jim Bosse
+> * Adam Buer
+> * Chris Conery
+> * Michael DeLalla
+> * Miguel Espinoza
+> * Janet Feder
+> * Kevin Garry
+> * Alex Heffron
+> * Masakazu Ito
+> * El Javi
+> * Ben Johnson
+> * Alex Komodore
+> * Bill Kopper
+> * Ethan Lorentz
+> * Sean McGowan
+> * Felicity Muench
+> * Steve Mullins
+> * Alfredo Muro
+> * Daniel Ondaro
+> * Gabriel Santiago
+> * Nicolò Spera
+> * Sandy Taylor/Andy Hall/Cheyenne Johnson
+> * Sulaiman Zai
