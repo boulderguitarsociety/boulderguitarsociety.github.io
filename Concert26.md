@@ -69,7 +69,7 @@ All gifts are tax-deductible, as we are a registered 501(c)(3) non-profit organi
 
 ## _And please cast your vote for us:_ ##
 
->>> [![Boulder Buzz](/pics/20260404-BoulderBuzz.png)](https://bldr.fyi/BAWBldrBuzz)
+>>> [<img src="/pics/20260404-BoulderBuzz.png" alt="Boulder Buzz" style="width: 200px;">](https://bldr.fyi/BAWBldrBuzz)
 
 <img class="wgly" src="/stylings/PrintedPaper_line-3_3.png" alt="wgly">
 
