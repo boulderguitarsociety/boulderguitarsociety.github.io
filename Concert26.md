@@ -77,7 +77,7 @@ Performers in order of appearance ...
 
 __Daniel Palmer__ got his start - as many guitarists do - playing rock'n'roll as a teenager.    He played in several bands and eventually found classical guitar which he's pursued with great passion for five years.     He plays several other instruments including the Middle Eastern oud.      He's developing a workshop to construct guitars.    His non-music background is in economics.
 ### Toby Gallegos ###  
-<img src="/strs/20260404a.png" alt="Toby" style="width: 120px;"><br>
+<img src="/strs/20260330a.png" alt="Toby" style="width: 120px;"><br>
 
 __Toby Gallegos__ has been involved with the Boulder Guitar Society for over 30 years, serving as its president for the last 15 years.
 
