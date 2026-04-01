@@ -67,6 +67,10 @@ All gifts are tax-deductible, as we are a registered 501(c)(3) non-profit organi
 
 >>> [![PayPal](/pics/362f7467-e8d5-4d62-bb31-81c8159459a0.jpg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JKWLNJNF42PY6)
 
+## _And please cast your vote for us:_ ##
+
+>>> [![Boulder Buzz](/pics/20260404-BoulderBuzz.png)](https://bldr.fyi/BAWBldrBuzz)
+
 <img class="wgly" src="/stylings/PrintedPaper_line-3_3.png" alt="wgly">
 
 ## Personae ##
