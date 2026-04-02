@@ -133,7 +133,7 @@ After a career at the intersection of technology and math, Mark has returned to 
 A multi-instrumentalist whose musical journey began at age five —earned by proving she could read— __Sadie__ has spent three decades in the classical world. Sadie started focusing on the French horn at the age of 13, and went on to study with Brad Gemeinhardt (Metropolitan Opera, principal) in NYC while at Columbia University. After performing horn professionally in numerous orchestral and chamber settings, Sadie still sings and plays recreationally with local bands and orchestras while pursuing a career in software. She has recently been learning the bass to anchor the sound of __Duoet__, a small jazz collaboration.
 
 ### Mark Cole ###  
-<img src="/strs/20260404c.png" alt="MarkC" style="width: 120px;"><br>
+<img src="/strs/20260404c.jpg" alt="MarkC" style="width: 120px;"><br>
 
 __Mark Cole__ isn't performing today but he's the one who made all these performances possible! The whole idea and execution of the All-Stars Concert came from Mark.  He's the creator, producer, director and cat herder that made this show a reality.  Mark has been a player at our Open Stage Education segments and enjoys playing his own arrangements of songs everyone recognizes.  He's a model for starting with the music you love, getting involved and making a better society for all of us.  __Thanks Mark!__
 
