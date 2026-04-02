@@ -135,7 +135,7 @@ A multi-instrumentalist whose musical journey began at age five —earned by pro
 ### Mark Cole ###  
 <img src="/strs/20260404c.jpg" alt="MarkC" style="width: 120px;"><br>
 
-__Mark Cole__ isn't performing today but he's the one who made all these performances possible! The whole idea and execution of the All-Stars Concert came from Mark.  He's the creator, producer, director and cat herder that made this show a reality.  Mark has been a player at our Open Stage Education segments and enjoys playing his own arrangements of songs everyone recognizes.  He's a model for starting with the music you love, getting involved and making a better society for all of us.  __Thanks Mark!__
+__Mark Cole__ isn't performing today but he's the one who made all of today's performances possible! The whole idea and execution of the All-Stars Concert came from Mark.  He's the creator, producer, director and cat herder that made this show a reality.  Mark has been a player at our Open Stage Education segments and enjoys playing his own arrangements of songs everyone recognizes.  He's a model for starting with the music you love, getting involved and making a better society for all of us.  __Thanks Mark!__
 
 <img class="wgly" src="/stylings/PrintedPaper_line-3_3.png" alt="wgly">
 
