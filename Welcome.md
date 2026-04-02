@@ -6,7 +6,7 @@ last_modified_at: 2026-03-21
 
 ## All Stars Concert: ##
 
-<p><a href="Concert26.html"><img src="/pics/IMG_7393c2.png" alt="Concert26" style="width: 200px;border: 4px solid var(--linkblue);margin-left: 80px;"></a></p>
+<p><a href="Concert26.html"><img src="/pics/IMG_7393d2.png" alt="Concert26" style="width: 200px;border: 4px solid var(--linkblue);margin-left: 80px;"></a></p>
 
 ![line](/pics/wgly-line.png)
 

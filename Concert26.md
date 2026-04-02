@@ -9,7 +9,7 @@ last_modified_at: 2026-03-23
 
 ## Coming April 4th! ##
 
-<p><img src="/pics/IMG_7393c2.png" alt="Concert26" style="margin: -30px;"></p>
+<p><img src="/pics/IMG_7393d2.png" alt="Concert26" style="margin: -30px;"></p>
 
 
 
