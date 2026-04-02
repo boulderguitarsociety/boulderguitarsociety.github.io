@@ -155,24 +155,6 @@ The Boulder Guitar Society would like to acknowledge its professional guitarist 
 > * [Ben Johnson](https://www.csupueblo.edu/profile/ben-johnson/index.html)
 > * [Alex Komodore](https://red.msudenver.edu/expert/komodore-alex/)
 > * [Bill Kopper](https://billkoppermusic.com/)
-<img class="wgly" src="/stylings/PrintedPaper_line-3_3.png" alt="wgly">
-
-## Professionals ##
-The Boulder Guitar Society would like to acknowledge its professional guitarist  partners who have provided inspiration, guidance, and assisted in  pursuit of excellence in all things guitar related.    Some have academic appointments, some perform locally and/or on tour regularly, some teach music, some compose or arrange music.     All have been long-standing, warm, supportive __Friends of BGS:__
-
-> * [Jim Bosse](https://www.youtube.com/user/jimbosseguitar)
-> * [Adam Buer](https://www.adambuer.com/)
-> * [Chris Conery](http://coneryguitars.com/Home.html)
-> * [Michael DeLalla](https://www.fallingmountain.com/)
-> * [Miguel Espinoza](https://www.facebook.com/miguelespinozafusion/)
-> * [Janet Feder](http://janetfeder.com/)
-> * [Kevin Garry](https://kevingarry.com/)
-> * [Alex Heffron](https://www.alexheffronmusic.com/)
-> * [Masakazu Ito](https://hass.mines.edu/project/ito-masakazu/)
-> * [El Javi](https://eljavi.com/)
-> * [Ben Johnson](https://www.csupueblo.edu/profile/ben-johnson/index.html)
-> * [Alex Komodore](https://red.msudenver.edu/expert/komodore-alex/)
-> * [Bill Kopper](https://billkoppermusic.com/)
 > * [Ethan Lorentz](https://ethanlorentz.com/home)
 > * [Sean McGowan](https://seanmcgowanguitar.com/)
 > * [Felicity Muench](https://www.felicityguitar.com/)
