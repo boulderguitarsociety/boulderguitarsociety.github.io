@@ -135,28 +135,28 @@ A multi-instrumentalist whose musical journey began at age five —earned by pro
 <img class="wgly" src="/stylings/PrintedPaper_line-3_3.png" alt="wgly">
 
 ## Professionals ##
-The Boulder Guitar Society would like to acknowledge its professional guitarist  partners who have provided inspiration, guidance, and assisted in  pursuit of excellence in all things guitar related.    Some have academic appointments, some perform locally and/or on tour regularly, some teach music, some compose or arrange music.     All have been long-standing, warm, supportive friends of BGS.
+The Boulder Guitar Society would like to acknowledge its professional guitarist  partners who have provided inspiration, guidance, and assisted in  pursuit of excellence in all things guitar related.    Some have academic appointments, some perform locally and/or on tour regularly, some teach music, some compose or arrange music.     All have been long-standing, warm, supportive __Friends of BGS:__
 
-> * Jim Bosse
-> * Adam Buer
-> * Chris Conery
-> * Michael DeLalla
-> * Miguel Espinoza
-> * Janet Feder
-> * Kevin Garry
-> * Alex Heffron
-> * Masakazu Ito
-> * El Javi
-> * Ben Johnson
-> * Alex Komodore
-> * Bill Kopper
-> * Ethan Lorentz
-> * Sean McGowan
-> * Felicity Muench
-> * Steve Mullins
-> * Alfredo Muro
-> * Daniel Ondaro
-> * Gabriel Santiago
-> * Nicolò Spera
-> * Sandy Taylor/Andy Hall/Cheyenne Johnson
-> * Sulaiman Zai
+> * [Jim Bosse](https://www.youtube.com/user/jimbosseguitar)
+> * [Adam Buer](https://www.adambuer.com/)
+> * [Chris Conery](http://coneryguitars.com/Home.html)
+> * [Michael DeLalla](https://www.fallingmountain.com/)
+> * [Miguel Espinoza](https://www.facebook.com/miguelespinozafusion/)
+> * [Janet Feder](http://janetfeder.com/)
+> * [Kevin Garry](https://kevingarry.com/)
+> * [Alex Heffron](https://www.alexheffronmusic.com/)
+> * [Masakazu Ito](https://hass.mines.edu/project/ito-masakazu/)
+> * [El Javi](https://eljavi.com/)
+> * [Ben Johnson](https://www.csupueblo.edu/profile/ben-johnson/index.html)
+> * [Alex Komodore](https://red.msudenver.edu/expert/komodore-alex/)
+> * [Bill Kopper](https://billkoppermusic.com/)
+> * [Ethan Lorentz](https://ethanlorentz.com/home)
+> * [Sean McGowan](https://seanmcgowanguitar.com/)
+> * [Felicity Muench](https://www.felicityguitar.com/)
+> * [Steve Mullins](https://stevemullinsmusic.com/)
+> * [Alfredo Muro](https://alfredomuro.com/)
+> * [Daniel Ondaro](https://danielondaro.com/)
+> * [Gabriel Santiago](https://www.gabrielsantiagoproject.com/)
+> * [Nicolò Spera](https://www.colorado.edu/music/nicolo-spera)
+> * [Sandy Taylor](https://achildssong.org/)
+> * [Sulaiman Zai](https://sulaimanzai.weebly.com/)
