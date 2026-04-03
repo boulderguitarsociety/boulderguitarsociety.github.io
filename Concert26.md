@@ -95,7 +95,7 @@ Toby is an almost semi-retired business coach and tax advisor. He and Liane, his
 
 [Martin Ters](https://www.tersdds.com/about) is one of the founding members of the Boulder Guitar Society and for many years also attended meetings of the Denver Society. He has played guitar since the age of 10, and his life has been deeply connected with guitar playing, building, and repairing. Over the years, he has studied with teachers including Felicity Muench, Masa Ito, Ricardo Iznaola, Alfredo Muro, and currently Sulaiman Zai.
 
-In 2005, Martin met the Czech composer, guitarist, and professor Milan Tesar of the Jaroslav Ježek Music Conservatory in Prague. Through frequent visits to Prague, the two often played music together and became friends. Martin brought many of Milan’s guitar pieces back to Denver and Boulder, and tonight he will share them with you, along with some history of Milan’s life and his influence on guitar music.
+In 2005, Martin met the Czech composer, guitarist, and professor Milan Tesar of the Jaroslav Ježek Music Conservatory in Prague. Through frequent visits to Prague, the two often played music together and became friends. Martin brought many of Milan’s guitar pieces back to Denver and Boulder.
 
 Martin remains active in the music scene, performing occasional recitals in local libraries, senior centers, and at guitar societies.
 ### Ludo Michaud ###
