@@ -2,12 +2,12 @@
 layout: common
 title: All Stars Concert
 description: >-
-  Announces the April 4th, 2026 free BGS concert.  Describes ways to donate
+  Describes the April 4th, 2026 free BGS concert.  Shows ways to donate
   via PayPal or by personal check.  All gifts are tax-deductible.
-last_modified_at: 2026-03-23
+last_modified_at: 2026-04-13
 ---
 
-## Today, April 4th! ##
+## April 4th, 2026 ##
 
 <p><img src="/pics/IMG_7393e2.png" alt="Concert26" style="margin: -30px;"></p>
 
