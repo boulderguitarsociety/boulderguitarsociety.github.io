@@ -17,6 +17,9 @@ last_modified_at: 2026-05-14
 
 [Dominick](https://linktr.ee/dantonellimusic) is prepping for his first national tour and feels it is an opportunity to share hope and inspiration. He utilizes the guitar to create inspiring, healing, and contemplative experiences with acoustic instrumentals, heartfelt lyrics, and storytelling. Currently he is studying Music and Recording Arts at FRCC which is taking his creativity, workflow, and possibilities to new depths. He has performed in Thailand, Costa Rica, and the US, as well as in yoga classes and workshops where he uses live music, meditation, group energy healing and writing into one experience. 
 
+![Dominik Antonelli](/pics/20260427-damoves.jpg)
+Dominik playing "Only Road Home"
+
 ![line](/pics/wgly-line.png)
 
 #### Open Stage Education Time: ####
