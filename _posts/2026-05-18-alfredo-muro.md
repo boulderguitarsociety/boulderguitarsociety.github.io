@@ -30,7 +30,7 @@ Program:
 > 1. _Canto de Xango_ by Baden Powell
 > 1. (encore) _Adiós Nonino_ by Ástor Piazzolla
 
-<img src="/pics/20260518-AlfredoCharango.png" alt="Alfredo playing charango" style="width: 300px;margin-left: 40px;">
+<img src="/pics/20260518-AlfredoCharango.png" alt="Alfredo playing charango" style="width: 300px;margin-left: 40px;"><br>
 Alfredo playing the Peruvian charango that JeffO restored.
 
 ![line](/pics/wgly-line.png)
