@@ -25,7 +25,7 @@ Program:
 > 1. _Valsa Sem Nome_ by Baden Powell
 > 1. _Odeon_ a tango by Ernesto Nazareth
 > 1. _Torija, Elegía_ by Federico Moreno Torroba
-> 1. [_Fantasia_](https://www.youtube.com/watch?v=RMEpSOOxggk) from Suite Andaluz by Celedonio Romero
+> 1. [_Fantasia_](https://www.youtube.com/watch?v=RMEpSOOxggk) from Suite Andaluza by Celedonio Romero
 > 1. _Burgalesa_ by Federico Moreno Torroba
 > 1. _Canto de Xango_ by Baden Powell
 > 1. (encore) _Adiós Nonino_ by Ástor Piazzolla
