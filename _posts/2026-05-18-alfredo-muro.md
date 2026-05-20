@@ -30,7 +30,8 @@ Alfredo playing the Peruvian charango that JeffO restored.
    - Sulaiman Zai: [Alaskan Blue](https://www.youtube.com/watch?v=FoJeMWfy3RM)
    - Bach: [Lute Prelude](https://www.youtube.com/watch?v=erd2mQs6KxM)
 * MarkL
-   - Jobim and Mendonça: <ins>Incerteza</ins> (I Always Knew) in [The Brazilian Masters](https://www.scribd.com/document/91844078/Brian-Hodel-the-Brazilian-Masters) by Brian Hodel
+   - Jobim and Mendonça: <ins>Incerteza</ins> (I Always Knew)  
+   in [The Brazilian Masters](https://www.scribd.com/document/91844078/Brian-Hodel-the-Brazilian-Masters) by Brian Hodel
    - Agustín Barrios Mangoré: [Oración por Todos](https://www.youtube.com/watch?v=PdIxBBgTba4&t=2s)
 * TomM 
    - Traditional: [Sallow Brown](https://www.youtube.com/watch?v=bucaRiiCXWc) arr. Tony McManus
