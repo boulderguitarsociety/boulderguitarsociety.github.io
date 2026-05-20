@@ -17,8 +17,8 @@ last_modified_at: 2026-05-19
 
 From intimate recitals to packed concert halls and each time the music rises from where he sits and extends his embrace to those in attendance. It bows to our inner dancer, extends its hand and draws us under its spell. Sometime later the audience awakens to their own thundering applause, wondering how their hearts can be so full and the smiles so wide. This is how it’s supposed to be.
 
-![Alfredo playing charango](/pics/20260518-AlfredoCharango.png)
-Alfredo playing the Peruvian charango that Jeff restored.
+![Alfredo playing charango](/pics/20260518-AlfredoCharango.png)  
+Alfredo playing the Peruvian charango that JeffO restored.
 
 ![line](/pics/wgly-line.png)
 
@@ -30,7 +30,7 @@ Alfredo playing the Peruvian charango that Jeff restored.
    - Sulaiman Zai: [Alaskan Blue](https://www.youtube.com/watch?v=FoJeMWfy3RM)
    - Bach: [Lute Prelude](https://www.youtube.com/watch?v=erd2mQs6KxM)
 * MarkL
-   - Jobim and Mendonça: Incerteza (I Always Knew) in [The Brazilian Masters](https://www.scribd.com/document/91844078/Brian-Hodel-the-Brazilian-Masters) by Brian Hodel
+   - Jobim and Mendonça: <ins>Incerteza</ins> (I Always Knew) in [The Brazilian Masters](https://www.scribd.com/document/91844078/Brian-Hodel-the-Brazilian-Masters) by Brian Hodel
    - Agustín Barrios Mangoré: [Oración por Todos](https://www.youtube.com/watch?v=PdIxBBgTba4&t=2s)
 * TomM 
    - Traditional: [Sallow Brown](https://www.youtube.com/watch?v=bucaRiiCXWc) arr. Tony McManus
