@@ -1,7 +1,7 @@
 ---
 layout: an-event
 title: "Alfredo Muro"
-brief: "From Duende to Alma Latina"
+brief: "Sambas, tangos and waltzes from South America"
 tags:
 - Alfredo Muro
 - Muro, Alfredo
