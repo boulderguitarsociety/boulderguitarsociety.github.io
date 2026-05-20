@@ -17,7 +17,20 @@ last_modified_at: 2026-05-19
 
 From intimate recitals to packed concert halls and each time the music rises from where he sits and extends his embrace to those in attendance. It bows to our inner dancer, extends its hand and draws us under its spell. Sometime later the audience awakens to their own thundering applause, wondering how their hearts can be so full and the smiles so wide. This is how it’s supposed to be.
 
-![Alfredo playing charango](/pics/20260518-AlfredoCharango.png)  
+Program:
+> 1. _Las Golondrinas_ (The Sparrows) a litorânean samba
+> 1. _Gostosinho_ (Tasty)
+> 1. _Das Rosas_ by Dorival Caymmi
+> 1. _O Astronauta_ by Baden Powell
+> 1. _Valsa Sem Nome_ by Baden Powell
+> 1. _Odeon_ a tango by Ernesto Nazareth
+> 1. _Torija, Elegía_ by Federico Moreno Torroba
+> 1. [_Fantasia_](https://www.youtube.com/watch?v=RMEpSOOxggk) from Suite Andaluz by Celedonio Romero
+> 1. _Burgalesa_ by Federico Moreno Torroba
+> 1. _Canto de Xango_ by Baden Powell
+> 1. (encore) _Adiós Nonino_ by Ástor Piazzolla
+
+<img src="/pics/20260518-AlfredoCharango.png" alt="Alfredo playing charango" style="width: 300px;margin-left: 40px;">
 Alfredo playing the Peruvian charango that JeffO restored.
 
 ![line](/pics/wgly-line.png)
@@ -34,6 +47,6 @@ Alfredo playing the Peruvian charango that JeffO restored.
    in [The Brazilian Masters](https://www.scribd.com/document/91844078/Brian-Hodel-the-Brazilian-Masters) by Brian Hodel
    - Agustín Barrios Mangoré: [Oración por Todos](https://www.youtube.com/watch?v=PdIxBBgTba4&t=2s)
 * TomM 
-   - Traditional: [Sallow Brown](https://www.youtube.com/watch?v=bucaRiiCXWc) arr. Tony McManus
+   - Traditional: [Shallow Brown](https://www.youtube.com/watch?v=bucaRiiCXWc) arr. Tony McManus
    - Morris: [Chances at the Rio](https://www.youtube.com/watch?v=oj978hqsigc)
 
