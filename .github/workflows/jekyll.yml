@@ -16,7 +16,6 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  # This environment variable forces the runner engine to unblock the step execution
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
 
 jobs:
@@ -26,11 +25,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # Using the official ruby/setup-ruby ensures bundle is added to your PATH
       - name: Setup Ruby
-        uses: actions/setup-ruby@v1
+        uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2' 
-          bundler-cache: true
+          bundler-cache: true # Installs your Gemfile automatically and securely
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -43,7 +43,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
-  deploy:
+deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
