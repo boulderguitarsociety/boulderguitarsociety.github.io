@@ -9,7 +9,7 @@ tags:
 - MartinT
 - MarkL
 - TomM
-last_modified_at: 2026-05-19
+last_modified_at: 2026-07-03
 ---
 ![Alfredo Muro](/pics/20260518-AlfredoMuro.png)
 
@@ -45,7 +45,7 @@ Alfredo playing the Peruvian charango that JeffO restored.
 * MarkL
    - Jobim and Mendonça: <ins>Incerteza</ins> (I Always Knew)  
    in [The Brazilian Masters](https://www.scribd.com/document/91844078/Brian-Hodel-the-Brazilian-Masters) by Brian Hodel
-   - Agustín Barrios Mangoré: [Oración por Todos](https://www.youtube.com/watch?v=PdIxBBgTba4&t=2s)
+   - Agustín Barrios Mangoré: [Oración](https://www.youtube.com/watch?v=l0OYPVe3Dk4)
 * TomM 
    - Traditional: [Shallow Brown](https://www.youtube.com/watch?v=bucaRiiCXWc) arr. Tony McManus
    - Morris: [Chances at the Rio](https://www.youtube.com/watch?v=oj978hqsigc)
