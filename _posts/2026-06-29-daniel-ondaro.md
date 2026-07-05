@@ -40,7 +40,7 @@ Program:
 * LudoM played the first and second movements from ...
    - Joaquín Turina: [Sonata para guitarra, Op.61](https://www.youtube.com/watch?v=oOyL8D2hZPY)
 * JeffO
-   - showed his recent GFA poster for Symposium for Guitar Scholars:<br>_Fretboard Exercises for the Mind: the New Pedagogy of Melodic Sightreading_
+   - showed his recent GFA poster from Symposium for Guitar Scholars:<br>_Fretboard Exercises for the Mind: the New Pedagogy of Melodic Sightreading_
 * TobyG
    - John Cage: [4'33"](https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3)
 
