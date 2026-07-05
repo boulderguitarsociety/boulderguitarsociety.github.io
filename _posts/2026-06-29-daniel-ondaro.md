@@ -16,7 +16,7 @@ last_modified_at: 2026-07-04
 
 Guitarist [Daniel Ondaro]() graduated from CU Boulder's college of music in 2008 and has played professionally ever since. In 2012 he moved to Berlin, Germany where he worked with a variety of musical acts as a sideman and lead guitar-vocalist. In 2016 he began working as a soloist on cruise ships and has since visited over 100 countries and all seven continents all while performing a request driven show six nights a week. He is currently based in Denver and performs throughout Colorado.
 
-For playing songs by request Daniel keeps 1450 lead sheets and arrangements on his iPad.  He strongly recommends the book [Acoustic Pop Guitar](https://www.amazon.com/Langer-M-Acoustic-Pop-Guitar/dp/3934958125) by Michael Langer, even though the text is all in German.
+For playing songs by request, Daniel keeps 1450 lead sheets and arrangements on his iPad.  He strongly recommends the book [Acoustic Pop Guitar](https://www.amazon.com/Langer-M-Acoustic-Pop-Guitar/dp/3934958125) by Michael Langer, even though the text is all in German.
 
 Program:
 > 1. _Cavatina_ 
@@ -40,7 +40,7 @@ Program:
 * LudoM played the first and second movements from ...
    - Joaquín Turina: [Sonata para guitarra, Op.61](https://www.youtube.com/watch?v=oOyL8D2hZPY)
 * JeffO
-   - showed his GFA poster for Symposium for Guitar Scholars: _Fretboard Exercises for the Mind: the New Pedagogy of Melodic Sightreading_
+   - showed his recent GFA poster for Symposium for Guitar Scholars:<br>_Fretboard Exercises for the Mind: the New Pedagogy of Melodic Sightreading_
 * TobyG
    - John Cage: [4'33"](https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3)
 
