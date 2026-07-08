@@ -4,12 +4,13 @@ title: Events
 description: >-
   Shows current events including planned upcoming events, our latest event and
   three recent events.  Mentions the Memories and Stars pages for more events.
-last_modified_at: 2026-05-20
+last_modified_at: 2026-07-08
 ---
 
-* June 29 - Daniel Ondaro
-* July 27 - Benny Goldberg
+* Jul 27 - Karin and Adam Buer
 * Aug 31 - Bob and Eri McAuley
+* Sep 28 - Michael DeLalla
 * Oct 26 - Ethan Lorentz
 * Nov 30 - Melda Turunçoğlu
+* Jan 25 - Benny Goldberg
 * Apr 26 - Rob Chirico
