@@ -10,11 +10,11 @@ tags:
 - LudoM
 - JeffO
 - TobyG
-last_modified_at: 2026-07-04
+last_modified_at: 2026-07-08
 ---
 ![Daniel Ondaro](/pics/20260629-DanielOndaro.jpg)
 
-Guitarist [Daniel Ondaro]() graduated from CU Boulder's college of music in 2008 and has played professionally ever since. In 2012 he moved to Berlin, Germany where he worked with a variety of musical acts as a sideman and lead guitar-vocalist. In 2016 he began working as a soloist on cruise ships and has since visited over 100 countries and all seven continents all while performing a request driven show six nights a week. He is currently based in Denver and performs throughout Colorado.
+Guitarist [Daniel Ondaro](https://danielondaro.com/) graduated from CU Boulder's college of music in 2008 and has played professionally ever since. In 2012 he moved to Berlin, Germany where he worked with a variety of musical acts as a sideman and lead guitar-vocalist. In 2016 he began working as a soloist on cruise ships and has since visited over 100 countries and all seven continents all while performing a request driven show six nights a week. He is currently based in Denver and performs throughout Colorado.
 
 For playing songs by request, Daniel keeps 1450 lead sheets and arrangements on his iPad.  He strongly recommends the book [Acoustic Pop Guitar](https://www.amazon.com/Langer-M-Acoustic-Pop-Guitar/dp/3934958125) by Michael Langer, even though the text is all in German.
 
