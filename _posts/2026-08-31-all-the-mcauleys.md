@@ -26,13 +26,21 @@ was born in Saskatchewan, raised in Manitoba, worked in Alberta and retired in C
 
 [**Eri McAuley**](https://www.youtube.com/channel/UCgrlZbwKagoyYiGpX_ZWVYA/videos)
 is from Japan, where she began guitar studies as a child and resumed in Calgary, Alberta. She and Bob both belonged to the 
-[Classical Guitar Society of Calgary](https://www.classicalguitarsocietyofcalgary.com/), which is how they met.  Their kids, **Grace (10) and Keith(9)**, have picked up the guitar making _The McAuleys_ a guitar quartet.  Bob and Eri now run the
+[Classical Guitar Society of Calgary](https://www.classicalguitarsocietyofcalgary.com/), which is how they met.  Their kids, **Grace (10) and Keith(9)**, have picked up the guitar, making _The McAuleys_ a guitar quartet.  Bob and Eri now run the
 [Denver Classical Guitar Society](https://denvercgs.com/).
 
 [**Masae Yonaiyam**](https://www.youtube.com/channel/UCLEVvmZW8eVmS3PNVqUFL2w)
 plays koto in Denver and is a fixture at the annual
 [Denver Cherry Blosson Festival](https://cherryblossomdenver.org/entertainment/).  She also is a respected translator, serving as administrator of the Japanese Language Division of the American Translators Association, and has been instrumental in relocating Afghan interpreters.
 
+![Masae](/pics/20260831a-Masae.jpg)
+![koto score](/pics/20260831b-KotoScore.jpg)
+![koto duet](/pics/20260831c-KotoDuet.jpg)
+![guitar koto duet](/pics/20260831d-GuitarKoto.jpg)
+![shamisen](/pics/20260831e-Shamisen.jpg)
+![guitar quartet](/pics/20260831f-Quartet.jpg)
+![Keith](/pics/20260831g-Keith.jpg)
+![Bob](/pics/20260831h-Bob.jpg)
 
 
 ![line](/pics/wgly-line.png)
