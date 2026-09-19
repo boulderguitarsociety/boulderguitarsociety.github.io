@@ -33,7 +33,7 @@ is from Japan, where she began guitar studies as a child and resumed in Calgary,
 plays koto in Denver and is a fixture at the annual
 [Denver Cherry Blosson Festival](https://cherryblossomdenver.org/entertainment/).  She also is a respected translator, serving as administrator of the Japanese Language Division of the American Translators Association, and has been instrumental in relocating Afghan interpreters.  
 
-<div style="float: left; margin-right: 10px;">
+<div style="float: left; margin-right: 10px; margin-left: 20px;">
 <img src="/pics/20260831a-Masae.jpg" alt="Masae" style="height: 140px;">
 <img src="/pics/20260831b-KotoScore.jpg" alt="koto score" style="height: 140px;">
 </div>
@@ -44,18 +44,23 @@ Eri and Masae played Hiuyaku.  See the video.
 
 <img src="/pics/20260831d-GuitarKoto.jpg" alt="guitar koto duet" style="width: 280px; float: left; margin-right: 10px;">
 Next, in a rare guitar-koto arrangement they played Danny Boy.  See the video.  
+<br clear="all">
 
 <img src="/pics/20260831e-Shamisen.jpg" alt="shamisen" style="width: 280px; float: left; margin-right: 10px;">
 Eri then played two pieces on the shamisen.  
+<br clear="all">
 
 ![guitar quartet](/pics/20260831f-Quartet.jpg)
 The whole family played two pieces together: _Costa Brava_ and _Earth Song_.  
+<br clear="all">
 
 <img src="/pics/20260831g-Keith.jpg" alt="Keith" style="width: 280px; float: left; margin-right: 10px;">
 Keith played a Bourree attributed to Leopold Mozart but likely by Bach.  
+<br clear="all">
 
 <img src="/pics/20260831h-Bob.jpg" alt="Bob" style="width: 280px; float: left; margin-right: 10px;">
 Bob played three sets: (1) Sor's Opus 9 _Variations on a Theme by Mozart_, (2) Bach's _Gavotte_ from Cello Suite 6 joined with a sonata by Domenico Cimarosa, and (3) _Torija_ by Moreno Torroba.
+<br clear="all">
 
 
 ![line](/pics/wgly-line.png)
