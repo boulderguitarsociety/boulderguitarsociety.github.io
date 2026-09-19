@@ -38,11 +38,13 @@ plays koto in Denver and is a fixture at the annual
 <img src="/pics/20260831b-KotoScore.jpg" alt="koto score" style="height: 140px;">
 </div>
 Masae began with an introduction to the koto.  The music tells which string(s) to pluck and is read in columns from top-to-bottom and right to left.  
+<br clear="all">
 
 
 ![koto duet](/pics/20260831c-KotoDuet.jpg)
 Eri and Masae played Hiuyaku.  See the video.  
 
+&nbsp;
 
 <img src="/pics/20260831d-GuitarKoto.jpg" alt="guitar koto duet" style="width: 280px; float: left; margin-right: 10px;">
 Next, in a rare guitar-koto arrangement they played Danny Boy.  See the video.  
