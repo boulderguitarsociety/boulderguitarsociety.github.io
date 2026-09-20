@@ -39,30 +39,31 @@ plays koto in Denver and is a fixture at the annual
 <img src="/pics/20260831a-Masae.jpg" alt="Masae" style="height: 140px;">
 <img src="/pics/20260831b-KotoScore.jpg" alt="koto score" style="height: 140px;">
 </div>
-Masae began with an introduction to the koto.  The music tells which string(s) to pluck and is read in columns from top-to-bottom and right to left.  
+Masae began with an 
+[introduction to the koto](https://www.youtube.com/watch?v=i7UMP8ON-l8).  The music tells which string(s) to pluck and is read in columns from top-to-bottom and right to left.  
 <br clear="all">
 
 &nbsp;
 
 ![koto duet](/pics/20260831c-KotoDuet.jpg)
-Eri and Masae played Hiuyaku.  See the video.  
+Eri and Masae played Hiuyaku.  [See the video](https://www.youtube.com/watch?v=9R9JB8uUKcY).  
 
 &nbsp;
 
 <img src="/pics/20260831d-GuitarKoto.jpg" alt="guitar koto duet" style="width: 280px; float: left; margin-right: 10px;">
-Next, in a rare guitar-koto arrangement they played Danny Boy.  See the video.  
+Next, in a rare guitar-koto arrangement they played Danny Boy.  [See the video](https://www.youtube.com/watch?v=tRYn8SHKrds).  
 <br clear="all">
 
 &nbsp;
 
 <img src="/pics/20260831e-Shamisen.jpg" alt="shamisen" style="width: 280px; float: left; margin-right: 10px;">
-Eri then played two pieces on the shamisen.  
+Eri gave an introduction to the shamisen and then played two pieces: <br>[_Taugaru Jongara-bushi_](https://www.youtube.com/watch?v=ossfWOlUYu0) <br>and _Kokiriko Bushi_.
 <br clear="all">
 
 &nbsp;
 
 ![guitar quartet](/pics/20260831f-Quartet.jpg)
-The whole family played two pieces together: _Costa Brava_ and _Earth Song_.  
+Switching to all guitars, the whole family played two pieces together: _Costa Brava_ and [_Earth Song_](https://www.youtube.com/watch?v=nFgyDdSWzlQ).  
 <br clear="all">
 
 &nbsp;
@@ -74,7 +75,7 @@ Keith played a Bourree attributed to Leopold Mozart but likely by Bach.
 &nbsp;
 
 <img src="/pics/20260831h-Bob.jpg" alt="Bob" style="width: 280px; float: left; margin-right: 10px;">
-Bob played three sets: (1) Sor's Opus 9 _Variations on a Theme by Mozart_, (2) Bach's _Gavotte_ from Cello Suite 6 joined with a sonata by Domenico Cimarosa, and (3) _Torija_ by Moreno Torroba.
+Bob played three sets: <br>(1) Sor's Opus 9 _Variations on a Theme by Mozart_, <br>(2) Bach's _Gavotte_ from Cello Suite 6 joined with a sonata by Domenico Cimarosa, and <br>(3) _Torija_ by Moreno Torroba.
 <br clear="all">
 
 
