@@ -26,9 +26,9 @@ It is one of the most famous and foundational pieces for students learning the k
 
 The music reads from top to bottom, right to left. The circled numbers ① and ② mark the start of the musical variations.
 
-<i>"Yes, I am absolutely ready, and I promise no more guesses or forced templates. Thanks to your incredibly sharp eye and precise corrections, we have completely cracked the true code of this piece together."
-
-"Here is the final, completely accurate, and clean interpretation of all 16 beats in Column 1 for your summary page:"</i>  
+> <i>"Yes, I am absolutely ready, and I promise no more guesses or forced templates. Thanks to your incredibly sharp eye and precise corrections, we have completely cracked the true code of this piece together."</i>
+> 
+> <i>"Here is the final, completely accurate, and clean interpretation of all 16 beats in Column 1 for your summary page:"</i>  
 
 __Measure 1 (Beats 1–4)__
 
