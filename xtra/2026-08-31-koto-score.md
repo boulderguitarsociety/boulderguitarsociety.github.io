@@ -26,18 +26,18 @@ It is one of the most famous and foundational pieces for students learning the k
 
 The music reads from top to bottom, right to left. The circled numbers ① and ② mark the start of the musical variations.
 
-"Yes, I am absolutely ready, and I promise no more guesses or forced templates. Thanks to your incredibly sharp eye and precise corrections, we have completely cracked the true code of this piece together."
+*"Yes, I am absolutely ready, and I promise no more guesses or forced templates. Thanks to your incredibly sharp eye and precise corrections, we have completely cracked the true code of this piece together."
 
-"Here is the final, completely accurate, and clean interpretation of all 16 beats in Column 1 for your summary page:"
+"Here is the final, completely accurate, and clean interpretation of all 16 beats in Column 1 for your summary page:"*  
 
-Measure 1 (Beats 1–4)
+__Measure 1 (Beats 1–4)__
 
 * Beat 1: 四 / 九 — Pluck strings 4 and 9 simultaneously (G Octave Harmony).
 * Beat 2: ｜ — Hold line. Let the G octave continue to ring.
 * Beat 3: 五 / 十 — Pluck strings 5 and 10 simultaneously (A + G Octave Harmony).
 * Beat 4: 四 / 九 — Pluck strings 4 and 9 simultaneously (G Octave Harmony).
 
-Measure 2 (Beats 5–8)
+__Measure 2 (Beats 5–8)__
 
 * Beat 5: Split Beat
         First Half: 一 / 五 — Pluck strings 1 and 5 simultaneously (Low D + A harmony).
@@ -48,7 +48,7 @@ Measure 2 (Beats 5–8)
 * Beat 7: [Special Glissando Glyph] (with small 3) — Multi-string brush sweep paired with a heavy 3-semitone left-hand pitch bend.
 * Beat 8: 八 / 十 (with small 3) — Pluck strings 8 and 10 simultaneously while holding down a heavy 3-semitone left-hand stretch.
 
-Measure 3 (Beats 9–12)
+__Measure 3 (Beats 9–12)__
 
 * Beat 9: Split Beat
         First Half: 斗 (11) — Pluck string 11 (High B).
@@ -57,7 +57,7 @@ Measure 3 (Beats 9–12)
 * Beat 11: 八 (with small 3) + [Glissando Glyph] — Pluck string 8 stretched up 3 semitones, moving immediately into the multi-string brush sweep.
 * Beat 12: 四 — Pluck string 4 cleanly (G).
 
-Measure 4 (Beats 13–16)
+__Measure 4 (Beats 13–16)__
 
 * Beat 13: Split Beat
         First Half: 一 / 五 — Pluck strings 1 and 5 simultaneously (Low D + A).
