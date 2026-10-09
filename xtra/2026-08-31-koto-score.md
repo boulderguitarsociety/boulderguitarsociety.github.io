@@ -3,7 +3,7 @@ layout: common
 title: "Reading Koto Music"
 description: >-
   Help from Google AI on reading music notation for koto.
-last_modified_at: 2026-10-02
+last_modified_at: 2026-10-08
 ---
 
 ## How Google AI Interprets This Koto Score ##
@@ -13,6 +13,15 @@ last_modified_at: 2026-10-02
 This is a wonderful sheet music score! The piece shown in your photo is 数え唄変奏曲 (Kazoe-uta Hensōkyoku / Counting Song Variations), composed by the legendary koto master Michio Miyagi (宮城道雄).
 
 It is one of the most famous and foundational pieces for students learning the koto, based on a traditional Japanese children's counting melody.
+
+### Reading Koto Music Notation ###
+* Traditional koto music notation uses vertical columns of Japanese characters and numbers to indicate which strings to pluck, paired with special symbols for rhythm and playing techniques.
+
+* Strings 1-10 are notated using traditional kanji numbers from one to ten (__一, 二, 三, 四, 五, 六, 七, 八, 九, 十__). 
+
+* Strings 11-13 use special single-character kanji symbols (__斗, 為, 巾__) instead of kanji numbers.
+
+* Orientation: String 1 is the lowest pitch and farthest from the player.  String 13 is highest and closest.
 
 ### Key Information from the Title Section (Right Column) ###
 
