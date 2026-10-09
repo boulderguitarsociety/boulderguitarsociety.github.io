@@ -22,16 +22,15 @@ last_modified_at: 2026-09-17
 ![The McAuleys](/pics/20260831-AllTheMcAuleys.jpg)
 
 [__Bob McAuley__](https://www.linkedin.com/in/bob-mcauley-b76778106)
-was born in Saskatchewan, raised in Manitoba, worked in Alberta and retired in Colorado. He started classical guitar in his his teens and has pursued it with as much enthusiasm as time and circumstance allowed during his career as a petroleum geologist and stay-at-home dad. 
+was born in Saskatchewan, raised in Manitoba, worked in Alberta and retired in Colorado. He started classical guitar in his his teens and has pursued it with as much enthusiasm as time and circumstance allowed during his career as a petroleum geologist and stay-at-home dad.  Bob and Eri now run the
+[Denver Classical Guitar Society](https://denvercgs.com/). 
+Their kids, __Grace (10) and Keith(9)__, have picked up the guitar, making _The McAuleys_ into a guitar quartet.
 
 [__Eri McAuley__](https://www.youtube.com/channel/UCgrlZbwKagoyYiGpX_ZWVYA/videos)
-is from Japan, where she began guitar studies as a child and resumed in Calgary, Alberta. She and Bob both belonged to the 
-[Classical Guitar Society of Calgary](https://www.classicalguitarsocietyofcalgary.com/), which is how they met.  Their kids, __Grace (10) and Keith(9)__, have picked up the guitar, making _The McAuleys_ a guitar quartet.  Bob and Eri now run the
-[Denver Classical Guitar Society](https://denvercgs.com/).
+is a multi-instrumentalist on classical and acoustic guitar, ukulele, and traditional Japanese instruments including Koto and Tsugaru-shamisen.  Originally from Japan but living in Canada until 2022, she explores both both traditional Japanese music and its connections with contemporary musical styles.  She particularly enjoys creating her own arrangements and adapting music for guitar and mixed-instrument ensembles.  Now in Colorado, Eri continues to develop her musicianship alongside her career as a technical interpreter in the machinery industry.  
 
 [__Masae Yonaiyama__](https://www.youtube.com/channel/UCLEVvmZW8eVmS3PNVqUFL2w)
-plays koto in Denver and is a fixture at the annual
-[Denver Cherry Blosson Festival](https://cherryblossomdenver.org/entertainment/).  She also is a respected translator, serving as administrator of the Japanese Language Division of the American Translators Association, and has been instrumental in relocating Afghan interpreters.  
+was raised on the Koto.  Her mother in Japan was a grandmaster and Masae's four children also play Koto.  Her greatest memories are when together they performed three-generation Koto concerts at University of Lethbridge, Alberta, Canada and Brigham Young University, Provo, Utah. She moved to the states 31 years ago and continues to share her Japanese musical tradition while exploring opportunities for Asian-Western music fusion.  
 
 &nbsp;
 
@@ -40,7 +39,7 @@ plays koto in Denver and is a fixture at the annual
 <img src="/pics/20260831b-KotoScore.jpg" alt="koto score" style="height: 140px;">
 </div>
 Masae began with an 
-[introduction to the koto](https://www.youtube.com/watch?v=i7UMP8ON-l8).  The music tells which string(s) to pluck and is read in columns from top-to-bottom and right to left.  
+[introduction to the koto](https://www.youtube.com/watch?v=i7UMP8ON-l8).  The music tells which string(s) to pluck and is read in columns from top-to-bottom and right to left. [Read what AI says about this score](/xtra/2026-08-31-koto-score.html). 
 <br clear="all">
 
 &nbsp;
@@ -57,7 +56,7 @@ Next, in a rare guitar-koto arrangement they played Danny Boy.  [See the video](
 &nbsp;
 
 <img src="/pics/20260831e-Shamisen.jpg" alt="shamisen" style="width: 280px; float: left; margin-right: 10px;">
-Eri gave an introduction to the shamisen and then played two pieces: <br>[_Taugaru Jongara-bushi_](https://www.youtube.com/watch?v=ossfWOlUYu0) <br>and _Kokiriko Bushi_.
+Eri gave an introduction to the shamisen and then played two pieces: <br>[_Taugaru Jongara-bushi_](https://www.youtube.com/watch?v=ossfWOlUYu0) <br>and [_Kokiriko Bushi_](https://www.youtube.com/watch?v=35K1mdKvUic&t=8s).
 <br clear="all">
 
 &nbsp;
