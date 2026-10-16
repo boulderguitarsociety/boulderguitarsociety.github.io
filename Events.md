@@ -4,10 +4,9 @@ title: Events
 description: >-
   Shows current events including planned upcoming events, our latest event and
   three recent events.  Mentions the Memories and Stars pages for more events.
-last_modified_at: 2026-09-25
+last_modified_at: 2026-10-15
 ---
 
-* Sep 28 - Michael DeLalla
 * Oct 26 - Ethan Lorentz
 * Nov 30 - Mark Limber
 * Jan 25 - Benny Goldberg
