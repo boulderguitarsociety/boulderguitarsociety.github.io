@@ -1,6 +1,6 @@
 ---
 layout: an-event
-title: "Michael DeLalla's _Terroir_"
+title: "Michael DeLalla's <i>Terroir</i>"
 brief: "New compositions, and how they came to be."
 tags:
 - Michael DeLalla
@@ -37,6 +37,6 @@ For more information about Guitarist/composer Michael DeLalla:
    - _Bone In My Ear_
 * LudoM
    - [_Fantasia on a Theme from La Traviata_](https://www.youtube.com/watch?v=ulcviRSZHpo&t=1575s) by Francisco Tárrega
-* TobyG played and sang a sixties protest song:
-   - Crsoby Stills & Nash: _Ohio_
+* TobyG played and sang a 1970 song about the Kent State shootings:
+   - Crosby, Stills, Nash & Yong: _Ohio_
 
