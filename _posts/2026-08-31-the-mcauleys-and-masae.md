@@ -39,7 +39,7 @@ was raised on the Koto.  Her mother in Japan was a grandmaster and Masae's four 
 <img src="/pics/20260831b-KotoScore.jpg" alt="koto score" style="height: 140px;">
 </div>
 Masae began with an 
-[introduction to the koto](https://www.youtube.com/watch?v=i7UMP8ON-l8).  The music tells which string(s) to pluck and is read in columns from top-to-bottom and right to left. [Read what AI says about this score](/xtra/2026-08-31-koto-score.html). 
+[introduction to the koto](https://www.youtube.com/watch?v=i7UMP8ON-l8).  The score tells which string(s) to pluck and is read in columns from top-to-bottom and right to left. [Read what AI says about this score](/xtra/2026-08-31-koto-score.html). 
 <br clear="all">
 
 &nbsp;
