@@ -27,16 +27,16 @@ For more information about Guitarist/composer Michael DeLalla:
 * [www.facebook.com/michael.delalla](https://www.facebook.com/michael.delalla)  
 <br>
 
-* Program (all composed by Michael)
-   1. _Improv_ dedicated to Roland Dyens (who always opened with an improv)
-   1. [_Arise_](https://www.youtube.com/watch?v=PfyEexqqm5k&t=3s)
-   1. _Marche de Millersand(sp?)_ from witnessing the Tour de France
-   1. _Chief Niwot's Curse_ (miniature no. 1) a study in all possible slurs
-   1. _A Quiet Night on the Roaring Fork_ (miniature no. 2) in memory of Jane Erb
-   1. _Her Secret Crush on Vinicius_ (miniature no. 3), for Elaine and Vinicius Cantuária
-   1. [_Nana_](https://www.youtube.com/watch?v=Q7W5sp2_-Y4&t=6s) (miniature no. 4) dedicated to percussionist Nana Vasconcelos
-   1. [_Waltz for Chat-colat_](https://www.youtube.com/watch?v=PX0BAgeEeAQ) for his cat
-   1. [_Nocturnal Scenes 'Round About Midnight_](https://www.youtube.com/watch?v=VbQu1ASPit8) an homage to Britten and Monk
+Program (all composed by Michael)
+1. _Improv_ dedicated to Roland Dyens (who always opened with an improv)
+1. [_Arise_](https://www.youtube.com/watch?v=PfyEexqqm5k&t=3s)
+1. _Marche de Millersand(sp?)_ from witnessing the Tour de France
+1. _Chief Niwot's Curse_ (miniature no. 1) a study in all possible slurs
+1. _A Quiet Night on the Roaring Fork_ (miniature no. 2) in memory of Jane Erb
+1. _Her Secret Crush on Vinicius_ (miniature no. 3), for Elaine and Vinicius Cantuária
+1. [_Nana_](https://www.youtube.com/watch?v=Q7W5sp2_-Y4&t=6s) (miniature no. 4) dedicated to percussionist Nana Vasconcelos
+1. [_Waltz for Chat-colat_](https://www.youtube.com/watch?v=PX0BAgeEeAQ) for his cat
+1. [_Nocturnal Scenes 'Round About Midnight_](https://www.youtube.com/watch?v=VbQu1ASPit8) an homage to Britten and Monk
 
 
 ![line](/pics/wgly-line.png)
