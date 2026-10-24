@@ -27,16 +27,28 @@ For more information about Guitarist/composer Michael DeLalla:
 * [www.facebook.com/michael.delalla](https://www.facebook.com/michael.delalla)  
 <br>
 
+* Program (all composed by Michael)
+   1. _Improv_ dedicated to Roland Dyens (who always opened with an improv)
+   1. [_Arise_](https://www.youtube.com/watch?v=PfyEexqqm5k&t=3s)
+   1. _Marche de Millersand(sp?)_ from witnessing the Tour de France
+   1. _Chief Niwot's Curse_ (miniature no. 1) a study in all possible slurs
+   1. _A Quiet Night on the Roaring Fork_ (miniature no. 2) in memory of Jane Erb
+   1. _Her Secret Crush on Vinicius_ (miniature no. 3), for Elaine and Vinicius Cantuária
+   1. [_Nana_](https://www.youtube.com/watch?v=Q7W5sp2_-Y4&t=6s) (miniature no. 4) dedicated to percussionist Nana Vasconcelos
+   1. [_Waltz for Chat-colat_](https://www.youtube.com/watch?v=PX0BAgeEeAQ) for his cat
+   1. [_Nocturnal Scenes 'Round About Midnight_](https://www.youtube.com/watch?v=VbQu1ASPit8) an homage to Britten and Monk
+
+
 ![line](/pics/wgly-line.png)
 
 #### Open Stage Education Time: ####
 * DanielP
-   - _Take Five_
-   - _Cavatina_
-* TomM
-   - _Bone In My Ear_
+   - [_Take Five_](https://www.youtube.com/watch?v=ouyB7u3lRLI&t=1s) by Paul Desmond / Dave Brubeck Quartet (1959)
+   - [_Cavatina_](https://www.youtube.com/watch?v=mwvDon1_iKs) by Stanley Myers (1970)
+* TomM on his twelve-string
+   - [_Bone In My Ear_](https://www.youtube.com/watch?v=D2n1nhl1EQk) by Bruce Cockburn (1994)
 * LudoM
-   - [_Fantasia on a Theme from La Traviata_](https://www.youtube.com/watch?v=ulcviRSZHpo&t=1575s) by Francisco Tárrega
-* TobyG played and sang a 1970 song about the Kent State shootings:
-   - Crosby, Stills, Nash & Yong: _Ohio_
+   - [_Fantasia on a Theme from La Traviata_](https://www.youtube.com/watch?v=ulcviRSZHpo&t=1575s) by Francisco Tárrega (1888)
+* TobyG played and sang a protest song about the Kent State shootings:
+   - [_Ohio_](https://www.youtube.com/watch?v=JCS-g3HwXdc) by Crosby, Stills, Nash & Young (1970)
 
