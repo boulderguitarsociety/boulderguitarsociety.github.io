@@ -27,10 +27,17 @@ For more information about Guitarist/composer Michael DeLalla:
 * [www.facebook.com/michael.delalla](https://www.facebook.com/michael.delalla)  
 <br>
 
-Program (all composed by Michael)
+In France, _terroir_ refers to all the local environmental factors
+that influence the uniqueness of a final product, typically wine.
+Michael uses the term to reflect on all the factors that
+influence his composing that lead to the unique qualities of
+each indivdiual piece.  In tonight's program, Michael doesn't simply
+play these pieces; he tells the stories that explain how they came to be,
+so that we might understand and appreciate their _terroir_.
+
 1. _Improv_ dedicated to Roland Dyens (who always opened with an improv)
 1. [_Arise_](https://www.youtube.com/watch?v=PfyEexqqm5k&t=3s)
-1. _Marche de Millersand(sp?)_ from witnessing the Tour de France
+1. [_Le Marchais du Malaucene_](https://www.youtube.com/watch?v=SJ6NjHVEGQg&t=18s) from witnessing the Tour de France
 1. _Chief Niwot's Curse_ (miniature no. 1) a study in all possible slurs
 1. _A Quiet Night on the Roaring Fork_ (miniature no. 2) in memory of Jane Erb
 1. _Her Secret Crush on Vinicius_ (miniature no. 3), for Elaine and Vinicius Cantuária
