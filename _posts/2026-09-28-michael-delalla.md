@@ -27,7 +27,7 @@ For more information about Guitarist/composer Michael DeLalla:
 * [www.facebook.com/michael.delalla](https://www.facebook.com/michael.delalla)  
 <br>
 
-In France, _terroir_ refers to all the local environmental factors
+In France, <ins>_terroir_</ins> refers to all the local environmental factors
 that influence the uniqueness of a final product, typically wine.
 Michael uses the term to reflect on all the factors that
 influence his composing that lead to the unique qualities of
@@ -38,13 +38,14 @@ so that we might understand and appreciate their _terroir_.
 1. <ins>_Improv_</ins> dedicated to Roland Dyens (who always opened with an improv)
 1. [_Arise_](https://www.youtube.com/watch?v=PfyEexqqm5k&t=3s)
 1. [_Le Marchais du Malaucene_](https://www.youtube.com/watch?v=SJ6NjHVEGQg&t=18s) from witnessing the Tour de France
-1. <ins>_Chief Niwot's Curse_</ins> (miniature no. 1) a study in all possible slurs
+1. <ins>_Chief Niwot's Curse_</ins> (miniature no. 1) a study in all possible left hand slurs
 1. <ins>_A Quiet Night on the Roaring Fork_</ins> (miniature no. 2) in memory of Jane Erb
 1. <ins>_Her Secret Crush on Vinicius_</ins> (miniature no. 3), for Elaine and Vinicius Cantuária
 1. [_Nana_](https://www.youtube.com/watch?v=Q7W5sp2_-Y4&t=6s) (miniature no. 4) dedicated to percussionist Nana Vasconcelos
 1. [_Waltz for Chat-colat_](https://www.youtube.com/watch?v=PX0BAgeEeAQ) for his cat
 1. [_Nocturnal Scenes 'Round About Midnight_](https://www.youtube.com/watch?v=VbQu1ASPit8) an homage to Britten and Monk
 
+The four miniatures will soon be published on [Guitar Chamber Press](https://www.guitarchambermusicpress.com/).
 
 ![line](/pics/wgly-line.png)
 
