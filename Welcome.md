@@ -4,12 +4,6 @@ title: Welcome
 last_modified_at: 2026-03-21
 ---
 
-## All Stars Concert: ##
-
-<p><a href="Concert26.html"><img src="/pics/IMG_7393d2.png" alt="Concert26" style="width: 200px;border: 4px solid var(--linkblue);margin-left: 80px;"></a></p>
-
-![line](/pics/wgly-line.png)
-
 <p><img src="/pics/Welcome.png" alt="Welcome" style="width: 650px;"></p>
 
 The purpose of the Boulder Guitar Society is to foster and promote the teaching, learning, enjoyment and performance experience of guitar music with an emphasis on classical and fingerstyle guitar. The society holds monthly meetings on the last Monday of each month, held at the First United Methodist Church in Boulder. Meetings, which are open to everyone, feature lectures/presentations by area artists, mini recitals and an open forum for members to perform.
