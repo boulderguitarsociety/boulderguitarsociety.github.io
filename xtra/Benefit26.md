@@ -6,9 +6,9 @@ description: >-
 last_modified_at: 2026-10-08
 ---
 
-![Boulder Mountain Handmade](/pics/20261026-BoulderMountainHandmade.png)
+<img src="/pics/20261026-BoulderMountainHandmade.png" alt="Boulder Mountain Handmade" style="width: 600px;">
 
-# Performance Opportunity:<br>Boulder Mountain Fire District<br>Holiday Craft Fair % Music Event #
+## Performance Opportunity:<br>Boulder Mountain Fire District<br>Holiday Craft Fair & Music Event ##
 
 The all-volunteer Boulder Mountain Fire District is hosting its annual fundraiser craft fair and music event at the Elks Lodge in North Boulder (28th St), and the Boulder Guitar Society has been invited to take part!
 
@@ -17,17 +17,17 @@ Unlike a standard craft fair, this event features a dedicated listening space fo
 Here are the details for performers:
 
 
-* Dates & Times: Saturday, Nov 14 (12:00 PM – 3:00 PM). Additional time slots are available Sunday, Nov 15.
+   * Dates & Times: Saturday, Nov 14 (12:00 PM – 3:00 PM). Additional time slots are available Sunday, Nov 15.
 
-* Event Hours: 10:00 AM – 4:00 PM both days
+   * Event Hours: 10:00 AM – 4:00 PM both days
 
-* Location: Elks Lodge, 28th Street, North Boulder
+   * Location: Elks Lodge, 28th Street, North Boulder
 
-* Venue Setup: Dedicated performance stage (fits ensembles up to 7–8 players), seating for 100+ audience members, and a private tuning/green room.
+   * Venue Setup: Dedicated performance stage (fits ensembles up to 7–8 players), seating for 100+ audience members, and a private tuning/green room.
 
-* Music & Format: All genres are welcome! Solos and ensembles are both encouraged. 
+   * Music & Format: All genres are welcome! Solos and ensembles are both encouraged. 
 
-* Note: This is an unpaid, volunteer public service event supporting our local fire district, as well as a great chance to spread the word about BGS.
+   * Note: This is an unpaid, volunteer public service event supporting our local fire district, as well as a great chance to spread the word about BGS.
 
 How to Sign Up: If you'd like to perform, please contact Mark Cole ASAP with your preferred time duration. You do not need to have your specific repertoire or ensemble details finalized.
 
