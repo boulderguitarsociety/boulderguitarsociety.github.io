@@ -56,7 +56,7 @@ Next, in a rare guitar-koto arrangement they played Danny Boy.  [See the video](
 &nbsp;
 
 <img src="/pics/20260831e-Shamisen.jpg" alt="shamisen" style="width: 280px; float: left; margin-right: 10px;">
-Eri gave an introduction to the shamisen and then played two pieces: <br>[_Taugaru Jongara-bushi_](https://www.youtube.com/watch?v=ossfWOlUYu0) <br>and [_Kokiriko Bushi_](https://www.youtube.com/watch?v=35K1mdKvUic&t=8s).
+Eri gave an introduction to the shamisen and then played two pieces: <br>[_Taugaru Jongara-bushi_](https://www.youtube.com/watch?v=HrwmlrfWJVI) <br>and [_Kokiriko Bushi_](https://www.youtube.com/watch?v=35K1mdKvUic&t=8s).
 <br clear="all">
 
 &nbsp;
