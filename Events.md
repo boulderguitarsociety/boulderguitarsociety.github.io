@@ -7,7 +7,6 @@ description: >-
 last_modified_at: 2026-10-15
 ---
 
-* Oct 26 - Ethan Lorentz
 * Nov 30 - Mark Limber
 * Jan 25 - Benny Goldberg
 * Feb 22 - Gabriel Santiago
