@@ -37,7 +37,7 @@ so that we might understand and appreciate their _terroir_.
 
 1. <ins>_Improv_</ins> dedicated to Roland Dyens (who always opened with an improv)
 1. [_Arise_](https://www.youtube.com/watch?v=PfyEexqqm5k&t=3s)
-1. [_Le Marchais du Malaucene_](https://www.youtube.com/watch?v=SJ6NjHVEGQg&t=18s) from witnessing the Tour de France
+1. [_Marché du Malaucène_](https://www.youtube.com/watch?v=SJ6NjHVEGQg&t=18s) from witnessing the Tour de France
 1. <ins>_Chief Niwot's Curse_</ins> (miniature no. 1) a study in all possible left hand slurs
 1. <ins>_A Quiet Night on the Roaring Fork_</ins> (miniature no. 2) in memory of Jane Erb
 1. <ins>_Her Secret Crush on Vinicius_</ins> (miniature no. 3), for Elaine and Vinicius Cantuária
